@@ -1,0 +1,5 @@
+C:\Users\Biolab\Dropbox\Workspace\KeyboardAnalyzer\KeyboardAnalyzer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Biolab\Dropbox\Workspace\KeyboardAnalyzer\KeyboardAnalyzer\bin\Debug\KeyboardAnalyzer.exe
+C:\Users\Biolab\Dropbox\Workspace\KeyboardAnalyzer\KeyboardAnalyzer\bin\Debug\KeyboardAnalyzer.pdb
+C:\Users\Biolab\Dropbox\Workspace\KeyboardAnalyzer\KeyboardAnalyzer\obj\x86\Debug\KeyboardAnalyzer.exe
+C:\Users\Biolab\Dropbox\Workspace\KeyboardAnalyzer\KeyboardAnalyzer\obj\x86\Debug\KeyboardAnalyzer.pdb
