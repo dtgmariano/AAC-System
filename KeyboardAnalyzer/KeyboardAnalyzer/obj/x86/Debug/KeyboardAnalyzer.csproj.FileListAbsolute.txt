@@ -3,3 +3,5 @@ C:\Users\Biolab\Dropbox\Workspace\KeyboardAnalyzer\KeyboardAnalyzer\bin\Debug\Ke
 C:\Users\Biolab\Dropbox\Workspace\KeyboardAnalyzer\KeyboardAnalyzer\bin\Debug\KeyboardAnalyzer.pdb
 C:\Users\Biolab\Dropbox\Workspace\KeyboardAnalyzer\KeyboardAnalyzer\obj\x86\Debug\KeyboardAnalyzer.exe
 C:\Users\Biolab\Dropbox\Workspace\KeyboardAnalyzer\KeyboardAnalyzer\obj\x86\Debug\KeyboardAnalyzer.pdb
+C:\Users\Biolab\GitHub\AAC-System\KeyboardAnalyzer\KeyboardAnalyzer\obj\x86\Debug\KeyboardAnalyzer.exe
+C:\Users\Biolab\GitHub\AAC-System\KeyboardAnalyzer\KeyboardAnalyzer\obj\x86\Debug\KeyboardAnalyzer.pdb
