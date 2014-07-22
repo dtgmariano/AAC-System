@@ -43,13 +43,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Key.cs" />
     <Compile Include="KeyboardAnalyzer.cs" />
     <Compile Include="KeyboardCoordinates.cs" />
-    <Compile Include="..\..\KeyboardModel.cs">
-      <Link>KeyboardModel.cs</Link>
-    </Compile>
+    <Compile Include="KeyboardModel.cs" />
+    <Compile Include="LanguageDictionaryModel.cs" />
+    <Compile Include="LanguageDictionaryAnalyzer.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Word.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
