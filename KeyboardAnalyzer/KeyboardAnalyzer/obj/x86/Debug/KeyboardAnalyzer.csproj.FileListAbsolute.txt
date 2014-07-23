@@ -7,3 +7,4 @@ C:\Users\Biolab\GitHub\AAC-System\KeyboardAnalyzer\KeyboardAnalyzer\obj\x86\Debu
 C:\Users\Biolab\GitHub\AAC-System\KeyboardAnalyzer\KeyboardAnalyzer\obj\x86\Debug\KeyboardAnalyzer.pdb
 C:\Users\Biolab\GitHub\AAC-System\KeyboardAnalyzer\KeyboardAnalyzer\bin\Debug\KeyboardAnalyzer.exe
 C:\Users\Biolab\GitHub\AAC-System\KeyboardAnalyzer\KeyboardAnalyzer\bin\Debug\KeyboardAnalyzer.pdb
+C:\Users\Biolab\GitHub\AAC-System\KeyboardAnalyzer\KeyboardAnalyzer\obj\x86\Debug\KeyboardAnalyzer.csprojResolveAssemblyReference.cache

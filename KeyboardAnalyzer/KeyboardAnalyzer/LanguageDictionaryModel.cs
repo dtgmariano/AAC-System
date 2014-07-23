@@ -30,14 +30,19 @@ namespace KeyboardAnalyzer
             return dict;
         }
 
-        public void organizeDictionaryByFrequency()
+        public List<Word> organizeDictionaryByFrequency()
         {
-            words.OrderBy(o => o.frequency);
+            return words.OrderBy(o => o.frequency).ToList();
         }
 
-        public void organizeDictionaryByAlphabeticOrder()
+        public List<Word> organizeDictionaryByAlphabeticOrder()
         {
-            words.OrderBy(o => o.normalized_content);
+            return words.OrderBy(o => o.normalized_content).ToList();
+        }
+
+        public List<Word> organizedictionaryByT9Code()
+        {
+            return words.OrderBy(o => o.t9crypt).ToList();
         }
     }
 }

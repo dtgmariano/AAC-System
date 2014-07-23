@@ -13,5 +13,12 @@ namespace KeyboardAnalyzer
             sugestions = dictionaryWords.Where(x => x.normalized_content.StartsWith(input)).ToList();
             return sugestions;
         }
+
+        public static List<Word> getT9Sugestions(List<Word> dictionaryWords, string input)
+        {
+            List<Word> sugestions;
+            sugestions = dictionaryWords.Where(x => x.t9crypt.StartsWith(input)).ToList();
+            return sugestions;
+        }
     }
 }
