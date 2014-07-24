@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BackgroundModules\Dictionary\DictionaryModel.cs" />
+    <Compile Include="BackgroundModules\Dictionary\Performance.cs" />
     <Compile Include="BackgroundModules\Keyboard\KeyboardModel.cs" />
     <Compile Include="BackgroundModules\Dictionary\WordAnalyzer.cs" />
     <Compile Include="BackgroundModules\GeneticAlgorithm\Chromossome.cs" />
