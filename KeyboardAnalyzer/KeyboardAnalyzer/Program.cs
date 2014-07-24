@@ -84,9 +84,15 @@ namespace KeyboardAnalyzer
                 Word wd = new Word(line);
 
                 analyzeNormalKeyboardByFrequency(dict, km, wd);
-                analyzeNormalKeyboardByAlphabetic(dict, km, wd);
+                analyzeT14KeyboardByFrequency(dict, km, wd);
                 analyzeT9KeyboardByFrequency(dict, km, wd);
+                analyzeT4KeyboardByFrequency(dict, km, wd);
+                
+
+                analyzeNormalKeyboardByAlphabetic(dict, km, wd);
+                analyzeT14KeyboardByT14Code(dict, km, wd);
                 analyzeT9KeyboardByT9Code(dict, km, wd);
+                analyzeT4KeyboardByT4Code(dict, km, wd);
 
                 Console.WriteLine("Type a word");
                 line = Console.ReadLine();
@@ -138,6 +144,49 @@ namespace KeyboardAnalyzer
             Console.WriteLine();
         }
 
+        static void analyzeT4KeyboardByFrequency(LanguageDictionaryModel dict, KeyboardModel km, Word wd)
+        {
+            if (dict.words.Any(p => p.t4crypt.Equals(wd.t4crypt)))
+            {
+
+                dict.words = dict.organizeDictionaryByFrequency();
+                Console.WriteLine("T4: Organized by frequency");
+                for (int i = 0; i < wd.t4crypt.Length; i++)
+                {
+                    string prefix = wd.t4crypt.Substring(0, (i + 1));
+                    List<Word> sugestions = LanguageDictionaryAnalyzer.getT4Sugestions(dict.words, prefix);
+                    int idx = sugestions.FindIndex(p => p.t4crypt.Equals(wd.t4crypt));
+                    Console.WriteLine(i + ")  index at sugestion list: " + idx + " 1st sugestion: " + sugestions[0].normalized_content);
+                }
+            }
+            else
+            {
+                Console.WriteLine("There is no such word in your dictionary");
+            }
+            Console.WriteLine();
+        }
+
+        static void analyzeT4KeyboardByT4Code(LanguageDictionaryModel dict, KeyboardModel km, Word wd)
+        {
+            if (dict.words.Any(p => p.t4crypt.Equals(wd.t4crypt)))
+            {
+                dict.words = dict.organizedictionaryByT4Code();
+                Console.WriteLine("T4: Organized by t4 code");
+                for (int i = 0; i < wd.t4crypt.Length; i++)
+                {
+                    string prefix = wd.t4crypt.Substring(0, (i + 1));
+                    List<Word> sugestions = LanguageDictionaryAnalyzer.getT4Sugestions(dict.words, prefix);
+                    int idx = sugestions.FindIndex(p => p.t4crypt.Equals(wd.t4crypt));
+                    Console.WriteLine(i + ")  index at sugestion list: " + idx + " 1st sugestion: " + sugestions[0].normalized_content);
+                }
+            }
+            else
+            {
+                Console.WriteLine("There is no such word in your dictionary");
+            }
+            Console.WriteLine();
+        }
+
         static void analyzeT9KeyboardByFrequency(LanguageDictionaryModel dict, KeyboardModel km, Word wd)
         {
             if (dict.words.Any(p => p.t9crypt.Equals(wd.t9crypt)))
@@ -171,6 +220,49 @@ namespace KeyboardAnalyzer
                     string prefix = wd.t9crypt.Substring(0, (i + 1));
                     List<Word> sugestions = LanguageDictionaryAnalyzer.getT9Sugestions(dict.words, prefix);
                     int idx = sugestions.FindIndex(p => p.t9crypt.Equals(wd.t9crypt));
+                    Console.WriteLine(i + ")  index at sugestion list: " + idx + " 1st sugestion: " + sugestions[0].normalized_content);
+                }
+            }
+            else
+            {
+                Console.WriteLine("There is no such word in your dictionary");
+            }
+            Console.WriteLine();
+        }
+
+        static void analyzeT14KeyboardByFrequency(LanguageDictionaryModel dict, KeyboardModel km, Word wd)
+        {
+            if (dict.words.Any(p => p.t14crypt.Equals(wd.t14crypt)))
+            {
+
+                dict.words = dict.organizeDictionaryByFrequency();
+                Console.WriteLine("T14: Organized by frequency");
+                for (int i = 0; i < wd.t14crypt.Length; i++)
+                {
+                    string prefix = wd.t14crypt.Substring(0, (i + 1));
+                    List<Word> sugestions = LanguageDictionaryAnalyzer.getT14Sugestions(dict.words, prefix);
+                    int idx = sugestions.FindIndex(p => p.t14crypt.Equals(wd.t14crypt));
+                    Console.WriteLine(i + ")  index at sugestion list: " + idx + " 1st sugestion: " + sugestions[0].normalized_content);
+                }
+            }
+            else
+            {
+                Console.WriteLine("There is no such word in your dictionary");
+            }
+            Console.WriteLine();
+        }
+
+        static void analyzeT14KeyboardByT14Code(LanguageDictionaryModel dict, KeyboardModel km, Word wd)
+        {
+            if (dict.words.Any(p => p.t14crypt.Equals(wd.t14crypt)))
+            {
+                dict.words = dict.organizedictionaryByT14Code();
+                Console.WriteLine("T14: Organized by t14 code");
+                for (int i = 0; i < wd.t14crypt.Length; i++)
+                {
+                    string prefix = wd.t14crypt.Substring(0, (i + 1));
+                    List<Word> sugestions = LanguageDictionaryAnalyzer.getT14Sugestions(dict.words, prefix);
+                    int idx = sugestions.FindIndex(p => p.t14crypt.Equals(wd.t14crypt));
                     Console.WriteLine(i + ")  index at sugestion list: " + idx + " 1st sugestion: " + sugestions[0].normalized_content);
                 }
             }

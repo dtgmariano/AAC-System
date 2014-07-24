@@ -14,10 +14,24 @@ namespace KeyboardAnalyzer
             return sugestions;
         }
 
+        public static List<Word> getT4Sugestions(List<Word> dictionaryWords, string input)
+        {
+            List<Word> sugestions;
+            sugestions = dictionaryWords.Where(x => x.t4crypt.StartsWith(input)).ToList();
+            return sugestions;
+        }
+
         public static List<Word> getT9Sugestions(List<Word> dictionaryWords, string input)
         {
             List<Word> sugestions;
             sugestions = dictionaryWords.Where(x => x.t9crypt.StartsWith(input)).ToList();
+            return sugestions;
+        }
+
+        public static List<Word> getT14Sugestions(List<Word> dictionaryWords, string input)
+        {
+            List<Word> sugestions;
+            sugestions = dictionaryWords.Where(x => x.t14crypt.StartsWith(input)).ToList();
             return sugestions;
         }
     }

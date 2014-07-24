@@ -1,0 +1,6 @@
+C:\Users\Biolab\GitHub\AAC-System\KeyboardAnalyzerWithGA\KeyboardAnalyzerWithGA\bin\Release\KeyboardAnalyzerWithGA.exe
+C:\Users\Biolab\GitHub\AAC-System\KeyboardAnalyzerWithGA\KeyboardAnalyzerWithGA\bin\Release\KeyboardAnalyzerWithGA.pdb
+C:\Users\Biolab\GitHub\AAC-System\KeyboardAnalyzerWithGA\KeyboardAnalyzerWithGA\obj\x86\Release\KeyboardAnalyzerWithGA.Properties.Resources.resources
+C:\Users\Biolab\GitHub\AAC-System\KeyboardAnalyzerWithGA\KeyboardAnalyzerWithGA\obj\x86\Release\KeyboardAnalyzerWithGA.csproj.GenerateResource.Cache
+C:\Users\Biolab\GitHub\AAC-System\KeyboardAnalyzerWithGA\KeyboardAnalyzerWithGA\obj\x86\Release\KeyboardAnalyzerWithGA.exe
+C:\Users\Biolab\GitHub\AAC-System\KeyboardAnalyzerWithGA\KeyboardAnalyzerWithGA\obj\x86\Release\KeyboardAnalyzerWithGA.pdb

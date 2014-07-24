@@ -44,5 +44,15 @@ namespace KeyboardAnalyzer
         {
             return words.OrderBy(o => o.t9crypt).ToList();
         }
+
+        public List<Word> organizedictionaryByT4Code()
+        {
+            return words.OrderBy(o => o.t4crypt).ToList();
+        }
+
+        public List<Word> organizedictionaryByT14Code()
+        {
+            return words.OrderBy(o => o.t14crypt).ToList();
+        }
     }
 }
