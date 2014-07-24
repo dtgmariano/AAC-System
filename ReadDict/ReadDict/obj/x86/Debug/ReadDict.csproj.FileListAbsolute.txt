@@ -1,0 +1,17 @@
+C:\Users\Daniel\AppData\Local\Temporary Projects\ReadDict\bin\Debug\ReadDict.exe
+C:\Users\Daniel\AppData\Local\Temporary Projects\ReadDict\bin\Debug\ReadDict.pdb
+C:\Users\Daniel\AppData\Local\Temporary Projects\ReadDict\obj\x86\Debug\ReadDict.exe
+C:\Users\Daniel\AppData\Local\Temporary Projects\ReadDict\obj\x86\Debug\ReadDict.pdb
+C:\Users\Daniel\Documents\GitHub\AAC System\ReadDict\ReadDict\obj\x86\Debug\ReadDict.exe
+C:\Users\Daniel\Documents\GitHub\AAC System\ReadDict\ReadDict\obj\x86\Debug\ReadDict.pdb
+C:\Users\Daniel\Documents\GitHub\AAC System\ReadDict\ReadDict\bin\Debug\ReadDict.exe
+C:\Users\Daniel\Documents\GitHub\AAC System\ReadDict\ReadDict\bin\Debug\ReadDict.pdb
+C:\Users\Daniel\Dropbox\Workspace\AAC System\ReadDict\ReadDict\obj\x86\Debug\ReadDict.exe
+C:\Users\Daniel\Dropbox\Workspace\AAC System\ReadDict\ReadDict\obj\x86\Debug\ReadDict.pdb
+C:\Users\Daniel\GitHub\AAC-System\ReadDict\ReadDict\obj\x86\Debug\ReadDict.exe
+C:\Users\Daniel\GitHub\AAC-System\ReadDict\ReadDict\obj\x86\Debug\ReadDict.pdb
+C:\Users\Daniel\GitHub\AAC-System\ReadDict\ReadDict\bin\Debug\ReadDict.exe
+C:\Users\Daniel\GitHub\AAC-System\ReadDict\ReadDict\bin\Debug\ReadDict.pdb
+C:\Users\Daniel\GitHub\AAC-System\ReadDict\ReadDict\obj\x86\Debug\ReadDict.csprojResolveAssemblyReference.cache
+C:\Users\Biolab\GitHub\AAC-System\ReadDict\ReadDict\obj\x86\Debug\ReadDict.exe
+C:\Users\Biolab\GitHub\AAC-System\ReadDict\ReadDict\obj\x86\Debug\ReadDict.pdb

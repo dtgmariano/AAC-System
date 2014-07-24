@@ -9,6 +9,7 @@ namespace KeyboardAnalyzerWithGA
     public class DictionaryModel
     {
         public Dictionary<string, int> dict; /*Key: Word || Value: Word's frequency at the specific language */
+        //public List<WordModel> dictionary;
         //public Dictionary<string, string> tableNecessaryInputs;
         //public Dictionary<string, int> tableNecessaryEffort;
 
@@ -52,6 +53,34 @@ namespace KeyboardAnalyzerWithGA
             return dict.OrderBy(x => x.Key).ToDictionary(x => x.Key, x => x.Value);
         }
 
-        
+        /* Function that read an .txt file to populate the dictionary object 
+         * as a Dictionary<string, int> class where:
+         * Key = Content || Value = Word frequency
+         */
+        //public static List<WordModel> getDictionary(string dictionaryFile, bool hasFrequency)
+        //{
+        //    List<WordModel> lDictionary = new List<WordModel>();
+
+        //    using (StreamReader reader = new StreamReader(dictionaryFile, Encoding.UTF8))
+        //    {
+        //        string line;
+        //        while ((line = reader.ReadLine()) != null)
+        //        {
+        //            String[] info = line.Split();
+        //            if(!lDictionary.Contains(f => f.
+        //            if (!dict.ContainsKey(info[1]))
+        //                dict.Add(info[1], Convert.ToInt16(info[0]));
+        //        }
+        //    }
+
+        //    //set all key's values to 1 -> uniform frequency
+        //    if (!hasFrequency)
+        //    {
+        //        dict = dict.ToDictionary(p => p.Key, p => 1);
+        //    }
+
+        //    return null;
+        //}
+
     }
 }

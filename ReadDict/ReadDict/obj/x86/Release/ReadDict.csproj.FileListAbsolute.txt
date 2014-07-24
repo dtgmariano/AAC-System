@@ -1,0 +1,4 @@
+C:\Users\Daniel\AppData\Local\Temporary Projects\ReadDict\bin\Release\ReadDict.exe
+C:\Users\Daniel\AppData\Local\Temporary Projects\ReadDict\bin\Release\ReadDict.pdb
+C:\Users\Daniel\AppData\Local\Temporary Projects\ReadDict\obj\x86\Release\ReadDict.exe
+C:\Users\Daniel\AppData\Local\Temporary Projects\ReadDict\obj\x86\Release\ReadDict.pdb

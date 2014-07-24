@@ -5,11 +5,11 @@
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{33D5ADEC-6B53-4D87-83D8-903C78E66D61}</ProjectGuid>
-    <OutputType>WinExe</OutputType>
+    <ProjectGuid>{92801955-F5D5-4E8B-B453-B59A34A1CE34}</ProjectGuid>
+    <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>KeyboardAnalyzerWithGA</RootNamespace>
-    <AssemblyName>KeyboardAnalyzerWithGA</AssemblyName>
+    <RootNamespace>ReadDict</RootNamespace>
+    <AssemblyName>ReadDict</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>
@@ -40,49 +40,14 @@
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Data" />
-    <Reference Include="System.Deployment" />
-    <Reference Include="System.Drawing" />
-    <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BackgroundModules\Database\DatabaseExport.cs" />
-    <Compile Include="BackgroundModules\Dictionary\DictionaryModel.cs" />
-    <Compile Include="BackgroundModules\Dictionary\Options.cs" />
-    <Compile Include="BackgroundModules\Task\PerformanceAnalyzer.cs" />
-    <Compile Include="BackgroundModules\Dictionary\WordModel.cs" />
-    <Compile Include="BackgroundModules\Keyboard\KeyboardModel.cs" />
-    <Compile Include="BackgroundModules\Dictionary\WordAnalyzer.cs" />
-    <Compile Include="BackgroundModules\GeneticAlgorithm\Chromossome.cs" />
-    <Compile Include="Modules\KeyboardAnalyzer\KeyboardAnalyzerViewModel.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Modules\KeyboardAnalyzer\KeyboardAnalyzerViewModel.Designer.cs">
-      <DependentUpon>KeyboardAnalyzerViewModel.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Modules\KeyboardAnalyzer\KeyboardAnalyzerModel.cs" />
+    <Compile Include="Interpreter.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Properties\Resources.resx">
-      <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-    </Compile>
-    <None Include="Properties\Settings.settings">
-      <Generator>SettingsSingleFileGenerator</Generator>
-      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
-    </None>
-    <Compile Include="Properties\Settings.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Settings.settings</DependentUpon>
-      <DesignTimeSharedInput>True</DesignTimeSharedInput>
-    </Compile>
+    <Compile Include="Word.cs" />
   </ItemGroup>
-  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

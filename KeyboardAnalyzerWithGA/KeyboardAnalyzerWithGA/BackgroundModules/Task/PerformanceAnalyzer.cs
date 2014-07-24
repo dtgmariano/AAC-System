@@ -7,6 +7,12 @@ namespace KeyboardAnalyzerWithGA
 {
     public class Performance
     {
-        int numberOfKeysStrokes;
+        public string necessaryInput;
+
+        public Performance()
+        {
+
+        }
+
     }
 }
