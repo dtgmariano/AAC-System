@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BackgroundModules\Database\DatabaseExport.cs" />
     <Compile Include="BackgroundModules\Dictionary\DictionaryModel.cs" />
     <Compile Include="BackgroundModules\Keyboard\KeyboardModel.cs" />
     <Compile Include="BackgroundModules\Dictionary\WordAnalyzer.cs" />
