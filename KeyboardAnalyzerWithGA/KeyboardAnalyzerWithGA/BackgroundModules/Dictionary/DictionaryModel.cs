@@ -57,30 +57,28 @@ namespace KeyboardAnalyzerWithGA
          * as a Dictionary<string, int> class where:
          * Key = Content || Value = Word frequency
          */
-        //public static List<WordModel> getDictionary(string dictionaryFile, bool hasFrequency)
-        //{
-        //    List<WordModel> lDictionary = new List<WordModel>();
+        public static List<WordModel> getDictionary(string dictionaryFile, bool hasFrequency)
+        {
+            List<WordModel> lDictionary = new List<WordModel>();
 
-        //    using (StreamReader reader = new StreamReader(dictionaryFile, Encoding.UTF8))
-        //    {
-        //        string line;
-        //        while ((line = reader.ReadLine()) != null)
-        //        {
-        //            String[] info = line.Split();
-        //            if(!lDictionary.Contains(f => f.
-        //            if (!dict.ContainsKey(info[1]))
-        //                dict.Add(info[1], Convert.ToInt16(info[0]));
-        //        }
-        //    }
+            using (StreamReader reader = new StreamReader(dictionaryFile, Encoding.UTF8))
+            {
+                string line;
+                while ((line = reader.ReadLine()) != null)
+                {
+                    String[] info = line.Split();
 
-        //    //set all key's values to 1 -> uniform frequency
-        //    if (!hasFrequency)
-        //    {
-        //        dict = dict.ToDictionary(p => p.Key, p => 1);
-        //    }
+                    if (!lDictionary.Exists(x => x.content.Equals(info[1])))
+                        lDictionary.Add(new WordModel(info[1], Convert.ToInt32(info[0])));
+                }
+            }
 
-        //    return null;
-        //}
+            //set all key's values to 1 -> uniform frequency
+            if (!hasFrequency)
+                lDictionary.ForEach(delegate(WordModel w){ w.frequency = 1;});
+
+            return null;
+        }
 
     }
 }
