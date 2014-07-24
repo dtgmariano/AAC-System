@@ -1,4979 +1,4979 @@
-a	1
-abaixo	23
-abalar	15
-abandonar	34
-abandono	34
-abastecimento	63
-abater	23
-abdicar	22
-abelha	17
-aberto	29
-abertura	34
-abismo	27
-abordagem	34
-abordar	27
-aborto	31
-abracar	20
-abraco	20
-abranger	30
-abrigar	24
-abrigo	24
-abrir	20
-absolutamente	64
-absoluto	41
-absorver	40
-abstracto	43
-absurdo	32
-abundancia	34
-abundante	38
-abuso	22
-acabar	14
-academia	25
-academico	34
-acalmar	21
-acampamento	46
-acarretar	37
-acaso	19
-accao	15
-accionar	32
-accionista	46
-aceitacao	34
-aceitar	29
-aceitavel	38
-acelerar	31
-acender	30
-acentuar	35
-acerca	19
-acertar	30
-acerto	30
-acervo	28
-aceso	23
-acessivel	43
-acesso	30
-achar	15
-acidente	37
-acido	20
-acima	15
-aco	11
-acolher	30
-acomodar	34
-acompanhamento	63
-acompanhar	38
-aconselhar	44
-acontecer	44
-acontecimento	69
-acordar	28
-acordo	28
-acostumado	48
-acostumar	43
-acreditar	39
-acrescentar	51
-acrescido	41
-acrescimo	42
-acta	13
-actividade	42
-activo	30
-acto	19
-actor	25
-actriz	31
-actuacao	29
-actual	22
-actualidade	41
-actualizar	42
-actualmente	51
-actuar	24
-acucar	19
-acumular	30
-acusacao	28
-acusado	28
-acusar	23
-adaptacao	30
-adaptar	25
-adepto	29
-adequado	32
-aderir	27
-adesao	25
-adeus	22
-adiantar	32
-adiante	30
-adiar	17
-adicional	36
-adivinhar	38
-adjectivo	45
-adjunto	37
-administracao	59
-administrador	65
-administrar	54
-administrativo	74
-admiracao	33
-admirar	28
-admitir	34
-adolescencia	51
-adolescente	55
-adopcao	27
-adoptar	31
-adorar	25
-adormecer	42
-adquirir	37
-adulto	29
-adversario	48
-advertir	41
-advogado	33
-advogar	28
-aereo	24
-aeroporto	51
-afastado	31
-afastamento	51
-afastar	26
-afectado	31
-afectar	26
-afectivo	37
-afecto	26
-afinal	19
-afinidade	33
-afirmacao	31
-afirmar	26
-afogar	20
-africano	31
-afundar	25
-agarrar	24
-agencia	24
-agenda	20
-agente	28
-agir	15
-agitacao	29
-agitar	24
-agora	18
-agradar	22
-agradavel	31
-agradecer	34
-agrario	29
-agravar	24
-agredir	30
-agregado	30
-agressao	37
-agressivo	47
-agricola	30
-agricultor	48
-agricultura	47
-agrupamento	51
-agrupar	26
-agua	10
-aguardar	27
-agudo	20
-aguentar	35
-agulha	18
-ah	5
-ai	6
-ainda	17
-ajuda	17
-ajudar	23
-ajustar	34
-ajuste	32
-ala	6
-alargamento	47
-alargar	22
-alastrar	34
-album	17
-alcancar	25
-alcance	23
-alcool	26
-aldeia	20
-alegar	20
-alegre	24
-alegria	25
-alem	15
-alemao	23
-alertar	31
-alga	9
-algo	15
-algodao	27
-alguem	23
-algum	18
-alheio	26
-ali	10
-aliado	22
-alianca	21
-aliar	17
-alias	18
-alimentacao	46
-alimentar	41
-alimento	41
-alinhado	32
-alinhamento	52
-alinhar	27
-aliviar	28
-alivio	28
-alma	11
-almocar	27
-almoco	27
-alongar	28
-altamente	43
-altar	20
-alteracao	36
-alterar	31
-alternar	37
-alternativa	51
-altitude	40
-alto	20
-altura	25
-alugar	20
-aluguel	27
-aluminio	38
-aluno	23
-alvo	18
-amador	24
-amanha	18
-amante	26
-amar	13
-amarelo	29
-amargo	23
-amarrado	31
-amarrar	26
-ambicao	24
-ambicioso	42
-ambiental	37
-ambiente	37
-ambito	28
-ambos	22
-ameaca	16
-ameacar	22
-americano	39
-amiga	15
-amigo	21
-amizade	29
-amor	19
-amoroso	40
-amostra	35
-ampliacao	31
-ampliar	26
-amplitude	41
-amplo	21
-analisar	31
-analise	29
-analista	33
-ancestral	41
-andamento	43
-andar	18
-anel	16
-anexo	26
-angolano	35
-angulo	26
-angustia	36
-animacao	29
-animal	22
-animar	24
-animo	24
-aniversario	55
-anjo	20
-ano	14
-anonimo	37
-anormal	30
-anotar	29
-ansiedade	38
-ansioso	40
-ante	20
-antecedente	56
-anteceder	43
-antecipar	39
-antena	27
-antepassado	51
-anterior	44
-anteriormente	73
-antes	27
-antigamente	53
-antigo	30
-antiguidade	47
-anual	17
-anualmente	46
-anular	23
-anunciar	33
-anuncio	33
-apagar	16
-apaixonado	43
-apaixonar	38
-apanhar	23
-aparecer	31
-aparecimento	56
-aparelho	32
-aparencia	32
-aparente	36
-aparentemente	65
-aparicao	28
-apartamento	52
-apelar	21
-apelido	30
-apelo	21
-apenas	24
-aperceber	37
-aperfeicoar	45
-apertar	31
-apesar	24
-apetecer	37
-apetite	36
-aplicacao	29
-aplicado	29
-aplicar	24
-apoiar	24
-apoio	24
-apontar	33
-apos	19
-aposentado	50
-aposentadoria	62
-aposta	28
-apostar	34
-apreciacao	36
-apreciar	31
-apreender	42
-apreensao	42
-aprender	37
-aprendizado	51
-aprendizagem	53
-apresentacao	54
-apresentar	49
-apressar	37
-aprofundar	42
-apropriado	45
-aprovacao	36
-aprovar	31
-aproveitamento	74
-aproveitar	49
-aproximacao	47
-aproximadamente	70
-aproximar	42
-apto	20
-apurar	23
-aquando	29
-aquecer	30
-aquecimento	55
-aquele	25
-aqui	16
-aquilo	27
-aquisicao	39
-ar	7
-arabe	15
-arame	18
-aranha	19
-arbitragem	42
-arbitro	35
-arbusto	36
-arco	17
-arder	22
-area	13
-areia	18
-argentino	47
-argumentar	46
-argumento	46
-arma	13
-armadilha	31
-armado	24
-armamento	44
-armar	19
-armazem	31
-armazenar	39
-arqueologico	58
-arquipelago	46
-arquitecto	53
-arquitectura	58
-arquivo	35
-arraial	24
-arrancar	30
-arranjar	33
-arranjo	33
-arrastar	36
-arrecadacao	38
-arrecadar	33
-arredor	35
-arrepender	48
-arriscar	35
-arroz	28
-arrumar	30
-arte	20
-arteria	32
-articulacao	44
-articular	39
-artificial	40
-artificio	42
-artigo	30
-artilharia	41
-artista	36
-artistico	50
-arvore	31
-asa	9
-ascender	37
-ascensao	37
-asiatico	37
-asilo	24
-aspecto	35
-aspiracao	35
-aspirar	30
-assaltar	35
-assalto	35
-assassinato	57
-assassino	48
-assegurar	41
-assembleia	42
-assemelhar	45
-assentar	41
-assente	39
-assento	41
-assessor	47
-assim	25
-assinado	38
-assinalar	38
-assinar	33
-assinatura	47
-assistencia	55
-assistente	59
-assistir	46
-associacao	42
-associado	42
-associar	37
-assumir	36
-assunto	41
-assustar	42
-astro	29
-atacar	20
-ataque	25
-atar	16
-ate	14
-atencao	31
-atender	35
-atendimento	60
-atentado	40
-atento	35
-atenuar	32
-atingir	34
-atirar	27
-atitude	36
-atlantico	43
-atleta	27
-atmosfera	42
-atomico	36
-atraccao	30
-atractivo	45
-atraente	40
-atrair	27
-atrapalhar	36
-atras	23
-atrasado	35
-atrasar	30
-atraso	30
-atraves	34
-atravessar	48
-atrever	37
-atribuicao	43
-atribuir	38
-atributo	42
-audiencia	35
-auditorio	48
-auge	14
-aula	11
-aumentar	37
-aumento	37
-ausencia	33
-ausente	37
-australiano	51
-austriaco	43
-autarquia	37
-autarquico	46
-autentico	48
-auto	21
-automaticamente	73
-automatico	50
-automovel	48
-autonomia	45
-autonomo	46
-autor	27
-autoria	33
-autoridade	46
-autoritario	59
-autorizacao	52
-autorizar	47
-auxiliar	34
-auxilio	34
-avaliacao	29
-avaliar	24
-avancado	29
-avancar	24
-avanco	24
-ave	12
-avenida	28
-aventura	38
-aviacao	24
-aviao	20
-avisar	26
-aviso	26
-avistar	34
-avo	14
-azeite	32
-azeitona	41
-azul	18
-bacalhau	21
-bacia	12
-bagagem	20
-baia	9
-baiano	22
-bailarina	31
-baile	17
-bairro	27
-baixa	16
-baixar	22
-baixo	22
-bala	8
-balanca	18
-balanco	24
-balao	15
-balcao	18
-baleia	18
-banana	17
-banca	13
-bancada	18
-bancario	31
-banco	19
-banda	14
-bandeira	30
-bandeirante	49
-bandido	29
-bando	20
-banhar	20
-banho	20
-banqueiro	42
-baptizar	35
-bar	9
-barato	25
-barba	12
-barbaro	25
-barca	13
-barco	19
-barra	16
-barraca	20
-barragem	29
-barreira	32
-barriga	24
-barro	22
-barroco	32
-barulho	29
-base	15
-baseado	27
-basear	22
-basicamente	48
-basico	25
-bastante	38
-bastar	25
-batalha	21
-batalhao	28
-batata	21
-bater	22
-bateria	28
-bebe	14
-beber	20
-bebida	19
-beijar	25
-beijo	25
-beira	19
-beleza	25
-belo	18
-bem	12
-bem-estar	47
-beneficiar	40
-beneficio	40
-bengala	22
-berco	23
-besta	23
-bezerro	39
-biblia	19
-biblioteca	42
-bicho	21
-bicicleta	36
-bico	17
-bilhao	23
-bilhete	33
-biografia	32
-biologia	34
-biologico	43
-bispo	25
-bloco	23
-bloquear	35
-bloqueio	40
-boca	13
-bocado	24
-boi	14
-bola	14
-boletim	36
-bolo	20
-bolsa	21
-bolso	27
-bom	14
-bomba	17
-bombeiro	39
-bondade	29
-bonde	24
-boneca	24
-boneco	30
-bonito	35
-borboleta	42
-borda	20
-bordado	31
-bordo	26
-borracha	30
-bosque	31
-bota	18
-botao	25
-botar	24
-braco	19
-branco	25
-brando	26
-brasileiro	48
-bravo	22
-breve	24
-briga	17
-brigada	22
-brigar	23
-brilhante	41
-brilhar	28
-brilho	28
-brincadeira	44
-brincar	29
-brinquedo	45
-brisa	21
-britanico	43
-bronze	34
-brusco	30
-brutal	26
-bruto	28
-bruxa	21
-buraco	24
-burgues	33
-burocracia	39
-burocratico	53
-burro	26
-busca	18
-buscar	24
-ca	4
-cabeca	15
-cabelo	22
-caber	17
-cabo	13
-cabra	13
-caca	8
-cacador	25
-cacar	14
-cacho	18
-cachorro	37
-cada	9
-cadaver	26
-cadeia	19
-cadeira	25
-caderno	32
-cafe	11
-cair	15
-cais	16
-caixa	17
-caixao	24
-cal	8
-calado	20
-calar	15
-calcada	17
-calcas	19
-calcular	27
-calculo	27
-calda	13
-caldo	19
-calendario	42
-calhar	19
-calma	14
-calmo	20
-calor	21
-cama	10
-camada	15
-camara	17
-camarada	22
-cambial	21
-cambio	23
-camera	21
-caminhada	30
-caminhao	32
-caminhar	31
-caminho	31
-camisa	22
-camisola	33
-campanha	25
-campeao	26
-campeonato	47
-campo	20
-campones	38
-cana	11
-canal	15
-cancao	21
-cancelar	29
-cancer	24
-cancro	26
-candeeiro	42
-candidatar	39
-candidato	39
-candidatura	44
-canhao	22
-cano	17
-canoa	18
-cansaco	28
-cansado	29
-cansar	24
-cantar	25
-cantiga	27
-canto	25
-cantor	31
-cao	11
-caos	18
-capa	9
-capacidade	31
-capaz	17
-capela	18
-capital	26
-capitalismo	50
-capitalista	47
-capitao	29
-capitulo	37
-captar	23
-capturar	34
-cara	11
-caracter	33
-caracteristica	62
-caracteristico	68
-caracterizar	53
-cardeal	24
-cardiaco	30
-carecer	29
-carencia	30
-carga	14
-cargo	20
-caridade	29
-carinho	32
-carioca	26
-carnaval	28
-carne	21
-carneiro	39
-caro	17
-carregado	36
-carregar	31
-carreira	33
-carro	23
-carroca	27
-carta	19
-cartao	26
-cartaz	27
-carteira	35
-cartorio	43
-carvao	24
-casa	12
-casaco	22
-casado	23
-casal	16
-casamento	43
-casar	18
-casca	15
-casco	21
-caseiro	34
-caso	18
-castanho	37
-castelo	35
-castigar	34
-castigo	34
-casto	26
-catalogo	34
-catastrofe	48
-catedral	32
-categoria	39
-catolico	38
-catorze	38
-cauda	14
-causa	17
-causar	23
-cautela	27
-cauteloso	47
-cavalaria	28
-cavaleiro	38
-cavalheiro	42
-cavalo	22
-cavar	17
-ceder	23
-cedo	19
-cego	18
-ceia	14
-cela	13
-celebracao	37
-celebrar	32
-celebre	30
-celeste	37
-celula	22
-celular	28
-cem	13
-cemiterio	49
-cena	15
-cenario	33
-censura	33
-centena	34
-centimetro	58
-cento	29
-central	33
-centrar	35
-centro	35
-cera	15
-ceramica	29
-cerca	18
-cercado	29
-cercar	24
-cerco	24
-cereal	24
-cerebral	32
-cerebro	34
-cerimonia	43
-cerrado	32
-certamente	52
-certeza	36
-certo	29
-cerveja	32
-cessar	29
-cesta	24
-cesto	30
-ceu	13
-cha	8
-chama	14
-chamada	19
-chamado	25
-chamar	20
-chance	22
-chao	15
-chapa	13
-chapeu	22
-charuto	34
-chato	23
-chave	19
-chefe	19
-chefia	20
-chefiar	26
-chegada	21
-chegar	22
-cheio	24
-cheirar	30
-cheiro	30
-cheque	27
-chines	30
-chocar	24
-chocolate	42
-choque	29
-chorar	27
-choro	27
-chover	31
-chumbo	26
-chuva	19
-ciclo	22
-cidadania	30
-cidadao	25
-cidade	22
-ciencia	28
-cientifico	49
-cientista	48
-cigano	25
-cigarro	31
-cima	14
-cimeira	30
-cimento	39
-cimo	20
-cinco	24
-cineasta	36
-cinema	25
-cinematografico	67
-cinquenta	44
-cintura	34
-cinza	23
-cinzento	48
-circo	24
-circuito	42
-circulacao	38
-circular	33
-circulo	33
-circunstancia	59
-cirurgia	34
-cirurgico	43
-citacao	28
-citar	23
-ciume	23
-civico	29
-civil	23
-civilizacao	48
-civilizado	48
-clandestino	56
-claramente	44
-clareza	28
-claro	21
-classe	27
-classico	37
-classificacao	49
-classificar	44
-clausula	30
-cliente	36
-clima	18
-clinica	27
-clinico	33
-club	14
-clube	19
-coberto	38
-cobertura	43
-cobra	19
-cobranca	29
-cobrar	25
-cobre	23
-cobrir	29
-codigo	29
-coelho	30
-coerencia	41
-coerente	45
-coesao	30
-cofre	23
-coincidencia	53
-coincidir	44
-coisa	23
-coitado	35
-colaboracao	42
-colaborador	48
-colaborar	37
-colar	21
-coleccao	33
-colecta	31
-colectivo	48
-colega	23
-colegio	34
-colera	26
-colete	32
-colheita	37
-colher	29
-coligacao	34
-colina	26
-colo	21
-colocacao	36
-colocado	36
-colocar	31
-colonia	33
-colonial	37
-colonizacao	52
-colono	34
-colorido	43
-coluna	26
-com	15
-comandante	46
-comandar	33
-comando	33
-combate	31
-combater	37
-combinacao	40
-combinar	35
-comboio	36
-combustivel	57
-comecar	30
-comeco	30
-comedia	30
-comemoracao	50
-comemorar	45
-comentar	41
-comentario	53
-comer	26
-comercial	39
-comercializacao	64
-comerciante	54
-comercio	41
-cometer	39
-comico	30
-comida	25
-comissao	42
-comissario	53
-comite	33
-como	22
-comodo	33
-compacto	38
-companheiro	53
-companhia	36
-comparacao	38
-comparar	33
-comparecer	45
-compartilhar	54
-compativel	48
-compensacao	49
-compensar	44
-competencia	52
-competente	56
-competicao	48
-competir	43
-competitividade	75
-competitivo	63
-complementar	59
-complemento	59
-completamente	66
-completar	43
-completo	43
-complexidade	54
-complexo	42
-complicacao	43
-complicado	43
-complicar	38
-componente	56
-compor	32
-comportamento	72
-comportar	47
-composicao	49
-compositor	59
-composto	48
-compra	26
-comprador	43
-comprar	32
-compreender	56
-compreensao	56
-comprido	41
-comprimento	61
-comprometer	61
-compromisso	63
-comprovar	45
-computador	50
-comum	25
-comunhao	38
-comunicacao	46
-comunicado	46
-comunicar	41
-comunidade	45
-comunismo	50
-comunista	47
-comunitario	58
-conceber	37
-conceder	39
-conceito	44
-concelho	39
-concentracao	56
-concentrado	56
-concentrar	51
-concepcao	39
-concerto	45
-concessao	46
-concha	24
-conciliar	40
-concluir	39
-conclusao	43
-concordar	43
-concorrencia	58
-concorrente	62
-concorrer	49
-concretizacao	63
-concretizar	58
-concreto	45
-concurso	44
-conde	25
-condenacao	43
-condenado	43
-condenar	38
-condicao	36
-condicionado	58
-condicionar	53
-conducao	36
-conduta	34
-condutor	46
-conduzir	44
-confederacao	50
-conferencia	49
-conferir	40
-confessar	44
-confianca	34
-confiante	43
-confiar	30
-configuracao	49
-confirmacao	46
-confirmar	41
-confissao	45
-conflito	42
-conformar	43
-conforme	41
-confortavel	55
-conforto	46
-confrontar	52
-confronto	52
-confundir	44
-confusao	38
-confuso	37
-congresso	51
-conhecer	39
-conhecido	44
-conhecimento	64
-conjunto	48
-conquista	47
-conquistar	53
-consagrado	45
-consagrar	40
-consciencia	51
-consciente	55
-consecutivo	62
-conseguir	47
-conselheiro	59
-conselho	43
-consenso	48
-consentir	53
-consequencia	58
-consequente	62
-consequentemente	91
-conservacao	52
-conservador	58
-conservar	47
-consideracao	55
-considerar	50
-consideravel	59
-consistir	54
-consoante	50
-consolidar	50
-consorcio	51
-constante	51
-constantemente	80
-constar	38
-constatar	47
-constitucional	75
-constituicao	65
-constituinte	73
-constituir	60
-construcao	53
-construir	53
-construtor	63
-consulta	41
-consultar	47
-consultor	53
-consumidor	55
-consumir	44
-consumo	40
-conta	25
-contabilidade	55
-contactar	43
-contacto	43
-contagem	38
-contaminado	53
-contar	31
-contemplar	49
-contemporaneo	70
-contente	48
-conter	35
-contestacao	56
-contestar	51
-conteudo	45
-contexto	51
-contido	40
-continental	59
-continente	59
-continuacao	52
-continuar	47
-continuidade	59
-continuo	47
-conto	31
-contornar	50
-contorno	50
-contra	31
-contracto	49
-contradicao	51
-contraditorio	73
-contrair	42
-contrapartida	60
-contrariar	49
-contrario	49
-contraste	51
-contratado	51
-contratar	46
-contribuicao	58
-contribuinte	66
-contribuir	53
-contributo	57
-controlar	48
-controle	46
-controlo	48
-controversia	67
-contudo	40
-convencao	44
-convencer	47
-convencido	52
-convencional	59
-conveniencia	58
-conveniente	62
-convenio	45
-convento	48
-convergencia	56
-conversa	41
-conversacao	52
-conversao	48
-conversar	47
-converter	52
-conviccao	41
-convicto	45
-convidado	43
-convidar	38
-convir	33
-convite	40
-convivencia	53
-conviver	44
-convivio	45
-convocacao	44
-convocar	39
-cooperacao	44
-cooperativa	53
-coordenacao	50
-coordenador	56
-coordenar	45
-copa	15
-copia	20
-copiar	26
-copo	21
-cor	16
-coracao	28
-coragem	30
-coral	21
-corda	21
-cordao	28
-corno	29
-coro	23
-coroa	24
-coronel	38
-corpo	27
-corporacao	45
-corporal	38
-correccao	41
-correctamente	68
-correcto	45
-corrector	51
-corredor	44
-correio	39
-corrente	46
-correr	33
-correspondencia	75
-correspondente	79
-corresponder	66
-corrida	32
-corrigir	41
-corrupcao	42
-cortar	31
-corte	29
-cortina	36
-costa	26
-costumar	42
-costume	40
-cota	19
-cotacao	30
-couro	28
-cova	17
-coxa	18
-cozido	34
-cozinha	34
-cozinhar	40
-cranio	28
-credibilidade	53
-credito	38
-credor	31
-crenca	24
-crente	33
-crer	20
-crescente	48
-crescer	35
-crescimento	60
-criacao	26
-criado	26
-criador	32
-crianca	25
-criar	21
-criatividade	53
-criativo	41
-criatura	35
-crime	24
-criminal	35
-criminoso	51
-crise	26
-crista	30
-cristal	34
-cristao	37
-cristianismo	65
-criterio	45
-critica	31
-criticar	37
-critico	37
-cronica	31
-cru	14
-cruel	23
-cruz	22
-cruzado	34
-cruzamento	54
-cruzar	29
-cruzeiro	45
-cubano	24
-cuidado	29
-cuidar	24
-cujo	21
-culminar	35
-culpa	17
-culpado	28
-culpar	23
-cultivar	38
-cultivo	38
-culto	27
-cultura	32
-cultural	36
-cumplicidade	48
-cumprimentar	59
-cumprimento	59
-cumprir	34
-cunhado	30
-cupula	22
-cura	15
-curar	21
-curiosamente	63
-curiosidade	52
-curioso	40
-curso	28
-curto	29
-curva	21
-curvar	27
-custar	30
-custo	30
-dado	16
-dama	11
-danca	15
-dancar	21
-dano	18
-dar	11
-data	14
-de	9
-debaixo	31
-debate	25
-debater	31
-debito	31
-debrucar	32
-decada	18
-decadencia	37
-decerto	38
-decidir	32
-decimo	29
-decisao	32
-decisivo	42
-declaracao	35
-declarar	30
-declinio	39
-decoracao	37
-decorar	32
-decorativo	52
-decorrente	55
-decorrer	42
-decretar	38
-decreto	38
-dedicacao	33
-dedicar	28
-dedo	20
-deduzir	37
-defeito	36
-defender	37
-defensivo	47
-defensor	42
-defesa	24
-deficiencia	44
-deficiente	48
-deficit	32
-definicao	38
-definido	38
-definir	33
-definitivamente	76
-definitivo	53
-defrontar	45
-degradacao	35
-degrau	24
-deitar	29
-deixar	28
-delegacao	33
-delegacia	31
-delegado	33
-delgado	28
-delicado	33
-delirio	36
-demais	27
-demanda	26
-demasiado	39
-demissao	41
-demitir	38
-democracia	40
-democrata	40
-democratico	54
-demonio	39
-demonstracao	60
-demonstrar	55
-demora	28
-demorar	34
-denominar	45
-densidade	41
-denso	29
-dente	28
-dentro	36
-denuncia	35
-denunciar	41
-deparar	27
-departamento	60
-dependencia	48
-dependente	52
-depender	39
-depoimento	56
-depois	32
-depor	26
-depositar	47
-deposito	47
-depressa	39
-depressao	46
-deputado	38
-derivado	38
-derivar	33
-derramar	34
-derrota	37
-derrotar	43
-derrubar	35
-desafiar	31
-desafio	31
-desagradavel	47
-desaparecer	47
-desaparecimento	72
-desastre	43
-descalco	34
-descansar	40
-descanso	40
-descarga	30
-descartar	41
-descendente	58
-descer	30
-descida	29
-descobrimento	70
-descobrir	45
-desconfianca	50
-desconfiar	46
-desconhecer	55
-desconhecido	60
-desconto	47
-descrever	47
-descricao	41
-desculpa	33
-desculpar	39
-desde	25
-desdobrar	42
-desejar	34
-desejo	34
-desembarcar	45
-desembargador	56
-desempenhar	52
-desempenho	52
-desempregado	56
-desemprego	51
-desencadear	47
-desenhar	38
-desenho	38
-desenrolar	51
-desenvolver	61
-desenvolvido	66
-desenvolvimento	86
-desequilibrio	65
-deserto	42
-desesperado	55
-desespero	50
-desfazer	38
-desgaste	40
-desgraca	30
-designacao	42
-designar	37
-desigualdade	48
-desistir	47
-desligar	35
-deslizar	40
-deslocacao	42
-deslocamento	62
-deslocar	37
-desmentir	51
-desordem	43
-despacho	35
-despedida	39
-despedir	40
-despeito	45
-despejar	38
-despertar	46
-despesa	33
-despir	31
-desportivo	59
-desporto	48
-desprezar	46
-desprezo	46
-destacar	35
-destaque	40
-destinado	47
-destinar	42
-destino	42
-destruicao	51
-destruir	46
-desvantagem	51
-desviar	34
-desvio	34
-detalhado	38
-detalhe	31
-detectar	40
-detective	49
-detencao	39
-deter	28
-determinacao	56
-determinado	56
-determinante	64
-determinar	51
-detestar	44
-detras	31
-deus	21
-devagar	26
-devedor	37
-dever	26
-devidamente	54
-devido	31
-devolver	43
-devorar	35
-dez	17
-dezena	29
-dezoito	44
-dia	10
-dia-a-dia	37
-diabo	19
-diagnostico	56
-dialogo	31
-diamante	35
-diante	29
-diariamente	51
-diario	28
-dicionario	49
-didactico	40
-diferenca	37
-diferenciado	53
-diferenciar	48
-diferente	46
-diferir	33
-dificil	28
-dificilmente	57
-dificuldade	42
-dificultar	43
-difundir	37
-difusao	31
-digital	30
-dignidade	37
-digno	25
-diligencia	41
-dimensao	40
-diminuicao	46
-diminuir	41
-dinamica	30
-dinheiro	42
-diploma	30
-diplomata	39
-diplomatico	53
-direccao	34
-directamente	61
-directo	38
-director	44
-directoria	50
-direito	40
-dirigente	47
-dirigir	34
-disciplina	44
-disciplinar	50
-discipulo	44
-disco	26
-discordar	43
-discreto	45
-discriminacao	58
-discurso	44
-discussao	46
-discutir	43
-disfarcar	35
-disparar	34
-dispensar	45
-dispersar	45
-disponibilidade	68
-disponivel	53
-dispor	33
-disposicao	50
-dispositivo	65
-disposto	49
-disputa	34
-disputar	40
-dissolver	51
-distancia	40
-distanciar	46
-distante	44
-distincao	46
-distinguir	54
-distinto	50
-distrair	42
-distribuicao	58
-distribuir	53
-distrital	48
-distrito	50
-ditador	35
-ditadura	34
-ditar	24
-divergencia	49
-diversao	41
-diversidade	52
-diverso	40
-divertir	45
-divida	25
-dividir	35
-divino	33
-divisa	28
-divisao	35
-divorcio	43
-divulgacao	39
-divulgar	34
-dizer	28
-doacao	23
-doar	18
-dobrar	26
-dobro	26
-doce	19
-docente	38
-documentacao	55
-documentario	62
-documento	50
-doenca	26
-doente	35
-doer	22
-doido	27
-dois	23
-dolar	22
-doloroso	49
-dom	16
-domestico	51
-dominante	47
-dominar	34
-domingo	37
-dominio	39
-dona	18
-dono	24
-dor	17
-dormir	33
-dose	23
-dotado	31
-dotar	26
-dourado	34
-doutor	37
-doutrina	42
-doze	24
-drama	17
-dramatico	40
-droga	21
-dupla	18
-duplo	24
-duque	24
-duracao	27
-durante	35
-durar	22
-duro	22
-duvida	25
-duvidar	31
-duzentos	50
-duzia	23
-e	5
-eco	15
-ecologico	44
-economia	39
-economico	48
-economista	54
-edicao	25
-edificacao	36
-edificar	31
-edificio	36
-edital	27
-editar	29
-editor	35
-editora	36
-editorial	45
-educacao	29
-educacional	44
-educado	29
-educar	24
-educativo	44
-efectivamente	64
-efectivo	41
-efectuar	35
-efeito	32
-eficacia	25
-eficaz	24
-eficiencia	40
-eficiente	44
-eh	9
-eixo	24
-ela	10
-elaboracao	37
-elaborado	37
-elaborar	32
-ele	14
-electricidade	58
-electrico	46
-electronico	59
-elefante	36
-elegante	37
-eleger	28
-eleicao	30
-eleitor	40
-eleitorado	52
-eleitoral	45
-elementar	45
-elemento	45
-elenco	30
-elevacao	32
-elevado	32
-elevador	38
-elevar	27
-eliminacao	42
-eliminar	37
-elite	27
-elogiar	31
-elogio	31
-em	10
-embaixada	31
-embaixador	43
-embaixo	32
-embalagem	31
-embarcacao	34
-embarcar	29
-embora	26
-embriao	31
-emenda	26
-emergencia	44
-emergir	35
-emigrante	44
-emigrar	31
-emissao	37
-emissora	43
-emitir	34
-emocao	28
-emocional	43
-empenhar	36
-empenho	36
-empreender	51
-empreendimento	76
-empregado	40
-empregar	35
-emprego	35
-empresa	33
-empresarial	49
-empresario	51
-emprestar	47
-emprestimo	57
-empurrar	38
-encaixar	34
-encaminhar	42
-encantar	36
-encanto	36
-encarar	28
-encargo	31
-encarnado	39
-encarregado	47
-encarregar	42
-encerramento	63
-encerrar	38
-encher	29
-encolher	40
-encomenda	42
-encomendar	48
-encontrar	48
-encontro	48
-encosta	37
-encostado	48
-encostar	43
-endereco	41
-energetico	53
-energia	31
-enfase	26
-enfermeiro	52
-enfiar	25
-enfim	23
-enfrentar	45
-enganar	28
-engano	28
-engenharia	42
-engenheiro	52
-engenho	36
-englobar	34
-engolir	36
-engracado	36
-enorme	34
-enquadrar	39
-enquanto	43
-enriquecer	51
-enrolar	35
-ensaiar	31
-ensaio	31
-ensinamento	61
-ensinar	36
-ensino	36
-entanto	41
-entao	27
-ente	24
-entender	45
-entendimento	70
-enterrar	43
-enterro	43
-entidade	38
-entrada	31
-entrar	32
-entre	30
-entrega	34
-entregar	40
-entretanto	60
-entrevista	57
-entusiasmo	56
-envelhecer	49
-envergonhar	55
-enviar	29
-envolver	45
-envolvido	50
-envolvimento	70
-enxergar	39
-epidemia	34
-episodio	44
-epoca	20
-equacao	27
-equilibrado	49
-equilibrar	44
-equilibrio	49
-equipa	25
-equipado	36
-equipamento	56
-equipe	29
-equivalente	55
-equivaler	42
-equivoco	43
-erguer	30
-errado	29
-errar	24
-erro	24
-erudito	40
-erva	18
-escada	21
-escala	21
-escalar	27
-escandalo	38
-escapar	27
-escasso	37
-esclarecer	45
-esclarecimento	70
-escoces	37
-escola	27
-escolar	33
-escolha	31
-escolher	41
-esconder	43
-escondido	48
-escorrer	45
-escravo	35
-escrever	43
-escrita	35
-escrito	41
-escritor	47
-escritorio	59
-escritura	46
-escudo	31
-escultor	45
-escultura	44
-escuridao	43
-escuro	33
-escutar	35
-esfera	26
-esforcar	37
-esforco	37
-esfregar	35
-esgotar	37
-esgoto	37
-esmagar	28
-espacial	30
-espaco	27
-espada	22
-espalhar	32
-espanhol	38
-espantar	38
-espanto	38
-espantoso	52
-especial	34
-especialidade	53
-especialista	55
-especializacao	59
-especializado	59
-especializar	54
-especialmente	63
-especie	34
-especificamente	69
-especificar	46
-especifico	46
-espectacular	52
-espectaculo	52
-espectador	50
-espectro	45
-especulacao	45
-espelho	36
-espera	28
-esperanca	38
-esperar	34
-espesso	42
-espingarda	42
-espinha	32
-espinho	38
-espirito	47
-espiritual	50
-espontaneo	56
-esporte	42
-esportivo	55
-esposa	31
-espreitar	47
-esquecer	41
-esquecido	46
-esquecimento	66
-esqueleto	51
-esquema	33
-esquerda	38
-esquerdo	44
-esquina	34
-esquisito	54
-esse	24
-essencia	39
-essencial	43
-essencialmente	72
-estabelecer	51
-estabelecido	56
-estabelecimento	76
-estabilidade	51
-estabilizacao	57
-estacao	32
-estacionamento	74
-estacionar	49
-estadio	37
-estado	32
-estadual	35
-estagio	36
-estar	27
-estatal	34
-estatistica	58
-estatistico	64
-estatua	35
-estatuto	49
-estavel	36
-este	25
-estender	46
-estetica	42
-estetico	48
-estilo	36
-estimar	37
-estimativa	51
-estimular	46
-estimulo	46
-estomago	43
-estoque	42
-estrada	32
-estragar	37
-estrago	37
-estrangeiro	59
-estranhar	44
-estranho	44
-estrategia	49
-estrategico	58
-estrear	38
-estreia	37
-estreito	51
-estrela	36
-estrutura	51
-estrutural	55
-estudante	49
-estudar	36
-estudio	41
-estudioso	55
-estudo	36
-estupido	45
-esvaziar	39
-etapa	19
-eterno	37
-etica	22
-etnico	34
-eu	10
-europeu	37
-evento	37
-eventual	40
-eventualmente	69
-evidencia	40
-evidenciar	46
-evidente	44
-evidentemente	73
-evitar	31
-evocar	28
-evolucao	38
-evoluir	38
-exactamente	54
-exacto	31
-exagerado	39
-exagero	34
-exame	23
-examinar	36
-exceder	35
-excelencia	44
-excelente	48
-excepcao	35
-excepcional	50
-excepto	39
-excessivo	52
-excesso	41
-excluir	35
-exclusao	39
-exclusivamente	72
-exclusivo	49
-execucao	36
-executar	40
-executivo	51
-exemplar	37
-exemplo	37
-exercer	37
-exercicio	46
-exercito	46
-exibicao	35
-exibir	30
-exigencia	40
-exigente	44
-exigir	31
-exilio	33
-existencia	52
-existente	56
-existir	43
-exito	32
-expandir	38
-expansao	38
-expectativa	53
-expedicao	41
-expediente	54
-experiencia	52
-experimental	61
-experimentar	63
-experimento	63
-explicacao	40
-explicar	35
-explicito	48
-explodir	42
-exploracao	45
-explorar	40
-explosao	42
-explosivo	52
-expor	29
-exportacao	49
-exportar	44
-exposicao	46
-exposto	45
-ex-presidente	75
-expressao	49
-expressar	48
-expressivo	59
-expresso	48
-exprimir	43
-expulsao	40
-expulsar	39
-extensao	46
-extenso	45
-exterior	49
-externo	44
-extincao	42
-extinguir	50
-extinto	46
-extra	27
-extraccao	41
-extrair	38
-extraordinario	74
-extremamente	66
-extremidade	55
-extremo	43
-fabrica	20
-fabricacao	31
-fabricante	39
-fabricar	26
-fabrico	26
-faca	7
-faccao	17
-face	11
-fachada	16
-facil	15
-facilidade	34
-facilitar	35
-facilmente	44
-facto	21
-factor	27
-faculdade	29
-fado	14
-faixa	16
-fala	8
-falar	14
-falecer	26
-falecido	31
-falencia	27
-falha	12
-falhar	18
-falso	21
-falta	16
-faltar	22
-fama	9
-familia	23
-familiar	29
-famoso	29
-fantasia	31
-fantasma	31
-fantastico	48
-farinha	25
-farmaceutico	51
-farmacia	24
-fase	15
-fatal	16
-fatia	17
-fauna	15
-favela	19
-favor	22
-favoravel	38
-favorecer	41
-favorito	42
-fazenda	27
-fazendeiro	49
-fazer	22
-fe	7
-febre	20
-fechado	26
-fechar	21
-fecho	21
-federacao	34
-federal	27
-feicao	23
-feijao	26
-feio	19
-feira	19
-feitio	32
-feixe	24
-felicidade	38
-feliz	24
-felizmente	53
-femea	18
-feminino	41
-fenomeno	43
-fera	14
-feria	19
-ferido	29
-ferimento	49
-ferir	24
-feroz	28
-ferramenta	45
-ferro	26
-fertil	30
-ferver	30
-festa	23
-festival	38
-feto	22
-fiar	14
-fibra	16
-ficar	17
-ficcao	21
-ficha	15
-fidalgo	26
-fidelidade	39
-fiel	16
-figado	22
-figura	22
-figurar	28
-fila	12
-fileira	28
-filha	16
-filho	22
-filmar	23
-filme	21
-filosofia	40
-filosofico	49
-filosofo	41
-fim	12
-final	18
-finalidade	37
-finalizar	38
-finalmente	47
-financas	31
-financeiro	46
-financiamento	60
-financiar	35
-findar	24
-fingir	27
-fino	20
-fio	14
-fiorestal	45
-firma	19
-firmar	25
-firme	23
-firmeza	32
-fiscal	22
-fiscalizacao	47
-fiscalizar	42
-fisica	23
-fisico	29
-fita	16
-fixacao	26
-fixar	21
-flagrante	36
-flanco	23
-flauta	21
-flexivel	38
-flor	19
-floresta	40
-fluido	27
-fluir	22
-flutuar	31
-fluxo	25
-foco	19
-fogo	19
-fogueira	34
-foguete	35
-folego	28
-folha	18
-fome	19
-fonte	28
-forca	19
-forcado	30
-forcar	25
-forma	21
-formacao	32
-formal	25
-formar	27
-formato	36
-formiga	29
-formoso	41
-formula	30
-formular	36
-fornecedor	51
-fornecer	40
-fornecimento	65
-forno	28
-foro	22
-fortalecer	47
-fortaleza	42
-forte	28
-fortemente	57
-fortuna	35
-forum	25
-fosforo	38
-fossil	32
-foto	24
-fotografar	43
-fotografia	42
-fotografico	51
-fotografo	43
-foz	17
-fracassar	34
-fracasso	34
-fraccao	23
-fraco	19
-frade	18
-fragil	21
-fragmento	43
-frances	30
-franco	25
-frango	25
-fraqueza	33
-frase	21
-fraude	23
-freguesia	39
-frei	18
-frente	32
-frequencia	43
-frequentar	49
-frequente	47
-frequentemente	76
-fresco	30
-frio	20
-fronteira	46
-frota	24
-fruta	22
-fruto	28
-fuga	11
-fugir	21
-fumaca	17
-fumar	19
-fumo	19
-funcao	24
-funcional	39
-funcionamento	66
-funcionar	41
-funcionario	53
-fundacao	29
-fundado	29
-fundador	35
-fundamental	47
-fundamentalmente	76
-fundamento	49
-fundar	24
-fundir	28
-fundo	24
-furar	20
-furia	19
-furioso	39
-furtar	28
-fusao	22
-futebol	33
-futuro	33
-gabinete	35
-gado	15
-galego	23
-galeria	25
-galho	19
-galinha	24
-galo	15
-ganhar	21
-ganho	21
-garantia	31
-garantir	36
-garganta	29
-garota	26
-garoto	32
-garrafa	20
-gas	11
-gasolina	34
-gastar	26
-gasto	26
-gato	19
-gaucho	23
-gaveta	24
-gelado	24
-gelo	19
-gemeo	25
-gene	19
-general	30
-generalizado	55
-generico	40
-genero	32
-generoso	46
-genetico	42
-genio	26
-genro	27
-gente	27
-geografia	33
-geografico	42
-geracao	26
-gerador	32
-geral	19
-geralmente	48
-gerar	21
-gerente	38
-gerir	25
-gestao	31
-gesto	30
-gestor	36
-gigante	31
-gigantesco	48
-ginasio	34
-ginastica	39
-girar	21
-giro	21
-global	21
-globalizacao	46
-globo	23
-gloria	26
-gol	14
-golfo	23
-golo	21
-golpe	23
-gordo	27
-gordura	32
-gostar	32
-gosto	32
-gota	19
-gotico	33
-governador	51
-governamental	63
-governante	53
-governar	40
-governo	40
-gozar	25
-gozo	25
-graca	14
-grade	19
-grafico	27
-grama	16
-gramatica	33
-grande	25
-grandeza	34
-grao	17
-gratuito	43
-grau	15
-gravacao	28
-gravar	23
-gravata	26
-grave	21
-gravida	26
-gravidade	35
-gravidez	38
-gravura	28
-grego	24
-greve	25
-grilo	25
-gripe	23
-gritar	29
-grito	29
-grosseiro	53
-grosso	37
-grupo	25
-gruta	23
-guarda	20
-guardar	26
-guerra	26
-guerreiro	48
-guerrilha	39
-guerrilheiro	61
-guia	14
-guiar	20
-guitarra	35
-habilidade	35
-habitacao	32
-habitante	40
-habitar	27
-habito	27
-habituado	37
-habitual	30
-habitualmente	59
-habituar	32
-harmonia	35
-haver	22
-hectare	32
-helicoptero	58
-heranca	26
-herdar	26
-herdeiro	42
-heroi	27
-heroico	37
-hesitar	36
-hierarquia	43
-higiene	33
-hino	22
-hipotese	45
-historia	43
-historiador	60
-historico	52
-hoje	22
-holandes	38
-homem	26
-homenagear	43
-homenagem	41
-homicidio	45
-homossexual	59
-honesto	44
-honra	24
-honrar	30
-hora	18
-horario	36
-horizontal	56
-horizonte	56
-horrivel	43
-horror	36
-horta	26
-hospital	40
-hospitalar	47
-hostil	35
-hostilidade	54
-hotel	28
-humanidade	40
-humano	28
-humidade	33
-humido	30
-humilde	32
-humor	27
-iberico	33
-ida	10
-idade	19
-ideal	19
-ideia	20
-identico	43
-identidade	47
-identificacao	55
-identificar	50
-ideologia	41
-ideologico	50
-idioma	27
-idiota	30
-idolo	27
-idoso	30
-ignorancia	43
-ignorar	34
-igreja	26
-igual	18
-igualdade	32
-igualmente	47
-ilegal	22
-ilha	14
-iludir	29
-iluminacao	42
-iluminar	37
-ilusao	29
-ilustracao	47
-ilustrar	42
-ilustre	40
-imagem	24
-imaginacao	37
-imaginar	32
-imaginario	44
-imediatamente	63
-imediato	40
-imenso	35
-imigrante	44
-imitar	30
-imobiliario	52
-imovel	32
-impacto	33
-impedir	34
-imperador	43
-imperial	35
-imperio	37
-implantacao	45
-implantar	40
-implementacao	59
-implicar	33
-impor	27
-importacao	47
-importancia	51
-importante	55
-importar	42
-imposicao	44
-impossibilidade	70
-impossivel	55
-imposto	43
-imprensa	39
-impressao	47
-impressionante	77
-impressionar	64
-impresso	46
-imprimir	41
-improvisar	52
-impulso	37
-inauguracao	43
-inaugurar	38
-incapacidade	42
-incapaz	28
-incendio	41
-incentivar	51
-incentivo	51
-incerteza	47
-incerto	40
-incidencia	43
-incidente	47
-incidir	34
-inclinar	36
-incluir	34
-inclusao	38
-inclusive	46
-incomodar	44
-incomodo	44
-incompleto	54
-inconsciente	66
-incorporar	51
-incrivel	40
-indagar	26
-indenizacao	51
-independencia	59
-independente	63
-independentemente	92
-index	27
-indiano	34
-indicacao	35
-indicador	41
-indicar	30
-indice	28
-indicio	35
-indiferenca	48
-indiferente	57
-indigena	35
-indignacao	41
-indio	27
-indirecto	49
-indispensavel	65
-individual	45
-individuo	47
-industria	47
-industrial	51
-induzir	39
-inedito	40
-inerente	46
-inesperado	50
-inevitavel	51
-infancia	29
-infante	33
-infantil	37
-infeccao	32
-infeliz	35
-infelizmente	64
-inferior	42
-inferno	37
-infinito	44
-inflacao	29
-influencia	42
-influenciar	48
-influente	46
-influir	33
-informacao	43
-informar	38
-informatica	49
-informativo	58
-infra-estrutura	79
-ingenuo	37
-ingles	30
-ingressar	46
-ingresso	46
-inicial	29
-inicialmente	58
-iniciar	31
-iniciativa	45
-inicio	31
-inimigo	36
-injeccao	36
-injustica	46
-injusto	44
-inocencia	41
-inocente	45
-inovacao	36
-inovador	42
-inquerito	52
-inquietacao	51
-inscrever	49
-inscricao	43
-inscrito	47
-insecto	41
-inseguranca	48
-inserir	40
-insistencia	58
-insistir	49
-inspeccao	41
-inspector	51
-inspiracao	45
-inspirar	40
-instabilidade	57
-instalacao	43
-instalado	43
-instalar	38
-instancia	42
-instante	46
-instinto	52
-institucional	70
-instituicao	60
-instituir	55
-instituto	59
-instrucao	48
-instrumento	68
-insuficiente	62
-insuportavel	64
-integracao	45
-integrado	45
-integral	38
-integrante	53
-integrar	40
-inteiramente	65
-inteiro	42
-intelectual	54
-inteligencia	56
-inteligente	60
-intencao	41
-intensidade	56
-intensificar	59
-intensivo	55
-intenso	44
-interaccao	45
-interessado	61
-interessante	69
-interessar	56
-interesse	54
-interferencia	63
-interferir	54
-interior	48
-interlocutor	70
-intermediario	68
-intermedio	56
-internacional	63
-internado	48
-interno	43
-interpretacao	65
-interpretar	60
-interprete	58
-interrogacao	58
-interrogar	53
-interromper	63
-interrupcao	56
-intervalo	48
-intervencao	58
-intervir	47
-intimidade	48
-intimo	36
-intitulado	53
-intriga	34
-introducao	52
-introduzir	60
-intuicao	40
-intuito	44
-inumero	39
-inundacao	38
-inutil	33
-invadir	33
-invasao	33
-inveja	29
-invencao	39
-inventar	43
-inverno	41
-inverso	42
-inverter	47
-inves	29
-investidor	59
-investigacao	57
-investigador	63
-investigar	52
-investimento	73
-investir	48
-invisivel	49
-invocar	34
-ir	11
-ira	12
-irma	17
-irmao	24
-ironia	30
-ironico	39
-irregular	41
-irregularidade	60
-irritacao	42
-irritar	37
-isento	38
-isolado	35
-isolamento	55
-isolar	30
-isso	26
-isto	27
-italiano	37
-item	23
-ja	7
-jamais	25
-janela	23
-jantar	28
-japones	36
-jardim	27
-jazz	23
-jeito	31
-joelho	33
-jogador	34
-jogar	23
-jogo	23
-joia	19
-jornada	31
-jornal	30
-jornalismo	54
-jornalista	51
-jornalistico	65
-jovem	29
-judaico	31
-judeu	25
-judicial	33
-judiciario	47
-juiz	24
-juizo	31
-julgamento	50
-julgar	25
-junior	35
-junta	26
-juntamente	55
-juntar	32
-junto	32
-jurar	24
-juri	22
-juridico	41
-juro	24
-justamente	56
-justica	35
-justificacao	53
-justificar	48
-justo	33
-juvenil	37
-juventude	50
-la	5
-labio	19
-laboratorio	54
-laco	15
-lado	16
-ladrao	23
-lago	15
-lagoa	16
-lagrima	25
-lama	11
-lamentar	36
-lamina	22
-lampada	20
-lancamento	46
-lancar	21
-lance	19
-lapis	21
-lar	11
-laranja	25
-largamente	44
-largar	21
-largo	21
-largura	26
-lata	14
-lateral	29
-latim	23
-latino	31
-lavagem	25
-lavar	18
-lavoura	30
-lavrador	35
-lavrar	24
-lazer	24
-leal	14
-leao	17
-legal	17
-legiao	25
-legislacao	40
-legislativo	55
-legitimo	42
-lei	14
-leilao	26
-leite	27
-leito	29
-leitor	35
-leitura	34
-lembranca	33
-lembrar	29
-lencol	29
-lenda	20
-lenha	20
-lentamente	53
-lente	28
-lento	30
-leque	24
-ler	15
-lesao	24
-leste	29
-letra	24
-levantamento	62
-levantar	37
-levar	22
-leve	20
-lhe	13
-liberacao	34
-liberado	34
-liberal	27
-liberar	29
-liberdade	36
-libertacao	42
-libertar	37
-libra	18
-licao	20
-licenca	27
-liceu	22
-licitacao	37
-lidar	20
-lider	24
-lideranca	35
-liderar	31
-liga	13
-ligacao	24
-ligar	19
-ligeiramente	58
-ligeiro	35
-limitacao	39
-limitado	39
-limitar	34
-limite	32
-limpar	25
-limpeza	32
-limpo	25
-lindo	26
-linear	27
-lingua	24
-linguagem	37
-linha	20
-linho	26
-liquidar	35
-liquido	35
-lirico	30
-liso	23
-lista	25
-literario	47
-literatura	49
-litoral	35
-litro	30
-livrar	28
-livraria	34
-livre	26
-livremente	55
-livro	28
-lixo	23
-lobo	20
-local	19
-localidade	38
-localizacao	44
-localizado	44
-localizar	39
-logica	23
-logico	29
-logo	21
-loja	18
-longe	25
-longinquo	48
-longo	27
-lote	24
-louco	26
-loucura	31
-louro	29
-lua	10
-lucro	25
-lugar	19
-lume	19
-luminoso	46
-luta	18
-lutar	24
-luto	24
-luva	16
-luxo	23
-luz	17
-macaco	20
-macho	20
-macico	24
-macio	21
-madame	21
-madeira	27
-madrugada	30
-maduro	28
-mae	11
-magia	15
-magico	24
-magistrado	47
-magnetico	43
-magnifico	37
-magro	22
-maior	24
-maioria	30
-mais	18
-major	25
-mal	10
-mala	11
-malha	15
-mamifero	36
-mancha	20
-mandado	28
-mandar	23
-mandato	32
-maneira	29
-manga	16
-manha	17
-mania	18
-manifestacao	51
-manifestar	46
-manifesto	46
-manipulacao	42
-manobra	28
-manso	26
-manta	21
-manteiga	34
-manter	31
-manto	27
-manual	22
-manutencao	47
-mao	13
-mao-de-obra	54
-mapa	11
-maquina	28
-mar	12
-maravilha	33
-maravilhoso	53
-marca	16
-marcacao	27
-marcado	27
-marcador	33
-marcante	35
-marcar	22
-marcha	20
-marchar	26
-marco	22
-mare	17
-marechal	29
-marfim	24
-margem	25
-marginal	31
-marido	28
-marinheiro	50
-marinho	34
-maritimo	42
-marketing	42
-marmore	35
-marques	34
-marxista	40
-mas	13
-mascara	24
-masculino	43
-massa	21
-massacre	35
-mata	15
-matar	21
-matematica	42
-materia	31
-material	35
-materia-prima	60
-materno	38
-mato	21
-matriz	33
-maturidade	44
-mau	11
-maximo	30
-meado	22
-mecanica	29
-mecanico	35
-mecanismo	44
-medalha	24
-media	20
-mediante	39
-medicamento	54
-medicina	34
-medico	29
-medida	24
-medieval	35
-medio	26
-medir	25
-medo	21
-meia-noite	55
-meio	22
-meio-dia	40
-mel	14
-melhor	31
-melhorar	38
-melhoria	37
-melodia	31
-membro	30
-memoria	34
-mencionar	44
-mendigo	35
-menina	28
-menino	34
-menor	29
-menos	30
-mensagem	37
-mensal	28
-mental	29
-mentalidade	48
-mente	29
-mentir	35
-mentira	36
-mercado	31
-mercadoria	43
-merce	24
-merecer	35
-mergulhar	39
-merito	36
-mero	23
-mes	17
-mesa	18
-mesmo	29
-mesquita	41
-mestre	36
-meta	19
-metade	28
-metal	23
-metalico	38
-meter	29
-metodo	36
-metodologia	56
-metro	31
-metropole	51
-metropolitano	73
-meu	15
-mexer	28
-mexicano	39
-midia	20
-mil	14
-milagre	29
-milenio	37
-milhao	26
-milhar	25
-milho	25
-milimetro	50
-milionario	51
-militante	47
-militar	34
-mina	17
-mineiro	39
-mineral	32
-minerio	39
-minimo	33
-ministerio	59
-ministrar	49
-ministro	49
-minoria	35
-minuto	36
-miseravel	44
-miseria	34
-misericordia	59
-missa	25
-missao	32
-missionario	61
-misterio	48
-misterioso	62
-mistico	40
-misto	32
-mistura	37
-misturar	43
-mito	25
-miudo	26
-mobiliario	47
-mobilizacao	48
-mobilizar	43
-moca	16
-mocidade	34
-moco	22
-moda	17
-modalidade	40
-modelo	32
-moderado	39
-modernizacao	58
-moderno	40
-modesto	43
-modificacao	43
-modificar	38
-modo	23
-modulo	32
-moeda	22
-moer	23
-moinho	34
-mola	17
-molde	25
-mole	21
-molhado	32
-molho	27
-momento	43
-monarquia	41
-monetario	50
-monge	26
-monopolio	52
-monstro	46
-montado	38
-montagem	40
-montanha	38
-montante	46
-montar	33
-monte	31
-monumento	54
-moradia	29
-morador	36
-moral	23
-morar	25
-morder	33
-moreno	36
-morrer	35
-morro	31
-mortal	31
-morte	31
-morto	33
-mosca	23
-mosteiro	50
-mostra	34
-mostrar	40
-motivacao	43
-motivar	38
-motivo	38
-motor	33
-motorista	54
-mouro	30
-movel	27
-mover	29
-movimentacao	59
-movimentar	54
-movimento	54
-muculmano	41
-mudanca	25
-mudar	21
-mudo	21
-muito	30
-mulato	30
-mulher	29
-multa	23
-multidao	39
-multinacional	60
-multiplicar	50
-multiplo	42
-mundial	30
-mundo	27
-municipal	38
-municipio	45
-muralha	26
-muro	23
-muscular	36
-musculo	36
-museu	27
-musica	26
-musical	30
-musico	32
-mutuo	30
-nacao	18
-nacional	33
-nacionalidade	52
-nacionalista	54
-nada	12
-nadar	18
-namorado	37
-namorar	32
-namoro	32
-nao	14
-nariz	26
-narrar	26
-narrativa	40
-narrativo	46
-nascente	41
-nascer	28
-nascimento	53
-nativo	33
-natural	31
-naturalidade	50
-naturalmente	60
-natureza	40
-naval	18
-nave	18
-navegacao	33
-navegar	28
-navio	25
-necessariamente	75
-necessario	52
-necessidade	52
-necessitar	53
-negar	21
-negativo	41
-negociacao	41
-negociar	36
-negocio	36
-negro	27
-nem	16
-nenhum	31
-nervo	30
-nervoso	44
-neto	26
-neutro	37
-neve	22
-ninguem	35
-ninho	28
-nitido	35
-nivel	26
-no	13
-nobre	26
-nobreza	35
-nocao	24
-nocturno	48
-noite	31
-noiva	25
-noivo	31
-nome	23
-nomeacao	35
-nomeadamente	58
-nomeado	35
-nomear	30
-nominal	34
-nora	20
-nordeste	48
-nordestino	61
-norma	25
-normal	29
-normalmente	58
-noroeste	51
-norte	32
-norte-americano	79
-nos	20
-nosso	34
-nota	22
-notar	28
-notavel	37
-noticia	35
-nova	20
-novamente	49
-nove	24
-novela	29
-noventa	39
-novidade	38
-novo	26
-nu	11
-nuclear	30
-nucleo	30
-nulo	22
-numero	34
-numeroso	48
-nunca	21
-nuvem	27
-o	7
-obedecer	37
-objectivo	49
-objecto	38
-obra	16
-obrigacao	35
-obrigado	35
-obrigar	30
-obrigatorio	57
-obscuro	37
-observacao	45
-observador	51
-observar	40
-obsessao	43
-obstaculo	44
-obstante	44
-obtencao	39
-obter	28
-obviamente	50
-obvio	27
-ocasiao	31
-oceano	29
-ocidental	43
-ocidente	43
-ocorrencia	49
-ocorrer	40
-oculos	33
-ocultar	34
-ocupacao	31
-ocupado	31
-ocupar	26
-odiar	23
-odio	23
-oeste	32
-ofender	35
-ofensa	28
-ofensiva	39
-oferecer	39
-oferta	29
-oficial	27
-oficialmente	56
-oficina	29
-oficio	29
-oh	11
-oitavo	34
-oitenta	40
-oito	27
-oleo	23
-olhar	22
-olho	22
-olimpico	40
-ombro	27
-omissao	39
-onda	18
-onde	22
-onibus	32
-ontem	31
-onze	26
-opcao	22
-opera	23
-operacao	34
-operacional	49
-operador	40
-operar	29
-operario	41
-opiniao	35
-opor	24
-oportunidade	62
-oportuno	50
-oposicao	41
-opositor	51
-oposto	40
-optar	26
-optico	34
-optimista	50
-optimo	36
-ora	14
-oracao	25
-oral	18
-orbita	29
-orcamento	48
-ordem	27
-ordenado	40
-ordenar	35
-ordinario	47
-orelha	27
-organico	38
-organismo	47
-organizacao	48
-organizado	48
-organizar	43
-orgao	24
-orgulho	36
-orientacao	49
-oriental	42
-orientar	44
-oriente	42
-origem	31
-original	37
-originar	39
-originario	51
-oriundo	40
-orquestra	50
-oscilar	33
-osso	28
-ou	12
-ouro	25
-ousar	26
-outono	40
-outro	33
-outrora	40
-ouvido	34
-ouvir	29
-ovelha	27
-ovo	20
-oxigenio	45
-pa	5
-paciencia	33
-paciente	37
-pacifico	30
-paco	15
-pacote	28
-pacto	23
-padrao	23
-padre	20
-padrinho	37
-pagamento	40
-pagar	15
-pagina	20
-pai	10
-painel	25
-pairar	23
-pais	17
-paisagem	31
-paixao	25
-palacio	25
-palavra	23
-palco	19
-palestra	36
-palha	14
-palido	25
-palmeira	31
-pancada	20
-panela	21
-panico	26
-pano	18
-panorama	31
-pao	12
-papa	10
-papai	15
-papel	18
-par	11
-para	12
-parada	17
-paradigma	30
-parado	23
-paragem	25
-paragrafo	31
-paraiso	31
-paralelamente	55
-paralelo	32
-paralisar	35
-parametro	43
-parar	18
-parasita	33
-parceiro	37
-parcela	24
-parceria	31
-parcial	24
-parcialmente	53
-pardo	22
-parecer	30
-parecido	35
-parede	25
-parente	35
-parlamentar	47
-parlamento	47
-parque	26
-parte	24
-participacao	48
-participante	56
-participar	43
-particula	37
-particular	43
-particularmente	72
-partida	29
-partidario	47
-partido	35
-partilha	33
-partilhar	39
-partir	30
-parto	26
-passado	31
-passageiro	46
-passagem	33
-passar	26
-passaro	33
-passe	24
-passear	31
-passeio	36
-passivo	37
-passo	26
-pasta	21
-pasto	27
-pastor	33
-pata	14
-patamar	26
-patente	37
-patio	25
-patrao	27
-patria	25
-patrimonio	54
-pau	10
-paulista	35
-pausa	18
-pauta	19
-pavilhao	32
-paz	13
-pe	9
-peca	13
-pecado	24
-peculiar	33
-pedaco	24
-pedagogico	42
-pedido	29
-pedir	24
-pedra	20
-pegar	19
-peito	29
-peixe	26
-pele	18
-pelo	20
-pena	16
-penal	20
-pendente	43
-pendurado	42
-penetracao	46
-penetrar	41
-peninsula	43
-pensador	40
-pensamento	54
-pensao	30
-pensar	29
-pequenino	48
-pequeno	37
-perante	35
-perceber	36
-percentagem	51
-percepcao	38
-percorrer	48
-percurso	43
-perda	20
-perdao	27
-perder	30
-perdido	35
-perdoar	33
-peregrinacao	52
-perfeicao	38
-perfeitamente	65
-perfeito	42
-perfil	26
-perfume	32
-pergunta	38
-perguntar	44
-periferia	39
-perigo	30
-perigoso	44
-periodico	46
-periodo	38
-perito	35
-permanecer	46
-permanencia	47
-permanente	51
-permitir	44
-perna	22
-pernambucano	51
-perpetuo	44
-perseguicao	51
-perseguir	46
-persistir	53
-personagem	49
-personalidade	59
-perspectiva	54
-pertencente	61
-pertencer	48
-perto	30
-perturbacao	48
-perturbar	43
-perverso	46
-pesadelo	37
-pesado	28
-pesar	23
-pesca	20
-pescador	37
-pescar	26
-pescoco	36
-peso	23
-pesquisa	39
-pesquisador	56
-pesquisar	45
-pessoa	31
-pessoal	35
-pessoalmente	64
-peste	29
-petroleo	46
-pia	10
-piada	15
-pianista	37
-piano	23
-picar	19
-pico	19
-piedade	28
-pilha	18
-piloto	35
-pinheiro	42
-pintar	30
-pintor	36
-pintura	35
-pioneiro	45
-pior	22
-piorar	29
-pisar	23
-piscina	31
-piso	23
-pista	25
-placa	13
-planalto	35
-planeamento	52
-planejamento	58
-planejar	33
-planeta	29
-planicie	33
-plano	22
-planta	24
-plantacao	35
-plantar	30
-plastico	39
-plataforma	39
-plateia	28
-plenario	38
-pleno	26
-pneu	20
-po	11
-pobre	24
-pobreza	33
-poca	15
-poco	21
-poder	26
-poderoso	47
-poeira	28
-poema	22
-poesia	29
-poeta	25
-poetico	39
-pois	23
-polemica	34
-polemico	40
-policia	29
-policial	33
-politecnico	57
-politica	37
-politicamente	66
-politico	43
-polo	22
-poluicao	36
-ponderar	39
-ponta	26
-pontape	35
-ponte	30
-ponto	32
-pontual	35
-pop	15
-populacao	36
-popular	31
-popularidade	50
-por	17
-porcao	28
-porco	27
-porem	27
-pormenor	46
-porque	32
-porta	26
-portador	43
-portanto	47
-portao	33
-portaria	38
-porta-voz	55
-porte	30
-porto	32
-portugues	50
-porventura	54
-posicao	34
-positivo	49
-posse	30
-possibilidade	60
-possibilitar	61
-possivel	45
-possivelmente	74
-possuir	41
-postal	31
-poste	31
-posterior	55
-posteriormente	84
-posto	33
-postura	38
-potencia	39
-potencial	43
-potencialidade	62
-pouco	26
-poupanca	31
-poupar	27
-pousar	30
-povo	24
-povoacao	36
-povoado	36
-povoar	31
-praca	15
-praga	15
-praia	17
-prata	20
-pratica	28
-praticamente	57
-praticar	34
-pratico	34
-prato	26
-prazer	30
-prazo	26
-precario	37
-precedente	51
-preceder	38
-preceito	43
-precioso	44
-precipitar	47
-precisamente	60
-precisao	38
-precisar	37
-preciso	37
-preco	25
-precoce	33
-preconceito	59
-predio	31
-predominar	49
-preencher	44
-prefeito	42
-prefeitura	47
-preferencia	48
-preferir	39
-pregar	25
-prejudicar	45
-prejuizo	46
-preliminar	47
-prematuro	47
-premio	32
-prender	36
-preocupacao	46
-preocupado	46
-preocupar	41
-preparacao	38
-preparado	38
-preparar	33
-presenca	37
-presente	46
-preservacao	51
-preservar	46
-presidencia	51
-presidencial	55
-presidente	55
-presidir	42
-preso	29
-pressa	30
-pressao	37
-pressionar	54
-prestacao	42
-prestar	37
-prestes	42
-prestigio	50
-presumir	43
-pretender	49
-pretensao	49
-pretexto	50
-preto	30
-prevalecer	45
-prevencao	43
-prevenir	43
-preventivo	58
-prever	32
-previamente	56
-previdencia	50
-previo	33
-previsao	41
-previsto	48
-primario	39
-primavera	39
-primeiro	43
-primeiro-ministro	100
-primitivo	51
-primo	27
-principal	38
-principalmente	67
-principe	38
-principio	45
-prioridade	47
-prisao	30
-prisioneiro	63
-privado	33
-privatizacao	55
-privilegiado	55
-privilegiar	50
-privilegio	50
-probabilidade	50
-problema	34
-problematica	51
-proceder	40
-procedimento	65
-processar	46
-processo	46
-procissao	47
-proclamar	37
-procura	32
-procurador	49
-procurar	38
-producao	37
-produtividade	64
-produtivo	52
-produto	41
-produtor	47
-produzir	45
-proferir	41
-professor	51
-profeta	33
-profissao	46
-profissional	61
-profundamente	64
-profundidade	53
-profundo	41
-programa	33
-programacao	44
-progredir	46
-progressivamente	86
-progressivo	63
-progresso	52
-proibicao	40
-proibido	40
-proibir	35
-projeccao	42
-projectar	46
-projecto	46
-prolongar	44
-promessa	42
-prometer	46
-promocao	40
-promotor	50
-promover	46
-pronto	38
-pronunciar	49
-propaganda	37
-propagar	32
-propicio	41
-propor	34
-proporcao	45
-proporcional	60
-proporcionar	62
-proposicao	51
-proposito	55
-proposta	44
-propriamente	62
-propriedade	51
-proprietario	64
-proprio	39
-prosa	25
-prosperidade	58
-prosseguir	55
-protagonista	63
-proteccao	44
-protector	54
-proteger	44
-proteina	42
-protestante	65
-protestar	52
-protesto	52
-protocolo	53
-prova	24
-provar	30
-provavel	39
-provavelmente	68
-provedor	45
-proveito	48
-proveniente	63
-providencia	52
-providenciar	58
-provincia	43
-provir	34
-provisorio	60
-provocar	40
-proximidade	53
-proximo	41
-prudente	43
-psicologia	46
-psicologico	55
-psicologo	47
-publicacao	35
-publicamente	53
-publicar	30
-publicidade	42
-publicitario	55
-publico	30
-pular	20
-pulmao	26
-pulso	27
-punho	26
-punicao	31
-punir	26
-puramente	45
-pureza	29
-puro	22
-puxar	23
-quadra	22
-quadrado	33
-quadro	28
-qual	15
-qualidade	34
-qualificacao	42
-qualificado	42
-qualquer	36
-quando	28
-quantia	31
-quantidade	44
-quanto	32
-quarenta	37
-quarta-feira	53
-quartel	34
-quarto	32
-quase	23
-quatro	32
-que	15
-quebra	24
-quebrar	30
-queda	20
-queijo	33
-queima	26
-queimado	37
-queimar	32
-queixa	28
-queixar	34
-quem	20
-quente	34
-querer	32
-querido	37
-questao	38
-questionar	55
-quilo	26
-quilometro	57
-quimica	29
-quimico	35
-quinhentos	58
-quinta-feira	57
-quintal	34
-quinto	36
-quinze	34
-quota	26
-quotidiano	53
-rabo	16
-raca	11
-raciocinio	48
-racional	33
-radical	24
-radio	23
-rainha	23
-raio	19
-raiva	19
-raiz	20
-ramo	19
-rancho	27
-rapariga	27
-rapaz	20
-rapidamente	50
-rapidez	33
-rapido	27
-raramente	43
-raro	20
-rasgar	24
-rato	22
-razao	23
-razoavel	38
-reaccao	26
-reafirmar	37
-reagir	26
-reajuste	43
-real	16
-realidade	35
-realismo	40
-realista	37
-realizacao	41
-realizador	47
-realizar	36
-realmente	45
-rebanho	31
-rebelde	31
-rebeliao	35
-rebentar	39
-recado	26
-recair	26
-recear	26
-receber	32
-receio	31
-receita	33
-recente	38
-recentemente	67
-recepcao	34
-recinto	40
-reclamacao	36
-reclamar	31
-recolha	30
-recolher	40
-recomecar	41
-recomendacao	53
-recomendar	48
-reconhecer	50
-reconhecimento	75
-reconstrucao	64
-recordacao	43
-recordar	38
-recorde	36
-recorrer	44
-recto	29
-recuar	26
-recuperacao	46
-recuperar	41
-recurso	39
-recusa	27
-recusar	33
-redaccao	30
-rede	20
-redigir	34
-redondo	39
-redor	28
-reducao	31
-reduzido	44
-reduzir	39
-reeleicao	41
-refazer	33
-refeicao	34
-refem	23
-referencia	44
-referendo	46
-referente	48
-referido	40
-referir	35
-reflectir	44
-reflexao	37
-reflexo	36
-reforcar	36
-reforco	36
-reforma	32
-reformar	38
-refugiar	33
-reger	25
-regiao	27
-regime	29
-regimento	50
-regional	37
-regionalizacao	62
-registar	41
-registo	41
-registrar	47
-registro	47
-regra	21
-regressar	46
-regresso	46
-regulamentacao	60
-regulamento	55
-regular	30
-regularmente	59
-rei	16
-reinar	29
-reino	29
-reitor	37
-reivindicacao	57
-reivindicar	52
-rejeicao	38
-rejeitar	42
-relacao	27
-relacionado	49
-relacionamento	69
-relacionar	44
-relatar	31
-relativamente	65
-relativo	42
-relato	31
-relatorio	49
-relevante	46
-relevo	33
-religiao	36
-religioso	49
-relogio	37
-remedio	37
-remeter	40
-remoto	38
-remover	40
-remuneracao	50
-renascer	39
-renascimento	64
-renda	22
-render	32
-rendimento	57
-renovacao	42
-renovar	37
-renuncia	37
-renunciar	43
-reparacao	34
-reparar	29
-reparticao	46
-repassar	37
-repente	39
-repercussao	56
-repertorio	59
-repeticao	44
-repetir	39
-repleto	39
-reportagem	50
-reporter	47
-repousar	41
-repouso	41
-representacao	64
-representante	72
-representar	59
-representativo	79
-repressao	48
-reprimir	42
-reproducao	48
-reproduzir	56
-republica	35
-republicano	48
-reputacao	40
-requerer	43
-requisito	53
-reserva	36
-reservado	47
-reservar	42
-resgatar	37
-resgate	35
-residencia	47
-residente	51
-residir	38
-residuo	39
-resistencia	58
-resistente	62
-resistir	49
-resolucao	45
-resolver	46
-respectivamente	79
-respectivo	56
-respeitar	47
-respeito	47
-respiracao	45
-respirar	40
-responder	50
-responsabilidade	73
-responsabilizar	74
-responsavel	58
-resposta	45
-ressaltar	45
-restabelecer	57
-restante	46
-restar	33
-restauracao	50
-restaurante	58
-restaurar	45
-resto	33
-restricao	48
-restringir	57
-restrito	52
-resultado	47
-resultante	55
-resultar	42
-resumir	39
-resumo	35
-reter	30
-retirada	36
-retirar	37
-retomar	38
-retorica	41
-retornar	45
-retorno	45
-retratar	41
-retrato	41
-reu	16
-reuniao	35
-reunir	33
-revelacao	38
-revelar	33
-rever	28
-reverter	47
-revestir	48
-revisao	37
-revisor	42
-revista	38
-revolta	37
-revoltar	43
-revolucao	44
-revolucionario	73
-revolver	45
-rezar	26
-ribeira	30
-rico	21
-ridiculo	39
-rigido	30
-rigor	27
-rigoroso	48
-rim	16
-rio	18
-riqueza	35
-rir	17
-risca	22
-risco	28
-riso	25
-ritmo	31
-rito	26
-ritual	29
-rival	22
-robusto	42
-rocha	21
-rock	19
-roda	18
-rodada	23
-rodar	24
-rodear	29
-roer	24
-rolar	24
-rolo	24
-romance	33
-romancista	49
-romano	32
-romantico	48
-romantismo	57
-romper	33
-ronda	24
-rondar	30
-rosa	21
-rosado	32
-rosario	39
-rosto	35
-rota	22
-roteiro	44
-rotina	33
-rotulo	37
-roubar	27
-roubo	27
-roupa	23
-roxo	27
-rua	12
-ruido	27
-ruim	21
-ruina	23
-rumo	23
-rumor	29
-ruptura	35
-rural	22
-russo	32
-sabado	22
-sabedoria	38
-saber	21
-sabio	22
-sabor	23
-saca	12
-sacar	18
-sacerdote	46
-saco	18
-sacrificar	39
-sacrificio	44
-sacudir	31
-safra	17
-sagrado	29
-saia	14
-saida	18
-sair	19
-sal	12
-sala	13
-salao	20
-salarial	29
-salario	31
-saldo	23
-salgado	27
-salientar	43
-saltar	27
-salto	27
-salvacao	30
-salvar	25
-samba	16
-sancao	25
-saneamento	51
-sangue	27
-sanguineo	45
-sanitario	46
-santo	29
-santuario	46
-sao	15
-sapato	28
-sardinha	34
-sargento	43
-satelite	43
-satisfacao	42
-satisfatorio	64
-satisfazer	50
-satisfeito	55
-saudade	27
-saudar	24
-saudavel	33
-saude	22
-se	12
-seara	20
-seca	16
-secar	22
-seccao	26
-seco	22
-secretaria	47
-secretario	53
-secretario-geral	80
-secreto	41
-sector	36
-secular	31
-seculo	31
-secundario	49
-seda	17
-sede	21
-seduzir	40
-segmento	46
-segredo	37
-seguida	30
-seguido	36
-seguinte	44
-seguir	31
-segunda-feira	58
-segundo	37
-seguranca	37
-segurar	33
-seguro	33
-seio	24
-seis	24
-seita	26
-seleccao	35
-seleccionar	52
-selo	23
-selva	23
-selvagem	36
-sem	17
-semana	25
-semanal	29
-semear	29
-semelhanca	41
-semelhante	50
-semente	41
-semestre	48
-seminario	47
-sempre	32
-senado	30
-senador	36
-senao	26
-senhor	35
-senhora	36
-sensacao	37
-sensibilidade	60
-sensivel	45
-senso	32
-sentado	38
-sentar	33
-sentenca	41
-sentido	42
-sentimental	60
-sentimento	62
-sentir	37
-separacao	35
-separado	35
-separar	30
-sequencia	42
-sequer	33
-ser	18
-serenidade	48
-sereno	36
-serie	28
-seriedade	42
-serio	30
-serpente	46
-serra	25
-sertanejo	51
-sertao	34
-servico	39
-servidor	46
-servir	35
-sessao	34
-sessenta	46
-sete	25
-setenta	40
-setimo	37
-seu	17
-severo	36
-sexo	26
-sexta-feira	55
-sexto	34
-sexual	29
-sigilo	31
-significado	48
-significar	43
-significativo	63
-signo	28
-silencio	42
-silencioso	56
-sim	17
-simbolico	45
-simbolo	37
-similar	33
-simpatia	36
-simpatico	45
-simples	37
-simplesmente	66
-simplicidade	52
-simular	33
-simultaneamente	76
-simultaneo	53
-sinal	23
-sincero	39
-sindical	35
-sindicato	46
-singular	37
-sinistro	51
-sino	25
-sintese	43
-sintetico	54
-sintoma	39
-sistema	38
-sistematico	61
-site	25
-sitio	32
-situacao	37
-situado	37
-situar	32
-so	14
-soar	21
-sob	16
-soberania	40
-soberano	41
-sobrar	29
-sobre	27
-sobrepor	44
-sobretudo	51
-sobrevivencia	64
-sobreviver	55
-sobrinha	38
-sobrinho	44
-social	27
-socialismo	51
-socialista	48
-sociedade	41
-socio	29
-sociologia	49
-socorrer	47
-socorro	43
-sofisticado	56
-sofrer	33
-sofrimento	58
-software	43
-sol	18
-solar	25
-soldado	34
-solene	34
-solicitacao	51
-solicitar	46
-solidao	35
-solidariedade	58
-solidario	46
-solido	34
-solitario	50
-solo	25
-soltar	33
-solucao	34
-solucionar	51
-som	19
-soma	20
-somar	26
-sombra	28
-sombrio	39
-somente	43
-sonda	25
-sondagem	38
-sonhar	31
-sonho	31
-sono	27
-sonoro	40
-sopa	19
-soprar	31
-sopro	31
-sorrir	37
-sorriso	45
-sorte	33
-sovietico	53
-sozinho	44
-suave	24
-subida	24
-subir	25
-subitamente	57
-subito	34
-sublinhar	40
-submarino	44
-submeter	43
-subordinado	54
-subsidio	42
-substancia	45
-substancial	49
-substituicao	63
-substituir	58
-substituto	62
-subterraneo	58
-suburbio	39
-suceder	35
-sucedido	40
-sucessao	42
-sucessivo	52
-sucesso	41
-sucessor	47
-sudeste	41
-sudoeste	48
-sueco	27
-suficiente	51
-suficientemente	80
-sufocar	31
-sugerir	37
-sugestao	43
-suicidar	36
-suicidio	41
-suico	27
-sujeitar	43
-sujeito	43
-sujo	25
-sul	16
-sul-africano	55
-sul-americano	63
-sumario	36
-sumir	28
-sumo	24
-suor	25
-superar	34
-superficial	47
-superficie	47
-superior	45
-superioridade	64
-supermercado	58
-supor	29
-suportar	44
-suporte	42
-suposto	45
-supremo	39
-suprir	33
-surdo	29
-surgir	32
-surpreendente	72
-surpreender	59
-surpresa	41
-susceptivel	59
-suscitar	42
-suspeita	42
-suspeitar	48
-suspeito	48
-suspender	49
-suspensao	49
-suspenso	48
-sustentar	53
-susto	34
-tabaco	22
-tabela	21
-tabua	17
-tabuleiro	43
-taca	13
-tactico	35
-tal	13
-talento	39
-talvez	32
-tamanho	32
-tambem	26
-tanque	30
-tanto	30
-tao	16
-tapar	20
-tapete	31
-tardar	26
-tarde	24
-tarefa	23
-tarifa	23
-taxa	17
-taxi	21
-teatral	33
-teatro	35
-tecer	27
-tecido	32
-teclado	32
-tecnica	31
-tecnico	37
-tecnologia	49
-tecnologico	58
-tecto	31
-teia	19
-tela	18
-telecomunicacoes	79
-telefonar	44
-telefone	42
-telefonema	48
-telefonico	52
-telegrama	38
-televisao	48
-televisivo	58
-telhado	33
-tema	19
-tematico	42
-temer	29
-temor	31
-temperamento	65
-temperatura	54
-tempestade	52
-templo	33
-tempo	29
-temporada	41
-temporal	40
-temporario	54
-tendencia	43
-tender	34
-tenente	43
-tenis	31
-tensao	34
-tenso	33
-tentacao	39
-tentar	34
-tentativa	48
-teor	26
-teoria	32
-teorico	41
-ter	19
-terapia	30
-terca-feira	50
-terceiro	45
-terco	29
-terminal	40
-terminar	42
-termo	31
-terno	32
-ternura	37
-terra	26
-terraco	36
-terreiro	48
-terreno	43
-terrestre	56
-territorial	61
-territorio	63
-terrivel	45
-terror	38
-terrorista	59
-tese	25
-tesouro	45
-testa	29
-testamento	60
-testar	35
-teste	33
-testemunha	54
-testemunho	60
-teu	18
-textil	37
-texto	35
-tia	14
-tigre	27
-tijolo	37
-time	23
-timido	34
-tinta	28
-tio	20
-tipico	32
-tipo	24
-tirar	26
-tiro	26
-titular	37
-titulo	37
-toalha	25
-toca	19
-tocar	25
-todavia	32
-todo	26
-tolerancia	46
-tom	20
-tomada	26
-tomar	27
-tona	22
-tonelada	36
-topo	26
-toque	30
-torcer	35
-torcida	34
-tornar	34
-torneio	44
-torno	34
-torre	32
-tortura	41
-torturar	47
-tostao	38
-total	28
-totalidade	47
-totalmente	57
-touro	33
-trabalhador	44
-trabalhar	33
-trabalhista	47
-trabalho	33
-tracado	30
-tracar	25
-traco	25
-tradicao	35
-tradicional	50
-tradicionalmente	79
-traducao	35
-traduzir	43
-trafego	32
-trafico	32
-tragedia	33
-tragico	33
-traicao	31
-trair	26
-trajecto	44
-trajectoria	56
-tranquilidade	59
-tranquilo	47
-transaccao	43
-transferencia	61
-transferir	52
-transformacao	60
-transformar	55
-transicao	44
-transito	48
-transmissao	60
-transmitir	57
-transparencia	59
-transparente	63
-transportar	60
-transporte	58
-tras	22
-traseiro	45
-tratado	35
-tratamento	55
-tratar	30
-trato	30
-travar	28
-travessia	46
-trazer	34
-trecho	33
-treinador	48
-treinamento	62
-treinar	37
-treino	37
-trem	24
-tremendo	46
-tremer	35
-tres	26
-treze	32
-trezentos	60
-tribo	28
-tribunal	37
-tributario	53
-tributo	41
-trigo	29
-trilha	28
-trinta	34
-tripa	24
-triste	39
-tristeza	48
-triunfo	39
-troca	25
-trocar	31
-troco	31
-tronco	37
-trono	34
-tropa	26
-tropical	38
-tu	13
-tubarao	30
-tubo	22
-tudo	24
-tumulo	34
-tunel	28
-turco	29
-turismo	43
-turista	40
-turistico	54
-turma	25
-turno	32
-tutela	31
-ultimamente	57
-ultimo	34
-ultrapassar	50
-um	10
-unha	16
-uniao	24
-unicamente	49
-unico	26
-unidade	30
-unido	27
-uniforme	41
-unir	22
-universal	45
-universidade	59
-universitario	72
-universo	47
-urbano	27
-urgencia	34
-urgente	38
-usado	24
-usar	19
-usina	24
-uso	19
-usuario	36
-util	22
-utilidade	41
-utilizacao	47
-utilizador	53
-utilizar	42
-uva	12
-vaca	11
-vacuo	22
-vaga	11
-vago	17
-vaidade	26
-vale	16
-valer	22
-validade	30
-valido	27
-valioso	37
-valor	24
-valorizacao	49
-valorizar	44
-vanguarda	33
-vantagem	35
-vao	14
-vapor	24
-vara	14
-varanda	25
-varejo	31
-variacao	30
-variado	30
-variante	38
-variar	25
-variavel	34
-variedade	37
-varios	32
-varrer	30
-vaso	21
-vasto	29
-vazio	27
-vector	35
-vegetacao	39
-vegetal	32
-veia	17
-veiculo	35
-vela	16
-velar	22
-velhice	32
-velho	26
-velocidade	44
-vencedor	42
-vencer	31
-vencimento	56
-venda	22
-vendedor	43
-vender	32
-veneno	35
-vento	32
-ventre	36
-ver	17
-verao	25
-verba	20
-verbal	24
-verbo	26
-verdade	31
-verdadeiramente	72
-verdadeiro	49
-verde	26
-vereador	40
-vergonha	38
-verificar	39
-vermelho	42
-versao	32
-verso	31
-vertente	49
-vertical	38
-vespera	34
-vestido	42
-vestigio	46
-vestir	37
-vestuario	50
-vez	19
-via	12
-viagem	25
-viajante	38
-viajar	25
-viavel	27
-vibracao	31
-vibrar	26
-vice	19
-vice-presidente	82
-vicio	26
-vida	16
-video	27
-vidro	28
-vigente	38
-vigiar	26
-vigilancia	39
-vigor	27
-vigoroso	48
-vila	16
-vinculado	41
-vinda	22
-vinganca	31
-vingar	27
-vinho	28
-vinte	30
-violacao	34
-violao	30
-violar	29
-violencia	42
-violento	48
-violeta	36
-violino	40
-vir	17
-virado	29
-virar	24
-virgem	30
-virtual	35
-virtude	39
-virus	29
-visao	26
-visar	25
-visconde	43
-visita	32
-visitante	51
-visitar	38
-visivel	38
-vista	27
-visual	28
-vital	24
-vitima	30
-vitoria	38
-vitorioso	58
-viuva	23
-vivencia	37
-viver	28
-vivo	24
-vizinhanca	45
-vizinho	41
-voar	20
-vocabulario	47
-vocacao	28
-vocal	21
-voce	21
-volante	37
-volta	26
-voltado	37
-voltar	32
-volume	32
-voluntario	55
-vontade	37
-voo	20
-vos	20
-vosso	34
-votacao	33
-votar	28
-voto	28
-voz	21
-vulcao	26
-vulgar	25
-vulneravel	48
-vulto	30
-zero	26
-zona	22
+a	a	1	10
+abaixo	aba	4	909
+abalar	aba	4	2536
+abandonar	ab	3	766
+abandono	aba	4	2929
+abastecimento	abas	11	3041
+abater	abat	12	2947
+abdicar	abd	7	4605
+abelha	abe	8	4275
+aberto	ab	3	407
+abertura	abe	8	1267
+abismo	abi	8	4651
+abordagem	abo	10	3314
+abordar	abo	10	1890
+aborto	abo	10	3286
+abracar	abr	9	2997
+abraco	abra	10	4573
+abranger	abr	9	2259
+abrigar	abr	9	2938
+abrigo	abri	14	3012
+abrir	ab	3	262
+absolutamente	abs	10	1505
+absoluto	ab	3	868
+absorver	abs	10	1989
+abstracto	abst	18	3209
+absurdo	abs	10	2091
+abundancia	abu	8	4171
+abundante	abu	8	3979
+abuso	abu	8	3036
+acabar	ac	4	157
+academia	aca	5	1593
+academico	aca	5	2296
+acalmar	acal	9	3935
+acampamento	acam	10	3686
+acarretar	acar	11	3822
+acaso	aca	5	1446
+accao	ac	4	247
+accionar	acc	7	4559
+accionista	acc	7	3622
+aceitacao	acei	14	3365
+aceitar	ace	9	368
+aceitavel	acei	14	4961
+acelerar	ace	9	2168
+acender	acen	15	3397
+acentuar	acen	15	2207
+acerca	ace	9	2144
+acertar	acer	15	2465
+acerto	acer	15	4165
+acervo	acer	15	4412
+aceso	aces	16	4276
+acessivel	aces	16	3897
+acesso	ace	9	964
+achar	ac	4	195
+acidente	aci	9	1171
+acido	aci	9	3694
+acima	aci	9	617
+aco	aco	11	2463
+acolher	acol	15	2727
+acomodar	acom	16	4764
+acompanhamento	acom	16	3110
+acompanhar	aco	11	401
+aconselhar	acon	17	2602
+acontecer	ac	4	187
+acontecimento	aco	11	1126
+acordar	acor	17	1572
+acordo	aco	11	321
+acostumado	acos	18	4228
+acostumar	acos	18	4806
+acreditar	acr	10	292
+acrescentar	acr	10	1000
+acrescido	acr	10	4739
+acrescimo	acr	10	4826
+acta	acta	13	4751
+actividade	act	12	367
+activo	acti	17	1176
+acto	act	12	986
+actor	act	12	973
+actriz	actr	18	2162
+actuacao	actu	17	1858
+actual	act	12	574
+actualidade	actual	22	3966
+actualizar	actual	22	4769
+actualmente	actu	17	1149
+actuar	actu	17	1385
+acucar	acu	9	1732
+acumular	acu	9	1543
+acusacao	acu	9	2062
+acusado	acus	16	4416
+acusar	acu	9	1035
+adaptacao	ada	6	2459
+adaptar	ada	6	1697
+adepto	ade	10	3406
+adequado	ade	10	1493
+aderir	ade	10	2471
+adesao	ade	10	2560
+adeus	adeu	15	3940
+adiantar	adi	10	1724
+adiante	adi	10	2179
+adiar	adi	10	3162
+adicional	adic	13	4511
+adivinhar	adi	10	4351
+adjectivo	adj	11	4637
+adjunto	adj	11	3907
+administracao	ad	5	659
+administrador	adm	10	1936
+administrar	admin	21	2788
+administrativo	adm	10	1302
+admiracao	admir	21	3577
+admirar	admir	21	2476
+admitir	ad	5	739
+adolescencia	ado	12	3451
+adolescente	ado	12	1793
+adopcao	adop	16	3488
+adoptar	ado	12	1351
+adorar	ado	12	2254
+adormecer	ador	18	4170
+adquirir	ad	5	794
+adulto	adu	10	1607
+adversario	adv	11	1718
+advertir	adv	11	4021
+advogado	ad	5	838
+advogar	adv	11	4915
+aereo	ae	6	1692
+aeroporto	ae	6	2518
+afastado	afa	4	3890
+afastamento	afa	4	3353
+afastar	af	3	829
+afectado	afe	8	4978
+afectar	afe	8	1522
+afectivo	afe	8	4853
+afecto	afe	8	4083
+afinal	af	3	1135
+afinidade	afi	8	4707
+afirmacao	afi	8	1820
+afirmar	af	3	511
+afogar	afo	10	4586
+africano	af	3	1240
+afundar	afu	8	3659
+agarrar	aga	5	2054
+agencia	age	9	1745
+agenda	age	9	4081
+agente	ag	4	1178
+agir	ag	4	1112
+agitacao	agi	9	3626
+agitar	agi	9	3152
+agora	ag	4	83
+agradar	agr	10	2307
+agradavel	agra	11	2539
+agradecer	agrad	15	2983
+agrario	agr	10	2343
+agravar	agra	11	2396
+agredir	agre	15	4323
+agregado	agre	15	4482
+agressao	agre	15	3791
+agressivo	agre	15	3267
+agricola	agr	10	1492
+agricultor	agri	15	2774
+agricultura	agr	10	1431
+agrupamento	agru	15	4196
+agrupar	agru	15	4594
+agua	ag	4	145
+aguardar	agu	9	2321
+agudo	agu	9	2954
+aguentar	agu	9	2526
+agulha	agul	13	3605
+ah	ah	5	1824
+ai	ai	6	137
+ainda	a	1	43
+ajuda	aj	7	1010
+ajudar	aj	7	359
+ajustar	aj	7	1273
+ajuste	aj	7	3005
+ala	ala	6	3157
+alargamento	ala	6	4241
+alargar	ala	6	2015
+alastrar	ala	6	3917
+album	alb	7	2391
+alcancar	alc	8	918
+alcance	alc	8	2043
+alcool	alc	8	1803
+aldeia	ald	9	1174
+alegar	aleg	13	2550
+alegre	ale	10	1308
+alegria	ale	10	1784
+alem	al	5	151
+alemao	ale	10	1007
+alertar	aler	16	4130
+alga	alga	9	4128
+algo	alg	8	513
+algodao	alg	8	2441
+alguem	alg	8	523
+algum	al	5	47
+alheio	alh	9	2726
+ali	al	5	210
+aliado	alia	11	2037
+alianca	ali	10	1441
+aliar	alia	11	4065
+alias	ali	10	758
+alimentacao	alim	15	2417
+alimentar	ali	10	1179
+alimento	alim	15	1509
+alinhado	alin	16	4588
+alinhamento	alin	16	4693
+alinhar	alin	16	4071
+aliviar	aliv	16	3067
+alivio	aliv	16	4273
+alma	alm	10	1053
+almocar	alm	10	4034
+almoco	alm	10	2385
+alongar	alo	12	4154
+altamente	alta	14	2895
+altar	alta	14	3687
+alteracao	alte	18	1478
+alterar	alt	13	1082
+alternar	alte	18	3104
+alternativa	alt	13	1471
+altitude	alti	18	3776
+alto	al	5	185
+altura	alt	13	267
+alugar	alu	10	3773
+aluguel	alu	10	4431
+aluminio	alu	10	4264
+aluno	alu	10	843
+alvo	alv	11	1380
+amador	amad	11	3210
+amanha	ama	7	2030
+amante	ama	7	2512
+amar	ama	7	1318
+amarelo	ama	7	947
+amargo	amar	13	4346
+amarrado	amarr	19	4946
+amarrar	amar	13	4365
+ambicao	ambi	13	2738
+ambicioso	ambic	16	4337
+ambiental	amb	8	2681
+ambiente	am	6	546
+ambito	amb	8	1979
+ambos	amb	8	774
+ameaca	ame	11	1576
+ameacar	ame	11	1459
+americano	am	6	532
+amiga	ami	11	2367
+amigo	am	6	311
+amizade	ami	11	1756
+amor	am	6	498
+amoroso	amo	13	3337
+amostra	amo	13	2803
+ampliacao	amp	10	4205
+ampliar	amp	10	2171
+amplitude	amp	10	4822
+amplo	amp	10	1255
+analisar	ana	8	1116
+analise	ana	8	1252
+analista	ana	8	4453
+ancestral	anc	10	4985
+andamento	and	11	3122
+andar	and	11	397
+anel	ane	12	2661
+anexo	ane	12	4374
+angolano	ang	10	3793
+angulo	ang	10	2628
+angustia	ang	10	3087
+animacao	ani	12	3583
+animal	an	7	319
+animar	ani	12	2079
+animo	anim	17	3685
+aniversario	ani	12	2764
+anjo	anj	13	2262
+ano	a	1	35
+anonimo	ano	14	3234
+anormal	ano	14	1254
+anotar	ano	14	4615
+ansiedade	ans	14	3350
+ansioso	ans	14	4133
+ante	ante	20	3774
+antecedente	antec	23	4466
+anteceder	antec	23	4222
+antecipar	ante	20	2123
+antena	anten	26	3315
+antepassado	antep	24	4494
+anterior	ant	15	524
+anteriormente	ante	20	2778
+antes	an	7	128
+antigamente	ant	15	1868
+antigo	an	7	276
+antiguidade	anti	20	4180
+anual	anu	12	2452
+anualmente	anua	13	4300
+anular	anu	12	3306
+anunciar	anu	12	898
+anuncio	anu	12	2666
+apagar	apag	9	2393
+apaixonado	apai	11	3167
+apaixonar	apai	11	3654
+apanhar	apa	6	1195
+aparecer	ap	5	231
+aparecimento	aparec	20	3303
+aparelho	apa	6	1142
+aparencia	apar	12	2586
+aparente	aparen	23	3147
+aparentemente	apa	6	2098
+aparicao	apari	17	3932
+apartamento	apart	20	2643
+apelar	apel	14	3178
+apelido	apel	14	4649
+apelo	ape	10	2583
+apenas	ap	5	107
+aperceber	aper	16	2925
+aperfeicoar	aper	16	4440
+apertar	ape	10	2218
+apesar	ap	5	270
+apetecer	apet	18	3812
+apetite	apet	18	4789
+aplicacao	apl	9	1776
+aplicado	apl	9	4536
+aplicar	apl	9	816
+apoiar	apo	12	634
+apoio	apo	12	555
+apontar	apo	12	763
+apos	apo	12	467
+aposentado	apose	24	4591
+aposentadoria	apos	19	4221
+aposta	apos	19	3292
+apostar	apos	19	2690
+apreciacao	aprec	19	4137
+apreciar	apre	16	1884
+apreender	apree	21	4909
+apreensao	apree	21	3408
+aprender	apr	11	595
+aprendizado	apren	22	4652
+aprendizagem	apren	22	3867
+apresentacao	apre	16	1592
+apresentar	ap	5	171
+apressar	apres	23	3549
+aprofundar	aprof	20	3438
+apropriado	aprop	22	3308
+aprovacao	apro	18	2083
+aprovar	apro	18	1874
+aproveitamento	aprov	24	3868
+aproveitar	apr	11	611
+aproximacao	aprox	25	2524
+aproximadamente	aprox	25	3344
+aproximar	apr	11	859
+apto	apt	13	1261
+apurar	apu	10	2001
+aquando	aqua	12	3741
+aquecer	aq	6	2410
+aquecimento	aque	16	4584
+aquele	aq	6	53
+aqui	aq	6	105
+aquilo	aq	6	289
+aquisicao	aqui	16	2665
+ar	ar	7	440
+arabe	ara	8	2554
+arame	ara	8	4385
+aranha	ara	8	3737
+arbitragem	arb	9	4549
+arbitro	arb	9	3711
+arbusto	arb	9	4931
+arco	arc	10	2050
+arder	ard	11	3118
+area	ar	7	384
+areia	are	12	1416
+argentino	arg	10	2200
+argumentar	arg	10	2762
+argumento	arg	10	1347
+arma	arm	12	837
+armadilha	armad	17	4957
+armado	arm	12	848
+armamento	armam	18	4829
+armar	arm	12	1981
+armazem	arm	12	2971
+armazenar	armaz	21	4974
+arqueologico	arq	12	4308
+arquipelago	arqui	22	4421
+arquitecto	arq	12	2351
+arquitectura	arq	12	1676
+arquivo	arq	12	2303
+arraial	arrai	19	4722
+arrancar	arr	13	1908
+arranjar	arr	13	1657
+arranjo	arra	14	2702
+arrastar	arr	13	2021
+arrecadacao	arre	18	4148
+arrecadar	arre	18	4330
+arredor	arre	18	4111
+arrepender	arre	18	4499
+arriscar	arri	18	2562
+arroz	arr	13	1990
+arrumar	arru	18	3046
+arte	ar	7	253
+arteria	arte	20	4139
+articulacao	arti	20	2780
+articular	artic	23	2893
+artificial	artif	22	2840
+artificio	artif	22	4954
+artigo	art	15	862
+artilharia	artil	24	4570
+artista	ar	7	405
+artistico	art	15	1290
+arvore	arv	13	673
+asa	asa	9	1808
+ascender	asc	11	3857
+ascensao	asc	11	3489
+asiatico	asi	13	3051
+asilo	asi	13	4645
+aspecto	as	8	404
+aspiracao	asp	12	4046
+aspirar	asp	12	4642
+assaltar	assa	16	4445
+assalto	assa	16	2534
+assassinato	assa	16	2613
+assassino	assa	16	3071
+assegurar	asse	20	1449
+assembleia	asse	20	922
+assemelhar	assem	25	3984
+assentar	asse	20	1759
+assente	assen	26	4189
+assento	asse	20	3688
+assessor	asses	27	4723
+assim	as	8	60
+assinado	assin	26	2283
+assinalar	assin	26	3034
+assinar	assi	20	1319
+assinatura	assin	26	2390
+assistencia	assi	20	1587
+assistente	assis	27	2742
+assistir	ass	15	627
+associacao	asso	22	933
+associado	asso	22	1734
+associar	asso	22	2308
+assumir	as	8	585
+assunto	as	8	364
+assustar	assu	20	2915
+astro	ast	16	4847
+atacar	ata	10	1121
+ataque	ata	10	1068
+atar	ata	10	4410
+ate	a	1	41
+atencao	ate	14	537
+atender	ate	14	809
+atendimento	aten	20	2592
+atentado	atent	28	3182
+atento	ate	14	2233
+atenuar	atenu	25	4795
+atingir	at	9	516
+atirar	ati	14	1636
+atitude	ati	14	708
+atlantico	atl	13	4599
+atleta	atl	13	2844
+atmosfera	atm	14	1998
+atomico	ato	16	3982
+atraccao	atrac	19	2265
+atractivo	atrac	19	4387
+atraente	atrae	21	4851
+atrair	atr	15	969
+atrapalhar	atrap	20	3676
+atras	at	9	515
+atrasado	atras	23	3112
+atrasar	atras	23	4051
+atraso	atras	23	1896
+atraves	at	9	220
+atravessar	atr	15	961
+atrever	atre	20	4701
+atribuicao	atri	20	3225
+atribuir	atri	20	1114
+atributo	atri	20	4737
+audiencia	aud	10	2565
+auditorio	aud	10	4336
+auge	aug	9	4085
+aula	au	6	811
+aumentar	au	6	394
+aumento	aum	11	1190
+ausencia	aus	13	1355
+ausente	aus	13	2891
+australiano	aus	13	4742
+austriaco	aus	13	4284
+autarquia	auta	15	4005
+autarquico	auta	15	4545
+autentico	aut	14	2035
+auto	auto	21	3024
+automaticamente	autom	26	3753
+automatico	autom	26	2886
+automovel	aut	14	867
+autonomia	auton	27	2402
+autonomo	auton	27	2722
+autor	au	6	391
+autoria	autori	32	3077
+autoridade	au	6	732
+autoritario	autorit	40	3799
+autorizacao	autor	27	2426
+autorizar	auto	21	2312
+auxiliar	aux	13	2165
+auxilio	aux	13	2631
+avaliacao	ava	8	1707
+avaliar	av	7	1123
+avancado	avan	14	2834
+avancar	av	7	704
+avanco	ava	8	2103
+ave	av	7	1317
+avenida	ave	12	1974
+aventura	ave	12	1584
+aviacao	avia	13	4469
+aviao	av	7	1092
+avisar	avi	12	2252
+aviso	avi	12	3165
+avistar	avi	12	4138
+avo	avo	14	2369
+azeite	az	9	3174
+azeitona	az	9	4907
+azul	az	9	1215
+bacalhau	bac	6	4127
+bacia	bac	6	2936
+bagagem	bag	6	4235
+baia	baia	9	4209
+baiano	baia	9	3033
+bailarina	bail	12	3731
+baile	bai	8	2957
+bairro	bai	8	2872
+baixa	baix	15	3088
+baixar	bai	8	1008
+baixo	b	2	244
+bala	bal	7	2949
+balanca	bal	7	2698
+balanco	bal	7	1797
+balao	bala	8	4580
+balcao	balc	10	3519
+baleia	bal	7	3154
+banana	bana	10	4178
+banca	banc	12	3364
+bancada	banc	12	3570
+bancario	banc	12	2466
+banco	ba	3	330
+banda	ban	9	501
+bandeira	ban	9	1183
+bandeirante	bande	18	4598
+bandido	band	13	3802
+bando	band	13	3069
+banhar	banh	13	3930
+banho	ban	9	1840
+banqueiro	banq	14	4360
+baptizar	bap	7	4136
+bar	bar	9	1826
+barato	bar	9	1635
+barba	barb	11	3247
+barbaro	barb	11	3436
+barca	barc	12	4973
+barco	bar	9	1046
+barra	bar	9	1698
+barraca	barra	16	3706
+barragem	barra	16	3510
+barreira	barr	15	2101
+barriga	barri	20	3324
+barro	bar	9	1276
+barroco	barr	15	3150
+barulho	baru	14	3092
+base	ba	3	462
+baseado	base	15	2005
+basear	base	15	2332
+basicamente	basi	15	3229
+basico	bas	10	1671
+bastante	ba	3	349
+bastar	bas	10	992
+batalha	bat	11	962
+batalhao	bat	11	3652
+batata	bat	11	2508
+bater	bat	11	610
+bateria	bate	16	3744
+bebe	beb	9	3029
+beber	be	7	1511
+bebida	beb	9	2345
+beijar	bei	12	4122
+beijo	bei	12	3854
+beira	bei	12	2093
+beleza	be	7	1136
+belo	be	7	680
+bem	b	2	67
+bem-estar	bem	12	3841
+beneficiar	ben	13	2326
+beneficio	ben	13	1669
+bengala	ben	13	4966
+berco	ber	13	4503
+besta	bes	14	4362
+bezerro	bez	15	4006
+biblia	bib	9	3536
+biblioteca	bi	7	1422
+bicho	bi	7	2157
+bicicleta	bic	10	3733
+bico	bi	7	2186
+bilhao	bil	11	2503
+bilhete	bil	11	3243
+biografia	bio	14	3587
+biologia	bio	14	4038
+biologico	bio	14	3355
+bispo	bi	7	1765
+bloco	bl	6	1499
+bloquear	bl	6	4799
+bloqueio	bl	6	4025
+boca	bo	9	796
+bocado	boc	12	2249
+boi	boi	14	2069
+bola	bo	9	1023
+boletim	bole	18	4442
+bolo	bol	13	3197
+bolsa	bol	13	1172
+bolso	bol	13	2412
+bom	b	2	90
+bomba	bom	14	1877
+bombeiro	bom	14	3529
+bondade	bond	19	4976
+bonde	bon	15	4629
+boneca	bon	15	4261
+boneco	bon	15	4835
+bonito	bo	9	1138
+borboleta	bor	15	4022
+borda	bor	15	3461
+bordado	bord	19	4554
+bordo	bor	15	2706
+borracha	bor	15	2804
+bosque	bos	16	4528
+bota	bot	17	2585
+botao	bot	17	3181
+botar	bot	17	2238
+braco	br	8	959
+branco	br	8	250
+brando	bran	15	4460
+brasileiro	b	2	221
+bravo	bra	9	3240
+breve	br	8	1233
+briga	bri	13	2675
+brigada	brig	16	4124
+brigar	brig	16	3522
+brilhante	bri	13	1752
+brilhar	bril	17	3739
+brilho	bril	17	2819
+brincadeira	brin	19	2857
+brincar	bri	13	2107
+brinquedo	brin	19	3437
+brisa	bris	20	4634
+britanico	bri	13	2314
+bronze	bro	15	3403
+brusco	bru	13	4910
+brutal	bru	13	4473
+bruto	bru	13	1762
+bruxa	bru	13	4522
+buraco	bu	7	1562
+burgues	bur	13	3251
+burocracia	buro	20	4859
+burocratico	bur	13	4682
+burro	bu	7	2943
+busca	bu	7	972
+buscar	bu	7	525
+ca	ca	4	1266
+cabeca	cab	6	266
+cabelo	cab	6	1516
+caber	cab	6	873
+cabo	cab	6	553
+cabra	cabr	12	3016
+caca	cac	7	1600
+cacador	cac	7	2972
+cacar	cac	7	2987
+cacho	cach	11	4350
+cachorro	cac	7	3068
+cada	ca	4	98
+cadaver	cada	9	3256
+cadeia	cad	8	1165
+cadeira	cad	8	1374
+caderno	cad	8	2965
+cafe	caf	6	907
+cair	cai	9	288
+cais	cai	9	4298
+caixa	cai	9	840
+caixao	cai	9	4905
+cal	cal	8	4934
+calado	cala	9	4880
+calar	cal	8	2490
+calcada	calc	11	3502
+calcas	calc	11	2707
+calcular	cal	8	1364
+calculo	cal	8	1883
+calda	cald	12	3610
+caldo	cald	12	4839
+calendario	cale	13	3084
+calhar	calh	12	3396
+calma	calm	13	2784
+calmo	calm	13	4328
+calor	cal	8	1353
+cama	cama	10	1810
+camada	cama	10	1959
+camara	cam	9	396
+camarada	cama	10	3453
+cambial	camb	11	3958
+cambio	camb	11	2862
+camera	came	14	4321
+caminhada	camin	20	4359
+caminhao	cami	14	3199
+caminhar	cami	14	1486
+caminho	cam	9	336
+camisa	cami	14	2789
+camisola	camis	21	3851
+campanha	cam	9	783
+campeao	camp	13	2363
+campeonato	camp	13	2087
+campo	ca	4	219
+campones	campo	20	2756
+cana	cana	11	2766
+canal	cana	11	1456
+cancao	can	10	1325
+cancelar	canc	13	4964
+cancer	canc	13	4744
+cancro	canc	13	4247
+candeeiro	cand	14	4963
+candidatar	cand	14	3514
+candidato	can	10	890
+candidatura	cand	14	2340
+canhao	canh	14	4596
+cano	cano	17	4057
+canoa	cano	17	4352
+cansaco	cans	17	3871
+cansado	cans	17	2532
+cansar	cans	17	3757
+cantar	can	10	801
+cantiga	cant	18	4667
+canto	can	10	1194
+cantor	cant	18	1866
+cao	cao	11	938
+caos	cao	11	4135
+capa	capa	9	1714
+capacidade	cap	8	800
+capaz	cap	8	426
+capela	cape	13	1720
+capital	cap	8	410
+capitalismo	capi	13	3281
+capitalista	capita	22	3553
+capitao	capi	13	2080
+capitulo	cap	8	1601
+captar	capt	16	2372
+capturar	capt	16	3316
+cara	cara	11	869
+caracter	cara	11	953
+caracteristica	cara	11	1154
+caracteristico	carac	14	3880
+caracterizar	cara	11	1967
+cardeal	card	14	3357
+cardiaco	card	14	4339
+carecer	care	15	1916
+carencia	care	15	3909
+carga	carg	13	1057
+cargo	carg	13	799
+caridade	cari	15	3908
+carinho	cari	15	4019
+carioca	cari	15	2719
+carnaval	carn	16	2468
+carne	car	10	706
+carneiro	carn	16	4971
+caro	caro	17	1474
+carregado	carr	16	3922
+carregar	carr	16	1157
+carreira	car	10	626
+carro	car	10	441
+carroca	carro	23	4977
+carta	car	10	502
+cartao	cart	18	2002
+cartaz	cart	18	3177
+carteira	cart	18	2457
+cartorio	carto	25	4791
+carvao	carv	16	2346
+casa	ca	4	82
+casaco	casac	15	4152
+casado	casad	16	4948
+casal	casa	12	1309
+casamento	cas	11	945
+casar	cas	11	549
+casca	casc	14	2898
+casco	casc	14	4356
+caseiro	case	16	4230
+caso	ca	4	94
+castanho	cast	19	3049
+castelo	cast	19	1229
+castigar	casti	24	4836
+castigo	cast	19	2960
+casto	cast	19	4393
+catalogo	cat	12	4663
+catastrofe	cata	13	4695
+catedral	cat	12	3027
+categoria	cat	12	1417
+catolico	cat	12	1063
+catorze	cato	19	4796
+cauda	cau	9	2992
+causa	cau	9	275
+causar	cau	9	847
+cautela	cau	9	4109
+cauteloso	caut	17	4832
+cavalaria	cav	10	4628
+cavaleiro	cav	10	2590
+cavalheiro	caval	15	4846
+cavalo	cav	10	822
+cavar	cav	10	4782
+ceder	ced	12	1372
+cedo	ced	12	941
+cego	ceg	11	2506
+ceia	cei	13	4646
+cela	cela	13	3886
+celebracao	cele	17	4932
+celebrar	cel	12	2349
+celebre	cel	12	2404
+celeste	cele	17	4650
+celula	cel	12	2492
+celular	cel	12	2541
+cem	cem	13	1222
+cemiterio	cem	13	2955
+cena	cen	14	681
+cenario	cena	15	1281
+censura	cens	21	2442
+centena	cent	22	1711
+centimetro	centi	27	2044
+cento	cen	14	661
+central	ce	8	606
+centrar	centr	28	3859
+centro	ce	8	305
+cera	cera	15	4394
+ceramica	cera	15	4676
+cerca	ce	8	495
+cercado	cerc	17	3525
+cercar	cerc	17	2731
+cerco	cerc	17	3273
+cereal	cere	19	4787
+cerebral	cere	19	3973
+cerebro	cere	19	1960
+cerimonia	ceri	19	2146
+cerrado	cerr	20	3709
+certamente	cer	14	1387
+certeza	cer	14	751
+certo	ce	8	123
+cerveja	cerv	20	2765
+cessar	ces	15	3170
+cesta	ces	15	4042
+cesto	ces	15	4296
+ceu	ceu	13	1016
+cha	cha	8	2394
+chama	cham	13	2181
+chamada	cha	8	1249
+chamado	cham	13	1410
+chamar	ch	7	118
+chance	chan	14	2754
+chao	cha	8	1004
+chapa	chap	12	3445
+chapeu	chap	12	2435
+charuto	char	14	4589
+chato	chat	16	4733
+chave	cha	8	1175
+chefe	ch	7	802
+chefia	chef	14	4857
+chefiar	chef	14	4639
+chegada	che	12	1503
+chegar	c	3	76
+cheio	ch	7	712
+cheirar	chei	17	3775
+cheiro	chei	17	2446
+cheque	cheq	17	2917
+chines	chi	12	1947
+chocar	cho	14	3516
+chocolate	choc	17	4755
+choque	cho	14	1604
+chorar	cho	14	2234
+choro	chor	20	4399
+chover	cho	14	2712
+chumbo	chu	12	3377
+chuva	chu	12	1109
+ciclo	cic	11	1725
+cidadania	cid	12	4107
+cidadao	cid	12	993
+cidade	ci	8	111
+ciencia	cie	13	565
+cientifico	cie	13	1083
+cientista	cie	13	2274
+cigano	cig	11	4031
+cigarro	cig	11	2700
+cima	ci	8	379
+cimeira	cim	13	4357
+cimento	cim	13	3184
+cimo	cim	13	4965
+cinco	ci	8	236
+cineasta	cine	19	3717
+cinema	ci	8	435
+cinematografico	cine	19	3143
+cinquenta	cin	14	1465
+cintura	cint	22	3556
+cinza	cin	14	2769
+cinzento	cinz	22	3085
+circo	circo	24	3183
+circuito	cir	14	2405
+circulacao	cir	14	2491
+circular	circul	26	2709
+circulo	cir	14	1556
+circunstancia	cir	14	1307
+cirurgia	ciru	19	3221
+cirurgico	ciru	19	4845
+citacao	cit	16	4252
+citar	cit	16	916
+ciume	ciu	13	4061
+civico	civ	14	4056
+civil	civ	14	717
+civilizacao	civ	14	1907
+civilizado	civ	14	4614
+clandestino	clan	14	4045
+claramente	cla	8	2012
+clareza	clar	14	3754
+claro	cl	7	211
+classe	cl	7	496
+classico	cl	7	1040
+classificacao	clas	15	2434
+classificar	clas	15	2212
+clausula	clau	13	4015
+cliente	cli	12	1147
+clima	cli	12	1292
+clinica	cli	12	2837
+clinico	cli	12	4692
+club	clu	12	4955
+clube	cl	7	729
+coberto	cobe	17	2750
+cobertura	cob	12	2263
+cobra	cob	12	2735
+cobranca	cobra	19	3371
+cobrar	cob	12	1515
+cobre	cobr	18	3176
+cobrir	cob	12	896
+codigo	cod	14	1450
+coelho	coe	15	3674
+coerencia	coe	15	4641
+coerente	coe	15	4439
+coesao	coe	15	4555
+cofre	cof	12	3746
+coincidencia	coi	15	4069
+coincidir	coi	15	3131
+coisa	c	3	71
+coitado	coi	15	3992
+colaboracao	cola	15	2113
+colaborador	cola	15	3244
+colaborar	cola	15	1872
+colar	cola	15	4349
+coleccao	cole	19	1961
+colecta	colec	22	4361
+colectivo	col	14	1383
+colega	col	14	1093
+colegio	col	14	1166
+colera	coler	25	4375
+colete	colet	27	4938
+colheita	colh	18	2923
+colher	colh	18	1569
+coligacao	coli	19	2968
+colina	coli	19	4168
+colo	colo	21	3427
+colocacao	coloc	24	3050
+colocado	coloc	24	4665
+colocar	col	14	233
+colonia	colo	21	2500
+colonial	colo	21	2614
+colonizacao	colon	27	4556
+colono	colon	27	3373
+colorido	colo	21	2302
+coluna	colu	19	1453
+com	c	3	12
+comandante	coma	16	1391
+comandar	coma	16	1705
+comando	coma	16	1379
+combate	comb	17	1122
+combater	comb	17	1510
+combinacao	combi	22	2833
+combinar	comb	17	2009
+comboio	comb	17	2335
+combustivel	combu	22	2883
+comecar	co	10	91
+comeco	comec	23	1401
+comedia	comed	24	2653
+comemoracao	comem	25	3938
+comemorar	comem	25	3360
+comentar	comen	26	1213
+comentario	comen	26	1472
+comer	come	20	597
+comercial	come	20	824
+comercializacao	comerc	29	3864
+comerciante	comer	26	2227
+comercio	come	20	604
+cometer	comet	28	1260
+comico	comic	23	4507
+comida	comi	20	1419
+comissao	comi	20	646
+comissario	comi	20	4098
+comite	comi	20	2940
+como	c	3	17
+comodo	como	22	4062
+compacto	compac	23	4430
+companheiro	compa	20	994
+companhia	comp	19	520
+comparacao	compa	20	2078
+comparar	compa	20	1019
+comparecer	compar	26	3531
+compartilhar	compar	26	4456
+compativel	compat	28	4944
+compensacao	compen	30	2793
+compensar	compen	30	2979
+competencia	compe	24	1895
+competente	compe	24	2724
+competicao	compe	24	2076
+competir	compe	24	2038
+competitividade	competi	37	4729
+competitivo	competi	37	4293
+complementar	complem	33	3017
+complemento	complem	33	4685
+completamente	comp	19	670
+completar	compl	23	842
+completo	compl	23	1361
+complexidade	complex	35	4164
+complexo	compl	23	1242
+complicacao	compli	28	4367
+complicado	compli	28	1682
+complicar	compli	28	3400
+componente	compon	32	2152
+compor	compo	26	891
+comportamento	compo	26	1306
+comportar	compor	32	2969
+composicao	compo	26	1723
+compositor	compos	33	2297
+composto	compo	26	1984
+compra	compr	25	1120
+comprador	compra	26	2999
+comprar	comp	19	465
+compreender	comp	19	448
+compreensao	compre	30	1940
+comprido	compri	30	1787
+comprimento	compri	30	3361
+comprometer	compro	32	1852
+compromisso	compr	25	1338
+comprovar	compro	32	2871
+computador	compu	24	1517
+comum	com	15	422
+comunhao	comunh	30	4572
+comunicacao	comu	20	718
+comunicado	comunic	34	4864
+comunicar	comun	26	1382
+comunidade	comu	20	934
+comunismo	comunis	38	4338
+comunista	comu	20	1375
+comunitario	comunit	39	2723
+conceber	conceb	26	2166
+conceder	conce	24	1485
+conceito	conc	19	1052
+concelho	concel	28	1965
+concentracao	concen	30	1806
+concentrado	concen	30	4413
+concentrar	conce	24	1381
+concepcao	conc	19	1045
+concerto	concer	30	1739
+concessao	conces	31	2169
+concha	conch	23	3288
+conciliar	conci	24	4711
+concluir	conc	19	770
+conclusao	concl	23	1169
+concordar	conc	19	878
+concorrencia	conco	26	2216
+concorrente	conco	26	3462
+concorrer	conco	26	2047
+concretizacao	concr	25	4732
+concretizar	concr	25	2786
+concreto	concr	25	1567
+concurso	concu	24	1653
+conde	cond	20	1864
+condenacao	conde	25	4082
+condenado	conde	25	2046
+condenar	cond	20	1684
+condicao	cond	20	269
+condicionado	condi	25	4568
+condicionar	condi	25	4811
+conducao	condu	25	3322
+conduta	condu	25	2841
+condutor	condu	25	2843
+conduzir	cond	20	818
+confederacao	confe	23	3495
+conferencia	confe	23	1694
+conferir	confe	23	2081
+confessar	confe	23	2364
+confianca	conf	18	1056
+confiante	confia	24	4885
+confiar	confi	23	1870
+configuracao	config	26	4854
+confirmacao	confir	29	4604
+confirmar	conf	18	1256
+confissao	confi	23	3575
+conflito	conf	18	1173
+conformar	confo	25	4096
+conforme	conf	18	639
+confortavel	confo	25	4831
+conforto	confo	25	3420
+confrontar	confr	24	3898
+confronto	confr	24	2418
+confundir	confu	23	1913
+confusao	confu	23	1825
+confuso	confu	23	3848
+congresso	cong	19	1031
+conhecer	con	16	125
+conhecido	conh	20	911
+conhecimento	conh	20	415
+conjunto	conj	22	643
+conquista	conq	21	1675
+conquistar	conq	21	1243
+consagrado	consa	24	3763
+consagrar	consa	24	3734
+consciencia	consc	26	682
+consciente	consc	26	2269
+consecutivo	consec	31	4380
+conseguir	con	16	115
+conselheiro	consel	32	2111
+conselho	cons	23	497
+consenso	consen	34	3469
+consentir	consen	34	4592
+consequencia	conse	28	870
+consequente	conseq	33	4448
+consequentemente	conseq	33	3636
+conservacao	conser	34	3295
+conservador	conser	34	2088
+conservar	conse	28	1790
+consideracao	consi	28	1859
+considerar	cons	23	174
+consideravel	consi	28	3784
+consistir	consi	28	2251
+consoante	conso	30	4199
+consolidar	conso	30	3202
+consorcio	conso	30	4181
+constante	consta	32	1343
+constantemente	consta	32	3004
+constar	consta	32	1878
+constatar	consta	32	2594
+constitucional	consti	36	1780
+constituicao	const	31	1285
+constituinte	consti	36	3904
+constituir	const	31	589
+construcao	const	31	592
+construir	cons	23	493
+construtor	constr	37	4906
+consulta	consu	28	2120
+consultar	consul	32	2344
+consultor	consul	32	4967
+consumidor	consu	28	2114
+consumir	consu	28	2019
+consumo	consu	28	1898
+conta	cont	24	234
+contabilidade	conta	25	3972
+contactar	contac	28	4334
+contacto	conta	25	568
+contagem	contag	28	4783
+contaminado	contam	30	4759
+contar	cont	24	201
+contemplar	conte	29	1834
+contemporaneo	conte	29	1632
+contente	conten	35	3492
+conter	conte	29	982
+contestacao	contes	36	4653
+contestar	contes	36	3413
+conteudo	conte	29	1778
+contexto	contex	36	2189
+contido	contid	33	4871
+continental	contine	40	4397
+continente	conti	29	1625
+continuacao	continu	40	3801
+continuar	con	16	158
+continuidade	conti	29	2309
+continuo	conti	29	1892
+conto	conto	31	408
+contornar	conto	31	4959
+contorno	conto	31	3527
+contra	con	16	136
+contracto	contr	30	1087
+contradicao	contrad	35	3216
+contraditorio	contrad	35	3949
+contrair	contrai	36	3201
+contrapartida	contrap	35	3800
+contrariar	contra	31	2257
+contrario	contr	30	348
+contraste	contras	38	2389
+contratado	contrat	39	2941
+contratar	contrat	39	3957
+contribuicao	contri	35	2074
+contribuinte	contri	35	4447
+contribuir	contr	30	1148
+contributo	contri	35	4620
+controlar	contro	37	1348
+controle	contro	37	1418
+controlo	contro	37	3116
+controversia	contro	37	4016
+contudo	contu	29	1158
+convencao	conven	33	2450
+convencer	conv	22	1519
+convencido	convenc	36	3130
+convencional	conven	33	2854
+conveniencia	conveni	38	4311
+conveniente	conveni	38	4175
+convenio	conve	27	1804
+convento	convent	41	2906
+convergencia	converg	36	4333
+conversa	conv	22	1206
+conversacao	conver	33	3095
+conversao	convers	40	3684
+conversar	conv	22	1144
+converter	conver	33	2089
+conviccao	convi	27	2221
+convicto	convic	30	4892
+convidado	convid	31	3345
+convidar	conv	22	951
+convir	convir	33	2861
+convite	convi	27	1559
+convivencia	conviv	33	3452
+conviver	convi	27	2802
+convivio	conviv	33	3647
+convocacao	convo	29	4636
+convocar	convo	29	2133
+cooperacao	coo	17	2567
+cooperativa	coo	17	3417
+coordenacao	coo	17	3064
+coordenador	coo	17	3384
+coordenar	coor	23	3690
+copa	cop	14	1703
+copia	cop	14	1854
+copiar	cop	14	3552
+copo	cop	14	2770
+cor	cor	16	437
+coracao	cora	17	768
+coragem	cora	17	1886
+coral	cora	17	3956
+corda	cord	20	1413
+cordao	cord	20	3663
+corno	corn	22	4073
+coro	coro	23	3447
+coroa	coro	23	2246
+coronel	coro	23	1882
+corpo	cor	16	239
+corporacao	corp	20	4249
+corporal	corp	20	4708
+correccao	correc	30	2229
+correctamente	correc	30	4860
+correcto	corr	22	1439
+corrector	correc	30	4569
+corredor	corred	31	2100
+correio	correi	32	1836
+corrente	corr	22	804
+correr	cor	16	387
+correspondencia	corres	34	2401
+correspondente	corres	34	2315
+corresponder	corr	22	1044
+corrida	corri	27	1538
+corrigir	corri	27	1798
+corrupcao	corru	27	2205
+cortar	cor	16	629
+corte	cort	24	923
+cortina	cort	24	4480
+costa	cos	17	382
+costumar	cos	17	892
+costume	cos	17	1546
+cota	cot	18	4487
+cotacao	cot	18	4529
+couro	cou	15	3291
+cova	cov	16	3920
+coxa	cox	17	3959
+cozido	coz	18	4381
+cozinha	coz	18	2342
+cozinhar	coz	18	4890
+cranio	cra	10	4995
+credibilidade	cred	18	4415
+credito	cre	14	1262
+credor	cred	18	3313
+crenca	cren	20	2801
+crente	cren	20	4771
+crer	cre	14	995
+crescente	cres	21	1925
+crescer	cr	9	393
+crescimento	cre	14	1283
+criacao	cr	9	539
+criado	cria	15	1695
+criador	criad	19	1783
+crianca	cr	9	225
+criar	cr	9	173
+criatividade	criat	23	4861
+criativo	criat	23	3903
+criatura	criat	23	3063
+crime	crim	19	684
+criminal	crim	19	4312
+criminoso	crim	19	2339
+crise	cris	21	688
+crista	cris	21	4318
+cristal	cris	21	2411
+cristao	cris	21	1954
+cristianismo	crist	29	4891
+criterio	crit	22	1408
+critica	cri	14	618
+criticar	crit	22	1536
+critico	crit	22	1359
+cronica	cro	16	2045
+cru	cru	14	4294
+cruel	crue	19	3842
+cruz	cru	14	950
+cruzado	cru	14	2261
+cruzamento	cruza	23	3821
+cruzar	cru	14	2354
+cruzeiro	cru	14	2439
+cubano	cub	10	4200
+cuidado	cui	13	1020
+cuidar	cui	13	839
+cujo	cu	8	463
+culminar	culm	17	4126
+culpa	cul	12	1228
+culpado	culp	16	3261
+culpar	culp	16	3752
+cultivar	cult	20	1953
+cultivo	culti	25	4525
+culto	cul	12	1912
+cultura	cu	8	413
+cultural	cul	12	1247
+cumplicidade	cum	13	4719
+cumprimentar	cum	13	4438
+cumprimento	cum	13	1839
+cumprir	cu	8	567
+cunhado	cun	14	3758
+cupula	cup	12	3471
+cura	cura	15	3169
+curar	cura	15	3708
+curiosamente	curi	19	4608
+curiosidade	curi	19	2256
+curioso	cur	14	1542
+curso	cu	8	392
+curto	cur	14	607
+curva	cur	14	1805
+curvar	curv	20	4837
+custar	cus	15	1129
+custo	cus	15	849
+dado	da	5	750
+dama	dam	10	4059
+danca	da	5	1193
+dancar	dan	11	1789
+dano	dan	11	2869
+dar	d	4	36
+data	da	5	860
+de	d	4	2
+debaixo	deb	11	1869
+debate	deb	11	1619
+debater	deb	11	2632
+debito	debi	16	4378
+debrucar	deb	11	4004
+decada	deca	13	1464
+decadencia	deca	13	3697
+decerto	dece	17	4877
+decidir	dec	12	446
+decimo	deci	17	4029
+decisao	dec	12	395
+decisivo	deci	17	1994
+declaracao	decl	16	1434
+declarar	dec	12	1134
+declinio	decl	16	4820
+decoracao	deco	19	3891
+decorar	deco	19	3669
+decorativo	decora	26	4952
+decorrente	deco	19	3634
+decorrer	dec	12	1271
+decretar	decr	18	3923
+decreto	decr	18	2618
+dedicacao	ded	13	4234
+dedicar	ded	13	757
+dedo	ded	13	1324
+deduzir	ded	13	4830
+defeito	defe	16	2286
+defender	def	11	361
+defensivo	defen	22	4409
+defensor	defe	16	3505
+defesa	def	11	715
+deficiencia	defic	19	3424
+deficiente	defic	19	4149
+deficit	defic	19	3190
+definicao	defi	16	1830
+definido	defi	16	2090
+definir	def	11	260
+definitivamente	definit	35	2489
+definitivo	def	11	1560
+defrontar	defr	17	3011
+degradacao	deg	12	3820
+degrau	deg	12	3850
+deitar	dei	14	1409
+deixar	de	9	89
+delegacao	del	13	3740
+delegacia	dele	18	3983
+delegado	del	13	2159
+delgado	del	13	2908
+delicado	del	13	2487
+delirio	deli	18	4314
+demais	dem	14	558
+demanda	dema	15	2143
+demasiado	dema	15	1905
+demissao	demi	19	2515
+demitir	demi	19	2150
+democracia	dem	14	1526
+democrata	democ	24	4030
+democratico	demo	21	1615
+demonio	demon	27	3816
+demonstracao	demon	27	2963
+demonstrar	dem	14	1024
+demora	demor	27	3414
+demorar	dem	14	1365
+denominar	deno	22	3369
+densidade	dens	22	4519
+denso	dens	22	3646
+dente	den	15	1496
+dentro	den	15	161
+denuncia	den	15	2360
+denunciar	den	15	1733
+deparar	depa	14	3367
+departamento	dep	13	1755
+dependencia	depe	18	2604
+dependente	depe	18	2773
+depender	dep	13	612
+depoimento	depo	20	2896
+depois	de	9	49
+depor	depor	26	3055
+depositar	depo	20	2422
+deposito	depo	20	1785
+depressa	depr	19	1841
+depressao	depr	19	4007
+deputado	dep	13	676
+derivado	deri	20	4828
+derivar	der	15	2400
+derramar	derr	21	4808
+derrota	der	15	1879
+derrotar	der	15	3388
+derrubar	der	15	1645
+desafiar	desa	17	3161
+desafio	desa	17	1269
+desagradavel	desag	20	3692
+desaparecer	desa	17	937
+desaparecimento	desap	21	4144
+desastre	desa	17	2951
+descalco	descal	24	4904
+descansar	desca	20	2608
+descanso	desca	20	3574
+descarga	desca	20	4018
+descartar	desca	20	2371
+descendente	desce	24	3136
+descer	desc	19	1096
+descida	desci	24	3608
+descobrimento	descob	28	4684
+descobrir	des	16	307
+desconfianca	descon	32	3783
+desconfiar	desco	26	3386
+desconhecer	desco	26	2331
+desconhecido	desc	19	1807
+desconto	descont	40	4562
+descrever	desc	19	1403
+descricao	descr	25	2961
+desculpa	descu	24	3101
+desculpar	descu	24	3818
+desde	des	16	135
+desdobrar	desd	20	4616
+desejar	des	16	694
+desejo	dese	21	978
+desembarcar	desemb	28	3939
+desembargador	desemb	28	4694
+desempenhar	desem	26	2124
+desempenho	desem	26	2056
+desempregado	desem	26	3304
+desemprego	desem	26	2073
+desencadear	desenc	30	3031
+desenhar	desen	27	1402
+desenho	desen	27	1028
+desenrolar	desenr	33	3985
+desenvolver	des	16	650
+desenvolvido	desenv	33	3208
+desenvolvimento	dese	21	919
+desequilibrio	deseq	26	3725
+deserto	deser	27	2031
+desesperado	deses	28	3714
+desespero	deses	28	3443
+desfazer	desf	18	2319
+desgaste	desg	19	4666
+desgraca	desg	19	3236
+designacao	desi	21	3513
+designar	desi	21	2355
+desigualdade	desi	21	4315
+desistir	desi	21	1910
+desligar	desl	20	3467
+deslizar	desli	25	4989
+deslocacao	desl	20	4945
+deslocamento	desl	20	4696
+deslocar	desl	20	1548
+desmentir	desm	21	4449
+desordem	deso	23	4686
+despacho	despa	21	4479
+despedida	desped	29	4894
+despedir	despe	25	3271
+despeito	despei	30	4825
+despejar	despe	25	3865
+despertar	desp	20	1903
+despesa	desp	20	1221
+despir	despi	25	4984
+desportivo	desp	20	2421
+desporto	desp	20	2958
+desprezar	despr	26	3398
+desprezo	despr	26	4131
+destacar	dest	24	1107
+destaque	desta	25	2361
+destinado	dest	24	1686
+destinar	desti	29	2329
+destino	dest	24	979
+destruicao	destr	30	2313
+destruir	dest	24	1119
+desvantagem	desv	22	4526
+desviar	desv	22	2070
+desvio	desv	22	2714
+detalhado	deta	18	4760
+detalhe	det	17	1411
+detectar	detec	25	3617
+detective	detec	25	4878
+detencao	deten	28	4893
+deter	det	17	1371
+determinacao	dete	22	2288
+determinado	det	17	926
+determinante	determ	33	3506
+determinar	det	17	669
+detestar	detes	29	4844
+detras	detr	23	3727
+deus	deu	14	281
+devagar	deva	16	3933
+devedor	deve	20	4188
+dever	de	9	57
+devidamente	dev	15	3421
+devido	dev	15	2276
+devolver	dev	15	2203
+devorar	devo	22	4901
+dez	dez	17	371
+dezena	dez	17	2176
+dezoito	dez	17	3269
+dia	di	9	51
+dia-a-dia	dia-	18	4392
+diabo	diab	12	2645
+diagnostico	diag	13	3113
+dialogo	dia	10	1143
+diamante	diam	15	3299
+diante	dia	10	577
+diariamente	diar	16	3327
+diario	dia	10	1017
+dicionario	dic	12	3235
+didactico	did	13	4444
+diferenca	dif	11	506
+diferenciado	dife	16	4197
+diferenciar	dife	16	4250
+diferente	di	9	205
+diferir	diferi	27	4606
+dificil	dif	11	333
+dificilmente	difi	16	3153
+dificuldade	dif	11	445
+dificultar	difi	16	3242
+difundir	difu	16	4477
+difusao	difu	16	4408
+digital	dig	12	2600
+dignidade	dig	12	2685
+digno	dig	12	3010
+diligencia	dil	13	4263
+dimensao	dim	14	1435
+diminuicao	dim	14	3106
+diminuir	dim	14	1079
+dinamica	din	15	2796
+dinheiro	din	15	301
+diploma	dip	13	3472
+diplomata	dip	13	4231
+diplomatico	dip	13	3080
+direccao	dir	15	369
+directamente	direc	23	1234
+directo	dire	20	831
+director	dir	15	487
+directoria	direct	31	3179
+direito	di	9	146
+dirigente	diri	20	2322
+dirigir	dir	15	485
+disciplina	disci	24	1426
+disciplinar	disci	24	3874
+discipulo	disci	24	3914
+disco	dis	16	826
+discordar	disco	26	4270
+discreto	discr	25	2981
+discriminacao	discr	25	4425
+discurso	dis	16	761
+discussao	dis	16	778
+discutir	dis	16	518
+disfarcar	disf	18	3810
+disparar	dispa	21	2425
+dispensar	dispe	25	2407
+dispersar	dispe	25	3653
+disponibilidade	dispon	33	3351
+disponivel	disp	20	1623
+dispor	disp	20	899
+disposicao	disp	20	1251
+dispositivo	dispos	34	3066
+disposto	disp	20	1424
+disputa	dispu	25	2182
+disputar	dispu	25	1792
+dissolver	diss	23	3534
+distancia	dist	24	952
+distanciar	dista	25	4414
+distante	dista	25	1570
+distincao	disti	29	2648
+distinguir	dist	24	1530
+distinto	disti	29	1812
+distrair	distr	30	4245
+distribuicao	distr	30	1651
+distribuir	dist	24	1357
+distrital	distri	35	4681
+distrito	dist	24	1484
+ditador	dit	17	4672
+ditadura	dit	17	2374
+ditar	dit	17	3926
+divergencia	dive	20	3528
+diversao	divers	33	4341
+diversidade	dive	20	3483
+diverso	div	15	494
+divertir	dive	20	2816
+divida	div	15	1003
+dividir	div	15	654
+divino	divi	20	2544
+divisa	divis	27	4943
+divisao	div	15	1297
+divorcio	divo	22	4354
+divulgacao	divu	20	2237
+divulgar	divu	20	2011
+dizer	d	4	34
+doacao	doa	12	3761
+doar	doa	12	3689
+dobrar	dob	13	2075
+dobro	dob	13	4371
+doce	doc	14	1163
+docente	doc	14	4218
+documentacao	docu	19	4537
+documentario	doc	14	4271
+documento	doc	14	1034
+doenca	do	11	563
+doente	do	11	769
+doer	doe	16	4239
+doido	doi	16	4155
+dois	d	4	42
+dolar	dol	15	1708
+doloroso	dol	15	3595
+dom	dom	16	1889
+domestico	dom	16	1544
+dominante	domi	21	2718
+dominar	dom	16	1030
+domingo	domi	21	1928
+dominio	dom	16	1029
+dona	don	17	1630
+dono	don	17	1124
+dor	dor	17	1104
+dormir	dor	17	1315
+dose	dos	18	3107
+dotado	dot	19	3611
+dotar	dot	19	3310
+dourado	dou	16	2822
+doutor	do	11	533
+doutrina	dou	16	2863
+doze	doz	19	1457
+drama	dr	10	1943
+dramatico	dr	10	2072
+droga	dr	10	1554
+dupla	dup	13	2598
+duplo	dup	13	2905
+duque	duq	14	2728
+duracao	dur	15	2919
+durante	du	9	132
+durar	du	9	905
+duro	du	9	1209
+duvida	du	9	526
+duvidar	duv	15	3193
+duzentos	duz	17	2652
+duzia	duz	17	3192
+e	e	5	4
+eco	ec	8	3590
+ecologico	ecol	19	4182
+economia	ec	8	702
+economico	ec	8	548
+economista	ec	8	3512
+edicao	ed	9	1529
+edificacao	edif	16	4926
+edificar	edif	16	4979
+edificio	ed	9	1043
+edital	edita	23	4980
+editar	edit	22	3370
+editor	edi	14	2684
+editora	ed	9	2566
+editorial	edit	22	4576
+educacao	ed	9	543
+educacional	educac	21	4738
+educado	edu	14	3638
+educar	edu	14	3998
+educativo	edu	14	3539
+efectivamente	ef	7	2210
+efectivo	ef	7	2289
+efectuar	efe	12	2531
+efeito	ef	7	454
+eficacia	efi	12	3335
+eficaz	ef	7	2502
+eficiencia	efi	12	3111
+eficiente	efi	12	2934
+eh	eh	9	3964
+eixo	ei	10	2185
+ela	el	9	48
+elaboracao	ela	10	3054
+elaborado	ela	10	2713
+elaborar	ela	10	2686
+ele	el	9	25
+electricidade	elec	17	2959
+electrico	ele	14	997
+electronico	elec	17	1740
+elefante	elef	16	4266
+elegante	eleg	17	3627
+eleger	eleg	17	1005
+eleicao	el	9	554
+eleitor	elei	19	3224
+eleitorado	elei	19	4780
+eleitoral	elei	19	1393
+elementar	elem	19	4101
+elemento	el	9	461
+elenco	elen	20	4075
+elevacao	elev	20	3755
+elevado	elev	20	1248
+elevador	elev	20	4706
+elevar	elev	20	1815
+eliminacao	eli	14	4302
+eliminar	eli	14	2027
+elite	eli	14	3545
+elogiar	elo	16	4151
+elogio	elo	16	3435
+em	e	5	3
+embaixada	emba	13	3682
+embaixador	emb	12	2440
+embaixo	embai	18	4454
+embalagem	embal	17	4033
+embarcacao	emb	12	3538
+embarcar	emb	12	3415
+embora	em	10	204
+embriao	embr	18	4870
+emenda	eme	15	2853
+emergencia	eme	15	2985
+emergir	eme	15	3589
+emigrante	emi	15	4145
+emigrar	emig	18	4779
+emissao	emi	15	2845
+emissora	emi	15	4002
+emitir	emi	15	2010
+emocao	emo	17	1376
+emocional	emo	17	3831
+empenhar	empe	19	3135
+empenho	empe	19	3889
+empreender	empree	30	4510
+empreendimento	empree	30	2831
+empregado	emp	14	1400
+empregar	emp	14	1187
+emprego	em	10	677
+empresa	em	10	356
+empresarial	empresa	33	3001
+empresario	empres	32	1811
+emprestar	empres	32	2122
+emprestimo	empres	32	2125
+empurrar	empu	19	2578
+encaixar	encai	20	4670
+encaminhar	enca	15	1677
+encantar	encan	21	4936
+encanto	encan	21	4162
+encarar	enc	14	1224
+encargo	enca	15	3321
+encarnado	encar	21	4809
+encarregado	encarr	27	4933
+encarregar	enca	15	2317
+encerramento	ence	19	4095
+encerrar	ence	19	1738
+encher	enc	14	1578
+encolher	encol	25	4951
+encomenda	enco	21	3148
+encomendar	enco	21	3399
+encontrar	en	11	103
+encontro	enc	14	675
+encosta	encos	28	3866
+encostado	encos	28	4818
+encostar	encos	28	4285
+endereco	end	15	3333
+energetico	ene	16	4500
+energia	ene	16	671
+enfase	enfa	14	3971
+enfermeiro	enf	13	2488
+enfiar	enf	13	3658
+enfim	enf	13	1263
+enfrentar	enf	13	948
+enganar	eng	14	2318
+engano	enga	15	3604
+engenharia	eng	14	1823
+engenheiro	eng	14	1111
+engenho	eng	14	3270
+englobar	engl	18	4496
+engolir	engo	21	3585
+engracado	engr	20	3523
+enorme	eno	18	531
+enquadrar	enq	16	4488
+enquanto	enq	16	193
+enriquecer	enr	17	3105
+enrolar	enr	17	3194
+ensaiar	ensa	19	4659
+ensaio	ens	18	1860
+ensinamento	ens	18	4376
+ensinar	ens	18	942
+ensino	ens	18	1054
+entanto	enta	20	412
+entao	en	11	72
+ente	ente	24	4452
+entender	ent	19	248
+entendimento	ente	24	2147
+enterrar	ente	24	2570
+enterro	ente	24	4345
+entidade	enti	24	1342
+entrada	entr	25	725
+entrar	en	11	148
+entre	en	11	50
+entrega	entreg	33	2582
+entregar	entr	25	690
+entretanto	entre	30	844
+entrevista	entre	30	1132
+entusiasmo	entu	24	2729
+envelhecer	enve	22	4391
+envergonhar	enve	22	4884
+enviar	env	17	1130
+envolver	env	17	562
+envolvido	env	17	2024
+envolvimento	env	17	3266
+enxergar	enx	18	3724
+epidemia	ep	9	4960
+episodio	ep	9	1722
+epoca	ep	9	285
+equacao	equa	16	4804
+equilibrado	equil	24	3632
+equilibrar	equil	24	4000
+equilibrio	eq	10	1521
+equipa	eq	10	1788
+equipado	equip	24	4700
+equipamento	eq	10	1095
+equipe	eq	10	1955
+equivalente	equiv	26	2829
+equivaler	equiv	26	4495
+equivoco	equiv	26	4561
+erguer	er	11	2248
+errado	err	17	3597
+errar	er	11	1405
+erro	er	11	655
+erudito	eru	16	4214
+erva	er	11	2040
+escada	esca	16	2692
+escala	esca	16	1781
+escalar	escal	20	3719
+escandalo	esca	16	1972
+escapar	esca	16	1504
+escasso	escas	23	3123
+esclarecer	escl	19	1650
+esclarecimento	escl	19	3936
+escoces	escoc	25	4607
+escola	esc	15	237
+escolar	escol	26	2499
+escolha	esco	22	851
+escolher	esc	15	414
+esconder	esco	22	1310
+escondido	escon	28	4299
+escorrer	escor	28	4876
+escravo	escra	22	2053
+escrever	esc	15	196
+escrita	escr	21	1606
+escrito	escri	26	2129
+escritor	esc	15	590
+escritorio	escr	21	1634
+escritura	escritu	39	3869
+escudo	escu	20	1680
+escultor	escul	24	3780
+escultura	escu	20	3226
+escuridao	escur	26	4969
+escuro	escu	20	1423
+escutar	escu	20	2306
+esfera	esf	14	2855
+esforcar	esf	14	3877
+esforco	esf	14	644
+esfregar	esf	14	3223
+esgotar	esg	15	2399
+esgoto	esg	15	4158
+esmagar	esm	17	3372
+espacial	espac	20	3508
+espaco	esp	16	318
+espada	espa	17	3250
+espalhar	espa	17	1458
+espanhol	espa	17	980
+espantar	espan	23	3661
+espanto	espan	23	4202
+espantoso	espan	23	4463
+especial	esp	16	433
+especialidade	especiali	39	3615
+especialista	especia	30	1813
+especializacao	especializ	47	4493
+especializado	especiali	39	2195
+especializar	espec	24	791
+especialmente	especi	29	1245
+especie	esp	16	295
+especificamente	especif	31	3883
+especificar	especif	31	4422
+especifico	especif	31	1581
+espectacular	espect	32	4534
+espectaculo	espe	21	748
+espectador	espect	32	2356
+espectro	espect	32	4012
+especulacao	especu	29	4129
+espelho	espel	25	2105
+espera	esper	27	1287
+esperanca	esper	27	1141
+esperar	esp	16	256
+espesso	espes	28	4515
+espingarda	espin	27	4777
+espinha	espi	21	4564
+espinho	espi	21	4563
+espirito	espi	21	460
+espiritual	espi	21	2280
+espontaneo	espo	23	3293
+esporte	espo	23	2636
+esportivo	espo	23	3970
+esposa	espo	23	1885
+espreitar	espr	22	4486
+esquecer	esq	17	793
+esquecido	esquec	30	4930
+esquecimento	esquec	30	4535
+esqueleto	esquel	31	4565
+esquema	esq	17	1975
+esquerda	esq	17	628
+esquerdo	esq	17	2561
+esquina	esqui	27	3196
+esquisito	esqui	27	3480
+esse	es	12	26
+essencia	ess	19	2621
+essencial	ess	19	1272
+essencialmente	ess	19	2761
+estabelecer	esta	21	641
+estabelecido	estab	23	3645
+estabelecimento	estab	23	1750
+estabilidade	estab	23	2086
+estabilizacao	estabi	28	4712
+estacao	esta	21	1049
+estacionamento	estac	24	4803
+estacionar	estac	24	4727
+estadio	estad	25	2763
+estado	es	12	108
+estadual	estad	25	1862
+estagio	estag	24	2540
+estar	e	5	18
+estatal	estat	29	3032
+estatistica	estati	34	3826
+estatistico	estat	29	3644
+estatua	estat	29	2710
+estatuto	estat	29	1982
+estavel	estav	27	3028
+este	e	5	23
+estender	este	25	990
+estetica	este	25	2135
+estetico	este	25	4040
+estilo	esti	25	699
+estimar	esti	25	1571
+estimativa	estim	30	4020
+estimular	esti	25	1993
+estimulo	esti	25	2472
+estomago	esto	27	3133
+estoque	esto	27	3953
+estrada	estr	26	591
+estragar	estrag	30	4587
+estrago	estrag	30	4462
+estrangeiro	estr	26	439
+estranhar	estran	33	4703
+estranho	estra	27	1153
+estrategia	estra	27	1388
+estrategico	estrat	35	2063
+estrear	estre	31	2897
+estreia	estre	31	3026
+estreito	estre	31	1535
+estrela	estr	26	924
+estrutura	estr	26	815
+estrutural	estru	31	2615
+estudante	estu	25	929
+estudar	est	20	338
+estudio	estu	25	3164
+estudioso	estudi	34	4747
+estudo	estu	25	419
+estupido	estup	29	4981
+esvaziar	esv	18	4815
+etapa	et	13	2059
+eterno	et	13	2483
+etica	et	13	2605
+etnico	et	13	3813
+eu	eu	10	32
+europeu	eu	10	638
+evento	ev	11	1991
+eventual	eve	16	2408
+eventualmente	eve	16	3498
+evidencia	evi	16	2732
+evidenciar	evid	20	4102
+evidente	ev	11	1140
+evidentemente	evi	16	2564
+evitar	ev	11	545
+evocar	evo	18	4287
+evolucao	ev	11	1200
+evoluir	evo	18	2333
+exactamente	exa	13	695
+exacto	exa	13	1534
+exagerado	exag	16	4290
+exagero	exag	16	4630
+exame	exa	13	1212
+examinar	exa	13	2413
+exceder	exced	24	3894
+excelencia	excel	24	3035
+excelente	exc	15	1363
+excepcao	exc	15	1354
+excepcional	excep	24	3584
+excepto	excep	24	2970
+excessivo	exce	20	2151
+excesso	exc	15	1727
+excluir	excl	19	2521
+exclusao	excl	19	4369
+exclusivamente	exc	15	1969
+exclusivo	excl	19	2352
+execucao	exec	20	1971
+executar	exec	20	1488
+executivo	exec	20	1394
+exemplar	exem	22	3599
+exemplo	ex	12	126
+exercer	exe	17	904
+exercicio	exe	17	1275
+exercito	exe	17	803
+exibicao	exib	19	3660
+exibir	exib	19	1817
+exigencia	exi	17	1664
+exigente	exig	20	4484
+exigir	exi	17	576
+exilio	exil	21	3198
+existencia	exi	17	726
+existente	exis	24	1726
+existir	ex	12	127
+exito	exit	25	1818
+expandir	expa	17	3125
+expansao	expa	17	1904
+expectativa	expe	21	1330
+expedicao	expe	21	3188
+expediente	exped	25	4956
+experiencia	ex	12	388
+experimental	exper	27	3470
+experimentar	expe	21	1528
+experimento	exper	27	4896
+explicacao	expl	20	1286
+explicar	ex	12	352
+explicito	expli	25	4455
+explodir	explo	27	3283
+exploracao	expl	20	1893
+explorar	expl	20	1407
+explosao	explo	27	2208
+explosivo	explos	34	4400
+expor	expo	23	1323
+exportacao	expo	23	2191
+exportar	expor	29	3665
+exposicao	exp	16	880
+exposto	expo	23	3296
+ex-presidente	ex-	20	4687
+expressao	exp	16	665
+expressar	expr	22	2913
+expressivo	expre	27	3090
+expresso	expr	22	1976
+exprimir	expr	22	2460
+expulsao	expu	21	4134
+expulsar	expu	21	2577
+extensao	exte	25	1772
+extenso	exte	25	3276
+exterior	ext	20	932
+externo	ext	20	1356
+extincao	exti	25	3268
+extinguir	exti	25	3395
+extinto	exti	25	2874
+extra	extra	27	4553
+extraccao	extra	27	4683
+extrair	extr	26	2859
+extraordinario	ext	20	1279
+extremamente	extr	26	1583
+extremidade	extre	31	4024
+extremo	ext	20	1268
+fabrica	fab	5	999
+fabricacao	fabrica	20	4332
+fabricante	fab	5	3596
+fabricar	fab	5	1931
+fabrico	fab	5	3968
+faca	faca	7	3287
+faccao	facc	9	4714
+face	fac	6	666
+fachada	fach	10	3374
+facil	fac	6	573
+facilidade	faci	11	1800
+facilitar	faci	11	1621
+facilmente	faci	11	1909
+facto	fa	3	165
+factor	fact	14	1223
+faculdade	fac	6	927
+fado	fad	7	3390
+faixa	fai	8	1442
+fala	fal	7	1438
+falar	f	2	95
+falecer	fale	12	2545
+falecido	fale	12	4550
+falencia	fale	12	3677
+falha	falh	11	1769
+falhar	falh	11	2250
+falso	fals	14	1531
+falta	fal	7	327
+faltar	fal	7	755
+fama	fam	8	2415
+familia	fa	3	188
+familiar	fam	8	841
+famoso	fam	8	1185
+fantasia	fan	9	2667
+fantasma	fan	9	2920
+fantastico	fan	9	2036
+farinha	far	9	2239
+farmaceutico	far	9	4206
+farmacia	far	9	3789
+fase	fas	10	674
+fatal	fat	11	3713
+fatia	fat	11	4485
+fauna	fau	8	4843
+favela	fav	9	3787
+favor	fav	9	657
+favoravel	fav	9	1926
+favorecer	fav	9	2543
+favorito	favo	16	4123
+fazenda	faz	11	1051
+fazendeiro	faz	11	4274
+fazer	f	2	21
+fe	fe	7	1322
+febre	feb	9	1894
+fechado	fec	10	1837
+fechar	fe	7	455
+fecho	fec	10	4506
+federacao	fed	11	2028
+federal	fe	7	1060
+feicao	fei	12	3501
+feijao	fei	12	2535
+feio	fei	12	3149
+feira	fei	12	1436
+feitio	feit	20	4996
+feixe	feix	19	4424
+felicidade	fel	11	2153
+feliz	fel	11	1373
+felizmente	fel	11	3213
+femea	fem	12	2745
+feminino	fem	12	1339
+fenomeno	fen	13	1237
+fera	fera	14	4865
+feria	fer	13	1656
+ferido	fer	13	2161
+ferimento	feri	18	4743
+ferir	fer	13	1744
+feroz	fero	20	3863
+ferramenta	ferr	19	2664
+ferro	fe	7	730
+fertil	fert	21	4426
+ferver	ferv	19	4295
+festa	fe	7	805
+festival	fes	14	2348
+feto	fet	15	4841
+fiar	fia	8	3701
+fibra	fib	9	3097
+ficar	f	2	56
+ficcao	fic	10	2051
+ficha	fic	10	3720
+fidalgo	fid	11	4373
+fidelidade	fid	11	3948
+fiel	fie	12	1678
+figado	fig	10	3648
+figura	fig	10	443
+figurar	fig	10	3195
+fila	fila	12	2375
+fileira	file	16	4383
+filha	fil	11	468
+filho	fi	7	143
+filmar	film	16	3643
+filme	fil	11	472
+filosofia	fil	11	1186
+filosofico	filo	18	2794
+filosofo	filo	18	2573
+fim	fi	7	168
+final	fi	7	291
+finalidade	final	18	2937
+finalizar	final	18	2806
+finalmente	fin	13	1073
+financas	finan	20	2449
+financeiro	fin	13	908
+financiamento	fina	14	2292
+financiar	finan	20	2559
+findar	find	17	4863
+fingir	fing	16	3721
+fino	fin	13	1220
+fio	fio	14	1150
+fiorestal	fio	14	3946
+firma	fir	13	2996
+firmar	fir	13	2673
+firme	fir	13	2438
+firmeza	fir	13	4917
+fiscal	fis	14	1462
+fiscalizacao	fis	14	3078
+fiscalizar	fisc	17	4208
+fisica	fis	14	3037
+fisico	fis	14	855
+fita	fit	15	1479
+fixacao	fix	14	4657
+fixar	fix	14	866
+flagrante	fla	7	4748
+flanco	fla	7	4802
+flauta	fla	7	4922
+flexivel	fl	6	4232
+flor	fl	6	1203
+floresta	fl	6	1468
+fluido	flu	11	4324
+fluir	flu	11	4812
+flutuar	flu	11	4386
+fluxo	fl	6	2656
+foco	foc	12	2730
+fogo	fog	12	836
+fogueira	fog	12	3893
+foguete	fog	12	3705
+folego	fol	13	4827
+folha	fol	13	1278
+fome	fom	14	1349
+fonte	fon	15	696
+forca	fo	9	186
+forcado	forc	18	2574
+forcar	forc	18	1801
+forma	f	2	97
+formacao	form	20	637
+formal	forma	21	2190
+formar	fo	9	340
+formato	format	29	3264
+formiga	formi	25	4184
+formoso	formo	27	4358
+formula	form	20	1648
+formular	formu	25	2716
+fornecedor	forn	21	2991
+fornecer	forn	21	1467
+fornecimento	forn	21	3875
+forno	forn	21	1612
+foro	foro	22	4355
+fortalecer	forta	24	4177
+fortaleza	fort	23	2096
+forte	fo	9	265
+fortemente	fort	23	2852
+fortuna	fort	23	2694
+forum	foru	20	3732
+fosforo	fos	16	4301
+fossil	fos	16	4929
+foto	fot	17	1775
+fotografar	fotog	27	3742
+fotografia	fot	17	910
+fotografico	fot	17	3410
+fotografo	fot	17	2695
+foz	foz	17	3076
+fracassar	frac	12	4793
+fracasso	frac	12	2975
+fraccao	frac	12	4575
+fraco	fra	9	1219
+frade	frad	13	4465
+fragil	frag	12	3334
+fragmento	frag	12	3456
+frances	fr	8	535
+franco	fra	9	2519
+frango	fran	15	2785
+fraqueza	fraq	14	3220
+frase	fr	8	1088
+fraude	frau	14	3882
+freguesia	fre	13	1655
+frei	frei	18	2899
+frente	fr	8	230
+frequencia	fre	13	1674
+frequentar	fre	13	1602
+frequente	freq	18	2298
+frequentemente	freq	18	2479
+fresco	fres	20	2388
+frio	fr	8	753
+fronteira	fro	15	1155
+frota	fro	15	3409
+fruta	fru	13	1888
+fruto	fru	13	1199
+fuga	fug	10	1821
+fugir	fu	7	598
+fumaca	fum	12	4216
+fumar	fum	12	2904
+fumo	fum	12	2530
+funcao	fu	7	375
+funcional	funci	21	3990
+funcionamento	func	16	1835
+funcionar	fun	13	635
+funcionario	fun	13	888
+fundacao	fund	17	1851
+fundado	fundad	22	3815
+fundador	funda	18	2672
+fundamental	fund	17	1050
+fundamentalmente	fundam	23	4068
+fundamento	fundam	23	2757
+fundar	fund	17	2058
+fundir	fundi	22	3576
+fundo	fu	7	257
+furar	fur	13	4179
+furia	fur	13	4766
+furioso	fur	13	4551
+furtar	fur	13	4619
+fusao	fus	14	3009
+futebol	fut	15	1066
+futuro	fu	7	325
+gabinete	gab	6	1525
+gado	ga	4	1168
+galego	gal	8	3786
+galeria	gal	8	1978
+galho	galh	12	4470
+galinha	gal	8	2198
+galo	gal	8	3562
+ganhar	ga	4	252
+ganho	gan	10	2008
+garantia	gar	10	1316
+garantir	ga	4	582
+garganta	garg	13	3586
+garota	garo	17	4292
+garoto	gar	10	2701
+garrafa	gar	10	2704
+gas	gas	11	1395
+gasolina	gas	11	2462
+gastar	ga	4	1270
+gasto	gas	11	1911
+gato	gat	12	1691
+gaucho	gau	9	3145
+gaveta	gav	10	4310
+gelado	gel	12	4243
+gelo	gel	12	2595
+gemeo	gem	13	4291
+gene	gene	19	3834
+general	gen	14	1080
+generalizado	gener	25	3778
+generico	generi	30	4106
+genero	ge	8	656
+generoso	gene	19	3702
+genetico	gene	19	3511
+genio	gen	14	3368
+genro	genr	20	4043
+gente	ge	8	283
+geografia	geo	15	3568
+geografico	geo	15	2818
+geracao	ge	8	683
+gerador	gerad	19	4721
+geral	g	3	229
+geralmente	ger	14	1433
+gerar	ger	14	1069
+gerente	gere	19	3616
+gerir	geri	19	3474
+gestao	ges	15	1609
+gesto	ges	15	1831
+gestor	ges	15	4838
+gigante	gi	8	2635
+gigantesco	gi	8	3662
+ginasio	gi	8	4467
+ginastica	gin	14	4912
+girar	gi	8	2454
+giro	gir	14	4816
+global	gl	7	2290
+globalizacao	gl	7	4662
+globo	gl	7	1764
+gloria	gl	7	1941
+gol	gol	14	3955
+golfo	gol	14	4156
+golo	gol	14	3389
+golpe	gol	14	1236
+gordo	gor	16	2206
+gordura	gor	16	3215
+gostar	go	10	423
+gosto	go	10	968
+gota	got	18	3481
+gotico	got	18	4540
+governador	go	10	887
+governamental	gov	16	2826
+governante	governa	34	3089
+governar	gov	16	1537
+governo	g	3	113
+gozar	goz	18	2758
+gozo	goz	18	4881
+graca	gr	9	529
+grade	grad	14	4246
+grafico	graf	12	2517
+grama	gram	15	3342
+gramatica	gram	15	4091
+grande	g	3	45
+grandeza	gran	16	2606
+grao	grao	17	2102
+gratuito	grat	18	3294
+grau	gra	10	1108
+gravacao	grav	16	2850
+gravar	grav	16	1321
+gravata	grava	17	4855
+grave	gr	9	734
+gravida	gravi	21	3910
+gravidade	grav	16	2637
+gravidez	gravi	21	3569
+gravura	gravu	21	3072
+grego	gre	14	1721
+greve	gre	14	2109
+grilo	gri	14	4497
+gripe	gri	14	4958
+gritar	gri	14	2630
+grito	gri	14	2670
+grosseiro	gro	16	4610
+grosso	gro	16	1061
+grupo	g	3	154
+gruta	gru	14	4010
+guarda	gu	8	547
+guardar	gu	8	1059
+guerra	gu	8	241
+guerreiro	gue	13	2571
+guerrilha	gue	13	3297
+guerrilheiro	gue	13	3222
+guia	gu	8	2443
+guiar	gui	13	2546
+guitarra	gui	13	2924
+habilidade	habil	16	2870
+habitacao	hab	7	2266
+habitante	ha	5	1508
+habitar	habita	21	2458
+habito	ha	5	1117
+habituado	habitu	25	3649
+habitual	ha	5	2222
+habitualmente	habitu	25	3500
+habituar	habitu	25	3993
+harmonia	har	11	2451
+haver	h	4	29
+hectare	hec	12	3853
+helicoptero	hel	13	4492
+heranca	he	9	2188
+herdar	he	9	2717
+herdeiro	he	9	2663
+heroi	he	9	1579
+heroico	hero	22	4658
+hesitar	hes	16	3543
+hierarquia	hie	14	3252
+higiene	hig	12	4097
+hino	hin	15	4520
+hipotese	hi	9	894
+historia	h	4	153
+historiador	hi	9	2910
+historico	hi	9	754
+hoje	h	4	99
+holandes	hol	15	2622
+homem	h	4	79
+homenagear	hom	16	4644
+homenagem	hom	16	1850
+homicidio	homi	21	4655
+homossexual	hom	16	4475
+honesto	hon	17	3817
+honra	hon	17	1575
+honrar	hon	17	4785
+hora	ho	11	155
+horario	hor	17	1771
+horizontal	hori	22	4459
+horizonte	hor	17	1335
+horrivel	horr	23	4077
+horror	horr	23	2725
+horta	hor	17	2677
+hospital	ho	11	779
+hospitalar	hos	18	4099
+hostil	hos	18	4626
+hostilidade	hos	18	4340
+hotel	hot	19	1699
+humanidade	hu	9	1591
+humano	hu	9	278
+humidade	humi	19	4718
+humido	humi	19	4248
+humilde	hu	9	3782
+humor	hu	9	2235
+iberico	ib	7	4457
+ida	ida	10	3366
+idade	id	9	406
+ideal	id	9	884
+ideia	i	5	177
+identico	iden	20	1952
+identidade	ide	14	1709
+identificacao	iden	20	2705
+identificar	id	9	1038
+ideologia	ideo	21	3206
+ideologico	ideo	21	2932
+idioma	idi	14	4008
+idiota	idi	14	4982
+idolo	ido	16	4609
+idoso	ido	16	3348
+ignorancia	ign	14	3416
+ignorar	ig	8	1751
+igreja	ig	8	339
+igual	ig	8	442
+igualdade	igu	13	2849
+igualmente	ig	8	1451
+ilegal	ile	14	3392
+ilha	il	9	747
+iludir	ilud	18	4972
+iluminacao	il	9	2974
+iluminar	il	9	3043
+ilusao	il	9	2359
+ilustracao	ilus	21	4474
+ilustrar	ilu	14	3146
+ilustre	ilus	21	3980
+imagem	im	10	284
+imaginacao	ima	11	2160
+imaginar	im	10	700
+imaginario	ima	11	3151
+imediatamente	ime	15	1133
+imediato	ime	15	1086
+imenso	ime	15	1106
+imigrante	imi	15	3925
+imitar	imi	15	3298
+imobiliario	imo	17	4259
+imovel	imo	17	1506
+impacto	impa	15	2121
+impedir	imp	14	746
+imperador	impe	19	2378
+imperial	impe	19	3716
+imperio	impe	19	1406
+implantacao	impl	18	3338
+implantar	impl	18	3259
+implementacao	impl	18	4768
+implicar	impl	18	1620
+impor	impo	21	879
+importacao	import	35	2868
+importancia	im	10	450
+importante	im	10	207
+importar	imp	14	872
+imposicao	impos	28	3678
+impossibilidade	impos	28	4226
+impossivel	impos	28	925
+imposto	impos	28	1021
+imprensa	impr	20	1055
+impressao	impr	20	893
+impressionante	impres	32	4329
+impressionar	impre	25	3093
+impresso	impr	20	2918
+imprimir	impri	25	4141
+improvisar	impr	20	2520
+impulso	impu	19	2145
+inauguracao	ina	12	4538
+inaugurar	ina	12	2680
+incapacidade	inca	15	4192
+incapaz	inc	14	2403
+incendio	inc	14	2211
+incentivar	ince	19	3704
+incentivo	ince	19	2867
+incerteza	ince	19	3861
+incerto	incer	25	4518
+incidencia	inci	19	4975
+incidente	inci	19	2609
+incidir	inci	19	4100
+inclinar	incl	18	4036
+incluir	inc	14	784
+inclusao	incl	18	4502
+inclusive	inc	14	710
+incomodar	inco	21	2617
+incomodo	incom	26	4925
+incompleto	inco	21	4767
+inconsciente	inco	21	3442
+incorporar	inco	21	2644
+incrivel	incr	20	3103
+indagar	inda	16	4697
+indenizacao	inde	20	4450
+independencia	inde	20	1399
+independente	inde	20	1089
+independentemente	inde	20	3047
+index	index	27	4875
+indiano	india	21	3402
+indicacao	indic	23	2305
+indicador	indic	23	2480
+indicar	ind	15	742
+indice	indic	23	2510
+indicio	indici	28	3463
+indiferenca	indif	22	4411
+indiferente	indif	22	3572
+indigena	indig	23	2647
+indignacao	indig	23	4715
+indio	ind	15	823
+indirecto	indir	26	3879
+indispensavel	indis	27	2132
+individual	indi	20	1568
+individuo	ind	15	709
+industria	ind	15	787
+industrial	indu	20	1327
+induzir	indu	20	3563
+inedito	ine	16	2654
+inerente	ine	16	4709
+inesperado	ine	16	3075
+inevitavel	ine	16	2557
+infancia	infa	14	1481
+infante	infa	14	4377
+infantil	infa	14	1445
+infeccao	infec	21	3927
+infeliz	infe	18	3845
+infelizmente	infe	18	2247
+inferior	inf	13	1360
+inferno	infe	18	2662
+infinito	infi	18	2625
+inflacao	infl	17	2601
+influencia	inf	13	630
+influenciar	infl	17	2006
+influente	infl	17	4688
+influir	influ	22	4856
+informacao	in	11	421
+informar	inf	13	1210
+informatica	info	20	2800
+informativo	info	20	4994
+infra-estrutura	infr	19	3619
+ingenuo	ing	14	3764
+ingles	ing	14	556
+ingressar	ing	14	3239
+ingresso	ing	14	4313
+inicial	ini	16	1312
+inicialmente	inicia	25	2477
+iniciar	ini	16	756
+iniciativa	ini	16	1102
+inicio	ini	16	527
+inimigo	inim	21	1392
+injeccao	inj	17	4049
+injustica	inj	17	3600
+injusto	inj	17	3943
+inocencia	ino	18	4458
+inocente	ino	18	3423
+inovacao	ino	18	3175
+inovador	ino	18	4472
+inquerito	inq	16	2676
+inquietacao	inq	16	4675
+inscrever	insc	21	4464
+inscricao	insc	21	3083
+inscrito	insc	21	4198
+insecto	inse	23	2679
+inseguranca	inse	23	4983
+inserir	inse	23	2825
+insistencia	insi	23	4734
+insistir	insi	23	1513
+inspeccao	insp	22	3681
+inspector	insp	22	3640
+inspiracao	insp	22	2572
+inspirar	insp	22	1541
+instabilidade	instab	29	4433
+instalacao	insta	27	1614
+instalado	instal	31	3359
+instalar	ins	18	1064
+instancia	insta	27	3332
+instante	insta	27	1942
+instinto	instin	37	3796
+institucional	insti	31	3601
+instituicao	ins	18	903
+instituir	insti	31	3641
+instituto	ins	18	1230
+instrucao	instr	32	1786
+instrumento	ins	18	780
+insuficiente	insu	23	4174
+insuportavel	insu	23	3458
+integracao	integ	27	2366
+integrado	integrad	38	4238
+integral	integ	27	3635
+integrante	integ	27	2964
+integrar	integ	27	1301
+inteiramente	intei	29	2328
+inteiro	int	19	623
+intelectual	intel	28	988
+inteligencia	intel	28	1598
+inteligente	intel	28	2064
+intencao	inten	30	760
+intensidade	inten	30	2607
+intensificar	intens	37	4451
+intensivo	inten	30	2629
+intenso	inten	30	1497
+interaccao	intera	31	4215
+interessado	intere	35	1594
+interessante	inter	30	738
+interessar	in	11	517
+interesse	in	11	310
+interferencia	interf	32	4289
+interferir	interf	32	3185
+interior	in	11	444
+interlocutor	interl	34	3858
+intermediario	interm	35	3189
+intermedio	interm	35	2811
+internacional	intern	36	1819
+internado	intern	36	4635
+interno	intern	36	881
+interpretacao	interp	34	1689
+interpretar	interp	34	1367
+interprete	interp	34	3637
+interrogacao	interr	36	4546
+interrogar	interr	36	3098
+interromper	interr	36	1712
+interrupcao	interr	36	4331
+intervalo	interv	36	2057
+intervencao	interv	36	1159
+intervir	interv	36	1743
+intimidade	inti	24	3356
+intimo	inti	24	2334
+intitulado	inti	24	4140
+intriga	intr	25	4713
+introducao	intr	25	2827
+introduzir	intr	25	1660
+intuicao	intu	24	3924
+intuito	intu	24	3588
+inumero	inu	16	1779
+inundacao	inu	16	4483
+inutil	inu	16	3015
+invadir	inva	18	1518
+invasao	inva	18	1899
+inveja	invej	28	3999
+invencao	inven	28	2909
+inventar	inv	17	1216
+inverno	inv	17	1145
+inverso	inver	28	4516
+inverter	inver	28	4193
+inves	inves	29	3387
+investidor	investid	46	4080
+investigacao	inv	17	1298
+investigador	investig	45	3329
+investigar	inves	29	2260
+investimento	inv	17	1469
+investir	inves	29	1494
+invisivel	invi	22	3749
+invocar	invo	24	4210
+ir	i	5	30
+ira	ira	12	4372
+irma	ir	11	1100
+irmao	ir	11	488
+ironia	iro	18	3496
+ironico	iro	18	4322
+irregular	ir	11	3142
+irregularidade	irr	17	3630
+irritacao	irr	17	4814
+irritar	irr	17	3548
+isento	ise	17	4882
+isolado	is	12	1564
+isolamento	iso	19	2962
+isolar	is	12	2877
+isso	i	5	44
+isto	i	5	122
+italiano	it	13	1188
+item	it	13	3262
+ja	j	6	33
+jamais	ja	7	1414
+janela	ja	7	1386
+jantar	jan	13	2138
+japones	jap	11	1514
+jardim	ja	7	921
+jazz	jaz	15	3022
+jeito	je	11	1384
+joelho	joe	18	2799
+jogador	jog	16	1295
+jogar	jo	13	583
+jogo	jo	13	337
+joia	joi	18	3380
+jornada	jor	19	2781
+jornal	j	6	293
+jornalismo	jor	19	2275
+jornalista	jor	19	1097
+jornalistico	jornal	30	4366
+jovem	j	6	324
+judaico	jud	15	4280
+judeu	jud	15	1873
+judicial	jud	15	2791
+judiciario	jud	15	2350
+juiz	jui	16	1001
+juizo	jui	16	1964
+julgamento	jul	15	1814
+julgar	ju	11	534
+junior	juni	22	2865
+junta	jun	17	1628
+juntamente	jun	17	2106
+juntar	ju	11	745
+junto	j	6	296
+jurar	jur	17	3418
+juri	jur	17	3884
+juridico	jur	17	1717
+juro	jur	17	1018
+justamente	jus	18	1429
+justica	ju	11	541
+justificacao	justi	31	4916
+justificar	jus	18	1189
+justo	jus	18	1588
+juvenil	juv	17	3560
+juventude	juv	17	1415
+la	l	4	131
+labio	lab	7	4064
+laboratorio	lab	7	1668
+laco	lac	8	2880
+lado	l	4	117
+ladrao	lad	9	2752
+lago	lag	8	1902
+lagoa	lag	8	3312
+lagrima	lag	8	3254
+lama	lam	10	2743
+lamentar	lam	10	2881
+lamina	lam	10	4153
+lampada	lam	10	3770
+lancamento	lan	11	1980
+lancar	la	5	385
+lance	lan	11	2687
+lapis	lap	9	4997
+lar	lar	11	2568
+laranja	lar	11	2638
+largamente	larg	14	4316
+largar	lar	11	2376
+largo	la	5	698
+largura	larg	14	4114
+lata	lat	13	3124
+lateral	lat	13	2429
+latim	lat	13	4052
+latino	lat	13	1746
+lavagem	lav	11	4716
+lavar	lav	11	1919
+lavoura	lav	11	3217
+lavrador	lav	11	4037
+lavrar	lavr	17	4879
+lazer	laz	13	4251
+leal	lea	10	3440
+leao	lea	10	1871
+legal	leg	12	1103
+legiao	legi	17	4705
+legislacao	leg	12	2067
+legislativo	leg	12	2004
+legitimo	leg	12	2498
+lei	le	9	224
+leilao	leil	18	3172
+leite	lei	14	771
+leito	leit	22	3044
+leitor	lei	14	1074
+leitura	lei	14	857
+lembranca	lem	14	3038
+lembrar	le	9	342
+lencol	lenc	18	3696
+lenda	len	15	3021
+lenha	lenh	19	3836
+lentamente	len	15	3191
+lente	len	15	3499
+lento	len	15	1652
+leque	leq	14	3642
+ler	le	9	300
+lesao	les	16	3550
+leste	les	16	1937
+letra	let	17	663
+levantamento	lev	15	2224
+levantar	lev	15	479
+levar	l	4	87
+leve	lev	15	1291
+lhe	l	4	84
+liberacao	libera	23	4654
+liberado	libera	23	3760
+liberal	lib	11	1832
+liberar	libera	23	4110
+liberdade	lib	11	578
+libertacao	lib	11	2020
+libertar	lib	11	1332
+libra	libr	17	3934
+licao	lic	12	2623
+licenca	lic	12	1833
+liceu	lic	12	3311
+licitacao	lic	12	4166
+lidar	lid	13	2330
+lider	lid	13	1334
+lideranca	lid	13	2085
+liderar	lid	13	2310
+liga	lig	12	1921
+ligacao	lig	12	987
+ligar	li	9	309
+ligeiramente	lige	17	3557
+ligeiro	lig	12	2175
+limitacao	limi	19	3091
+limitado	limi	19	3944
+limitar	lim	14	974
+limite	lim	14	808
+limpar	lim	14	1421
+limpeza	lim	14	2603
+limpo	limp	18	3777
+lindo	lin	15	2642
+linear	line	20	4937
+lingua	lin	15	530
+linguagem	lin	15	833
+linha	li	9	315
+linho	linh	19	3245
+liquidar	liq	14	4631
+liquido	liq	14	1626
+lirico	lir	15	3748
+liso	lis	16	3497
+lista	lis	16	1012
+literario	lit	17	852
+literatura	lit	17	572
+litoral	lit	17	2464
+litro	lit	17	3902
+livrar	liv	15	3411
+livraria	liv	15	3766
+livre	li	9	452
+livremente	livre	26	4407
+livro	li	9	182
+lixo	lix	16	2341
+lobo	lob	13	1731
+local	lo	11	326
+localidade	locali	24	3602
+localizacao	loc	14	3042
+localizado	loc	14	2668
+localizar	loc	14	2236
+logica	log	14	1585
+logico	log	14	3633
+logo	lo	11	213
+loja	loj	17	1225
+longe	lo	11	814
+longinquo	lon	17	4094
+longo	lo	11	246
+lote	lot	19	3840
+louco	lou	16	1986
+loucura	lou	16	2912
+louro	lou	16	4988
+lua	lua	10	1483
+lucro	luc	12	1329
+lugar	lu	9	180
+lume	lum	14	4048
+luminoso	lum	14	2966
+luta	lu	9	510
+lutar	lu	9	883
+luto	lut	17	4530
+luva	luv	15	4388
+luxo	lux	16	2646
+luz	lu	9	347
+macaco	mac	9	3405
+macho	mac	9	2325
+macico	mac	9	3712
+macio	mac	9	4044
+madame	mad	10	4242
+madeira	mad	10	473
+madrugada	mad	10	2368
+maduro	mad	10	3455
+mae	mae	11	272
+magia	magi	14	4223
+magico	mag	9	2244
+magistrado	mag	9	2584
+magnetico	magn	15	3852
+magnifico	mag	9	3629
+magro	mag	9	3378
+maior	ma	6	93
+maioria	mai	11	400
+mais	m	5	19
+major	maj	12	2548
+mal	mal	10	353
+mala	mal	10	3650
+malha	mal	10	3673
+mamifero	mam	11	4999
+mancha	manc	15	2155
+mandado	mand	16	4897
+mandar	man	12	480
+mandato	mand	16	1748
+maneira	man	12	277
+manga	mang	15	3002
+manha	man	12	723
+mania	mani	17	4258
+manifestacao	mani	17	1333
+manifestar	mani	17	1304
+manifesto	mani	17	2436
+manipulacao	manip	21	4939
+manobra	mano	19	2688
+manso	mans	19	3847
+manta	mant	20	4279
+manteiga	mant	20	3830
+manter	man	12	232
+manto	mant	20	4661
+manual	manu	17	2522
+manutencao	manu	17	2095
+mao	ma	6	212
+mao-de-obra	mao	13	4680
+mapa	map	10	1853
+maquina	maq	11	559
+mar	mar	12	380
+maravilha	mara	13	3459
+maravilhoso	mara	13	2496
+marca	marc	15	981
+marcacao	marca	16	3785
+marcado	marca	16	2337
+marcador	marcad	20	4427
+marcante	marcan	22	4011
+marcar	mar	12	566
+marcha	marc	15	1770
+marchar	march	19	4305
+marco	marc	15	2291
+mare	mare	17	3040
+marechal	mare	17	4579
+marfim	marf	14	4762
+margem	mar	12	773
+marginal	marg	15	3289
+marido	mar	12	737
+marinheiro	mari	17	3974
+marinho	mari	17	3173
+maritimo	mari	17	2599
+marketing	mark	15	4402
+marmore	marm	17	3614
+marques	marq	17	1396
+marxista	marx	19	4797
+mas	m	5	20
+mascara	mas	13	3533
+masculino	mas	13	2042
+massa	mas	13	645
+massacre	mass	20	3941
+mata	mat	14	1555
+matar	mat	14	431
+matematica	mate	19	2316
+materia	mat	14	528
+material	mat	14	615
+materia-prima	mater	25	4217
+materno	mate	19	4105
+mato	mato	21	2892
+matriz	matr	20	2300
+maturidade	matu	19	4674
+mau	mau	11	490
+maximo	max	13	743
+meado	mea	11	2245
+mecanica	mec	13	4677
+mecanico	mec	13	1932
+mecanismo	mec	13	1802
+medalha	meda	15	2928
+media	med	14	931
+mediante	media	20	3232
+medicamento	medic	22	3023
+medicina	medi	19	1440
+medico	med	14	409
+medida	med	14	316
+medieval	medie	24	3491
+medio	medio	26	1613
+medir	medir	25	1551
+medo	med	14	620
+meia-noite	mei	15	4774
+meio	me	10	104
+meio-dia	mei	15	4079
+mel	mel	14	3320
+melhor	mel	14	119
+melhorar	mel	14	806
+melhoria	mel	14	2501
+melodia	melo	21	4489
+membro	mem	15	967
+memoria	mem	15	609
+mencionar	menc	19	3598
+mendigo	mend	20	4992
+menina	men	16	1226
+menino	men	16	865
+menor	men	16	432
+menos	me	10	112
+mensagem	mens	23	1282
+mensal	mens	23	3349
+mental	ment	24	1501
+mentalidade	ment	24	3837
+mente	ment	24	1766
+mentir	menti	29	3895
+mentira	ment	24	2776
+mercado	mer	16	334
+mercadoria	mer	16	2213
+merce	merc	19	4578
+merecer	mer	16	1232
+mergulhar	merg	19	2579
+merito	mer	16	2423
+mero	mero	23	2851
+mes	mes	17	184
+mesa	mes	17	854
+mesmo	m	5	39
+mesquita	mesq	22	4204
+mestre	mes	17	1084
+meta	meta	19	2180
+metade	met	18	830
+metal	met	18	1561
+metalico	meta	19	3265
+meter	mete	23	1595
+metodo	met	18	1358
+metodologia	meto	25	4566
+metro	met	18	614
+metropole	metr	24	4307
+metropolitano	metr	24	3419
+meu	me	10	69
+mexer	mex	17	2013
+mexicano	mex	17	4195
+midia	mid	14	4348
+mil	mi	10	191
+milagre	mila	15	2798
+milenio	mile	19	4582
+milhao	mi	10	449
+milhar	mil	14	1258
+milho	milh	18	1532
+milimetro	mili	19	3186
+milionario	mili	19	4624
+militante	mili	19	2736
+militar	mi	10	354
+mina	mina	17	1137
+mineiro	mine	21	1900
+mineral	mine	21	3950
+minerio	mine	21	3354
+minimo	min	16	596
+ministerio	min	16	813
+ministrar	mini	21	4991
+ministro	mi	10	372
+minoria	mino	23	3434
+minuto	min	16	781
+miseravel	mise	22	4436
+miseria	mis	17	1970
+misericordia	mise	22	3277
+missa	miss	24	2018
+missao	mis	17	1085
+missionario	miss	24	4335
+misterio	mist	25	1985
+misterioso	miste	30	3807
+mistico	misti	30	3750
+misto	mist	25	3030
+mistura	mis	17	1700
+misturar	mis	17	1452
+mito	mit	18	2847
+miudo	miu	15	2461
+mobiliario	mob	14	3912
+mobilizacao	mob	14	4698
+mobilizar	mob	14	3860
+moca	moc	15	2066
+mocidade	moc	15	4765
+moco	moc	15	3683
+moda	mod	16	1167
+modalidade	moda	17	2699
+modelo	mod	16	584
+moderado	mode	21	3969
+modernizacao	moder	27	4288
+moderno	mod	16	691
+modesto	mode	21	2876
+modificacao	modi	21	2555
+modificar	modi	21	1491
+modo	mod	16	282
+modulo	modu	21	4990
+moeda	moe	17	727
+moer	moe	17	4342
+moinho	moi	17	3070
+mola	mola	17	4902
+molde	mol	16	3204
+mole	mol	16	3450
+molhado	mol	16	4167
+molho	mol	16	3603
+momento	mo	12	175
+monarquia	mona	19	3876
+monetario	mon	18	2537
+monge	mong	21	3341
+monopolio	mono	25	4201
+monstro	mons	25	3432
+montado	montad	31	4618
+montagem	monta	27	3274
+montanha	mon	18	1589
+montante	mont	26	3128
+montar	mon	18	1081
+monte	mon	18	782
+monumento	monu	23	2640
+moradia	mora	19	4647
+morador	mora	19	2775
+moral	mora	19	949
+morar	mor	18	570
+morder	mord	22	3743
+moreno	more	23	4353
+morrer	mo	12	240
+morro	morr	24	2894
+mortal	mort	26	3053
+morte	mor	18	328
+morto	mor	18	575
+mosca	mos	19	3160
+mosteiro	mos	19	2626
+mostra	mos	19	1741
+mostrar	mo	12	208
+motivacao	moti	25	3997
+motivar	mot	20	2864
+motivo	mot	20	599
+motor	mot	20	1320
+motorista	mot	20	2552
+mouro	mou	17	4437
+movel	mov	18	1520
+mover	mov	18	1340
+movimentacao	movi	23	3555
+movimentar	mov	18	2505
+movimento	mo	12	249
+muculmano	muc	13	3120
+mudanca	mud	14	594
+mudar	mud	14	314
+mudo	mud	14	1809
+muito	m	5	28
+mulato	mul	14	1605
+mulher	mu	10	124
+multa	mult	22	3282
+multidao	mul	14	2790
+multinacional	multi	27	4643
+multiplicar	mul	14	2678
+multiplo	mult	22	3137
+mundial	mun	16	1277
+mundo	mu	10	106
+municipal	mun	16	1184
+municipio	mun	16	1341
+muralha	mur	16	3020
+muro	mur	16	1956
+muscular	musc	20	4087
+musculo	musc	20	2741
+museu	mus	17	1071
+musica	mu	10	242
+musical	mus	17	1192
+musico	mus	17	1713
+mutuo	mut	18	3430
+nacao	nac	10	954
+nacional	na	7	227
+nacionalidade	nac	10	3795
+nacionalista	nac	10	3328
+nada	na	7	141
+nadar	nad	11	4211
+namorado	nam	12	2669
+namorar	nam	12	4227
+namoro	nam	12	4942
+nao	n	6	11
+nariz	nar	13	2795
+narrar	nar	13	3962
+narrativa	nar	13	3108
+narrativo	nar	13	4595
+nascente	nas	14	3762
+nascer	na	7	304
+nascimento	nas	14	1670
+nativo	nat	15	3168
+natural	nat	15	381
+naturalidade	natu	20	4752
+naturalmente	nat	15	1161
+natureza	nat	15	474
+naval	nav	13	3612
+nave	nav	13	3255
+navegacao	nav	13	3404
+navegar	nave	18	3680
+navio	nav	13	1011
+necessariamente	nec	14	2884
+necessario	ne	11	323
+necessidade	nec	14	370
+necessitar	nec	14	1480
+negar	neg	14	1037
+negativo	neg	14	1326
+negociacao	nego	21	1782
+negociar	nego	21	1641
+negocio	ne	11	344
+negro	neg	14	447
+nem	n	6	100
+nenhum	ne	11	200
+nervo	ner	17	2901
+nervoso	ner	17	1658
+neto	net	19	1428
+neutro	neu	16	4746
+neve	nev	17	2357
+ninguem	ni	11	489
+ninho	ni	11	4935
+nitido	ni	11	3797
+nivel	ni	11	538
+no	no	13	4461
+nobre	nob	15	1796
+nobreza	nob	15	3824
+nocao	noc	16	1553
+nocturno	noc	16	2134
+noite	noi	18	286
+noiva	noi	18	3814
+noivo	noi	18	4090
+nome	no	13	121
+nomeacao	nomea	24	2967
+nomeadamente	nom	18	1816
+nomeado	nom	18	2278
+nomear	nom	18	2911
+nominal	nomi	23	4673
+nora	nora	20	4590
+nordeste	nor	19	1455
+nordestino	nord	23	4648
+norma	norm	24	1527
+normal	nor	19	744
+normalmente	nor	19	1265
+noroeste	noro	26	4363
+norte	nor	19	389
+norte-americano	nort	27	2137
+nos	no	13	183
+nosso	n	6	86
+nota	not	21	846
+notar	not	21	767
+notavel	not	21	2099
+noticia	not	21	936
+nova	nova	20	2156
+novamente	nov	19	975
+nove	nov	19	877
+novela	nov	19	1906
+noventa	nove	24	3486
+novidade	novi	24	1924
+novo	n	6	63
+nu	nu	11	2116
+nuclear	nuc	14	3187
+nucleo	nu	11	1996
+nulo	nul	15	4543
+numero	nu	11	259
+numeroso	num	16	2353
+nunca	nu	11	160
+nuvem	nuv	17	2192
+o	o	7	1
+obedecer	obe	14	1920
+objectivo	ob	9	622
+objecto	ob	9	522
+obra	ob	9	164
+obrigacao	obr	15	1244
+obrigado	obr	15	1701
+obrigar	ob	9	601
+obrigatorio	obri	20	2431
+obscuro	obsc	19	4396
+observacao	obs	16	1557
+observador	obs	16	3200
+observar	obs	16	705
+obsessao	obse	21	4889
+obstaculo	obs	16	2311
+obstante	obst	24	4070
+obtencao	obt	17	3963
+obter	obt	17	633
+obviamente	obv	15	3457
+obvio	obv	15	2875
+ocasiao	oc	10	1077
+oceano	oce	15	2264
+ocidental	oci	15	2217
+ocidente	oci	15	2777
+ocorrencia	oco	17	3300
+ocorrer	oc	10	362
+oculos	ocul	19	3573
+ocultar	ocu	15	3272
+ocupacao	oc	10	1842
+ocupado	ocu	15	3407
+ocupar	oc	10	605
+odiar	od	11	4368
+odio	od	11	3115
+oeste	oe	12	2428
+ofender	ofe	14	4267
+ofensa	ofen	20	4849
+ofensiva	ofe	14	3722
+oferecer	of	9	586
+oferta	of	9	1867
+oficial	of	9	658
+oficialmente	ofi	14	3139
+oficina	ofi	14	2444
+oficio	of	9	2173
+oh	oh	11	2820
+oitavo	oi	12	4405
+oitenta	oi	12	3205
+oito	oi	12	457
+oleo	ol	11	1930
+olhar	ol	11	322
+olho	ol	11	376
+olimpico	ol	11	3558
+ombro	om	12	2525
+omissao	om	12	4509
+onda	on	13	1131
+onde	o	7	62
+onibus	oni	18	3792
+ontem	on	13	1693
+onze	on	13	2104
+opcao	opc	14	1665
+opera	ope	16	2581
+operacao	op	11	741
+operacional	operac	26	3829
+operador	operad	27	3257
+operar	ope	16	1463
+operario	ope	16	1647
+opiniao	op	11	508
+opor	opo	18	1466
+oportunidade	op	11	721
+oportuno	opor	24	4498
+oposicao	op	11	863
+opositor	opos	25	4928
+oposto	opo	18	3849
+optar	opt	19	1997
+optico	opt	19	3503
+optimista	opt	19	4190
+optimo	opt	19	3487
+ora	or	13	689
+oracao	ora	14	2549
+oral	ora	14	4327
+orbita	orb	15	3564
+orcamento	orc	16	1617
+ordem	or	13	360
+ordenado	ord	17	4219
+ordenar	ord	17	1973
+ordinario	ord	17	3305
+orelha	ore	18	2596
+organico	organic	31	3227
+organismo	organ	23	1735
+organizacao	or	13	797
+organizado	org	16	1490
+organizar	org	16	1156
+orgao	org	16	1094
+orgulho	orgu	21	2558
+orientacao	ori	18	1875
+oriental	orie	23	2242
+orientar	ori	18	1845
+oriente	orie	23	2301
+origem	or	13	707
+original	ori	18	1002
+originar	orig	21	2878
+originario	orig	21	4918
+oriundo	oriu	23	3524
+orquestra	orq	18	2204
+oscilar	os	14	3723
+osso	os	14	1673
+ou	o	7	24
+ouro	ou	12	996
+ousar	ous	19	3376
+outono	out	20	4225
+outro	o	7	27
+outrora	out	20	3100
+ouvido	ouv	18	2108
+ouvir	ou	12	308
+ovelha	ov	13	2486
+ovo	ov	13	1101
+oxigenio	ox	14	4512
+pa	pa	5	2946
+paciencia	paci	13	2995
+paciente	pac	8	1716
+pacifico	pac	8	1988
+paco	paco	15	2860
+pacote	pac	8	2740
+pacto	pac	8	1922
+padrao	pad	9	1646
+padre	pad	9	930
+padrinho	pad	9	4150
+pagamento	pag	8	1344
+pagar	pag	8	274
+pagina	pag	8	976
+pai	pai	10	170
+painel	pain	16	3520
+pairar	pair	16	1855
+pais	pa	5	96
+paisagem	pai	10	1470
+paixao	pai	10	1202
+palacio	pal	9	1300
+palavra	pal	9	203
+palco	pal	9	1398
+palestra	pale	14	2797
+palha	palh	13	3119
+palido	pali	14	4505
+palmeira	pal	9	2324
+pancada	pan	11	3870
+panela	pane	16	4625
+panico	pan	11	3535
+pano	pan	11	2140
+panorama	pan	11	3767
+pao	pao	12	1253
+papa	pap	9	1389
+papai	pap	9	4773
+papel	pap	9	254
+par	par	11	1065
+para	p	4	9
+parada	para	12	2060
+paradigma	parad	16	4950
+parado	parad	16	4370
+paragem	parag	15	4281
+paragrafo	parag	15	3781
+paraiso	parai	17	2942
+paralelamente	paral	16	3541
+paralelo	para	12	1948
+paralisar	paral	16	4947
+parametro	param	17	4072
+parar	para	12	613
+parasita	paras	19	4862
+parceiro	parc	14	1849
+parcela	parc	14	2593
+parceria	parc	14	2167
+parcial	parc	14	3340
+parcialmente	parci	19	4429
+pardo	pard	15	4622
+parecer	par	11	138
+parecido	pare	16	3988
+parede	pare	16	835
+parente	pare	16	1827
+parlamentar	parl	15	1767
+parlamento	parl	15	2034
+parque	parq	16	1211
+parte	pa	5	80
+participacao	partic	27	1305
+participante	partici	32	3237
+participar	part	19	550
+particula	particu	32	3951
+particular	parti	24	678
+particularmente	partic	27	1923
+partida	partid	28	1241
+partidario	partid	28	2347
+partido	part	19	306
+partilha	partil	28	4343
+partilhar	partil	28	2569
+partir	par	11	114
+parto	parto	26	3490
+passado	pas	12	544
+passageiro	passa	20	1799
+passagem	pas	12	764
+passar	pa	5	58
+passaro	passar	26	2130
+passe	passe	24	2268
+passear	passe	24	2720
+passeio	passe	24	2184
+passivo	passi	24	3258
+passo	pas	12	365
+pasta	past	20	2084
+pasto	past	20	4423
+pastor	past	20	2241
+pata	pata	14	2747
+patamar	pata	14	4176
+patente	pat	13	2682
+patio	pati	18	3547
+patrao	pat	13	2420
+patria	pat	13	2513
+patrimonio	pat	13	1685
+pau	pau	10	2017
+paulista	pau	10	1774
+pausa	pau	10	4761
+pauta	pau	10	4213
+pavilhao	pav	11	2753
+paz	paz	13	772
+pe	pe	9	357
+peca	pec	12	383
+pecado	pec	12	2814
+peculiar	pec	12	4728
+pedaco	ped	13	1638
+pedagogico	peda	14	4017
+pedido	ped	13	1951
+pedir	ped	13	235
+pedra	ped	13	471
+pegar	peg	12	861
+peito	pei	14	2119
+peixe	pei	14	514
+pele	pel	13	1014
+pelo	pel	13	3468
+pena	pen	15	436
+penal	pena	16	3703
+pendente	pend	19	4115
+pendurado	pend	19	4501
+penetracao	pene	20	4998
+penetrar	pene	20	2783
+peninsula	peni	20	3965
+pensador	pens	22	4306
+pensamento	pen	15	807
+pensao	pen	15	2243
+pensar	pe	9	120
+pequenino	peq	14	2921
+pequeno	pe	9	139
+perante	pera	16	943
+perceber	per	15	358
+percentagem	perce	23	3718
+percepcao	perc	18	3326
+percorrer	perc	18	1489
+percurso	perc	18	1844
+perda	perd	19	1289
+perdao	perda	20	3832
+perder	pe	9	194
+perdido	perd	19	3521
+perdoar	perd	19	3219
+peregrinacao	pere	20	4919
+perfeicao	perf	17	3991
+perfeitamente	perf	17	1939
+perfeito	perf	17	1235
+perfil	perf	17	1757
+perfume	perfu	22	4309
+pergunta	perg	18	795
+perguntar	perg	18	906
+periferia	peri	20	4067
+perigo	peri	20	1015
+perigoso	peri	20	1257
+periodico	perio	27	4240
+periodo	per	15	475
+perito	perit	28	4887
+permanecer	perm	20	977
+permanencia	perm	20	3163
+permanente	perm	20	1293
+permitir	per	15	280
+perna	pern	21	874
+pernambucano	pern	21	3825
+perpetuo	perp	19	4819
+perseguicao	perse	27	3008
+perseguir	pers	22	2115
+persistir	persi	27	3129
+personagem	pers	22	632
+personalidade	pers	22	1204
+perspectiva	pers	22	875
+pertencente	pert	23	3394
+pertencer	pert	23	631
+perto	pert	23	507
+perturbacao	pertu	28	3839
+perturbar	pert	23	3441
+perverso	perv	21	4895
+pesadelo	pesa	17	4784
+pesado	pesa	17	1582
+pesar	pes	16	812
+pesca	pesc	19	2118
+pescador	pesc	19	3302
+pescar	pesc	19	4172
+pescoco	pesc	19	2065
+peso	pes	16	724
+pesquisa	pesq	21	1072
+pesquisador	pesq	21	3580
+pesquisar	pesq	21	4001
+pessoa	pe	9	70
+pessoal	pes	16	350
+pessoalmente	pess	23	2922
+peste	pest	24	4888
+petroleo	pet	17	2033
+pia	pia	10	4941
+piada	pia	10	4823
+pianista	pia	10	3916
+piano	pia	10	1640
+picar	pic	12	3618
+pico	pic	12	3048
+piedade	pie	14	4262
+pilha	pil	13	4203
+piloto	pil	13	2386
+pinheiro	pin	15	3537
+pintar	pi	9	1259
+pintor	pi	9	1350
+pintura	pi	9	820
+pioneiro	pio	16	3929
+pior	pi	9	957
+piorar	pio	16	3444
+pisar	pis	16	3995
+piscina	pis	16	3082
+piso	pis	16	3121
+pista	pis	16	2127
+placa	pla	9	1747
+planalto	plana	16	2660
+planeamento	plane	20	2619
+planejamento	plan	15	2362
+planejar	plane	20	2813
+planeta	plan	15	1846
+planicie	plani	20	2998
+plano	pl	8	303
+planta	pl	8	871
+plantacao	plant	23	4013
+plantar	plant	23	2447
+plastico	pl	8	1412
+plataforma	plat	17	3045
+plateia	plat	17	4272
+plenario	ple	13	4161
+pleno	pl	8	1231
+pneu	pn	10	4749
+po	po	11	2271
+pobre	pob	13	552
+pobreza	pob	13	2112
+poca	poc	14	4813
+poco	poc	14	2828
+poder	p	4	22
+poderoso	pod	15	1549
+poeira	poei	21	3280
+poema	poe	16	1274
+poesia	poe	16	971
+poeta	poe	16	798
+poetico	poe	16	2382
+pois	poi	16	88
+polemica	pole	20	3896
+polemico	pole	20	3000
+policia	pol	15	593
+policial	pol	15	1127
+politecnico	polit	28	4542
+politica	pol	15	178
+politicamente	polit	28	3559
+politico	pol	15	329
+polo	polo	22	2199
+poluicao	polu	20	3309
+ponderar	pon	17	3892
+ponta	pon	17	1098
+pontape	pont	25	4532
+ponte	pon	17	864
+ponto	pon	17	166
+pontual	pontu	30	4660
+pop	pop	15	3726
+populacao	pop	15	418
+popular	pop	15	649
+popularidade	pop	15	3382
+por	p	4	8
+porcao	porc	20	2888
+porco	porc	20	1758
+porem	pore	22	647
+pormenor	porm	22	2398
+porque	po	11	68
+porta	port	25	427
+portador	porta	26	3159
+portanto	por	17	366
+portao	porta	26	3279
+portaria	portar	32	4286
+porta-voz	porta-	34	4679
+porte	porte	30	2430
+porto	port	25	1447
+portugues	por	17	142
+porventura	porv	23	4490
+posicao	pos	18	331
+positivo	posi	23	1075
+posse	poss	25	1328
+possibilidade	pos	18	456
+possibilitar	possi	30	3061
+possivel	pos	18	206
+possivelmente	possi	30	3530
+possuir	pos	18	749
+postal	posta	27	4689
+poste	poste	31	4623
+posterior	post	26	3180
+posteriormente	post	26	3006
+posto	post	26	2993
+postura	post	26	2270
+potencia	pot	19	3231
+potencial	pot	19	2178
+potencialidade	pot	19	4940
+pouco	po	11	78
+poupanca	pou	16	3571
+poupar	pou	16	2973
+pousar	pou	16	3887
+povo	pov	17	264
+povoacao	pov	17	3352
+povoado	pov	17	4159
+povoar	pov	17	4913
+praca	prac	14	1110
+praga	prag	14	2691
+praia	pra	11	1009
+prata	prata	20	2482
+pratica	pra	11	636
+praticamente	prat	19	1749
+praticar	prat	19	1070
+pratico	prati	24	2538
+prato	prat	19	2041
+prazer	pra	11	1047
+prazo	pra	11	955
+precario	preca	19	3666
+precedente	prece	23	4531
+preceder	prece	23	4671
+preceito	prece	23	4521
+precioso	preci	23	2674
+precipitar	precip	27	3446
+precisamente	prec	18	1580
+precisao	precis	30	2887
+precisar	pre	15	299
+preciso	pre	15	297
+preco	pre	15	386
+precoce	preco	25	4621
+preconceito	preco	25	3056
+predio	pred	19	1238
+predominar	pred	19	4731
+preencher	pree	20	2197
+prefeito	pref	17	2397
+prefeitura	pref	17	2659
+preferencia	pref	17	2026
+preferir	pref	17	687
+pregar	preg	18	2285
+prejudicar	prej	21	1482
+prejuizo	prej	21	1719
+preliminar	prel	19	4603
+prematuro	prem	20	4821
+premio	prem	20	960
+prender	pren	21	1437
+preocupacao	preo	22	640
+preocupado	preo	22	2481
+preocupar	preo	22	828
+preparacao	prep	19	2158
+preparado	prep	19	2007
+preparar	prep	19	588
+presenca	prese	27	672
+presente	pres	22	476
+preservacao	prese	27	3828
+preservar	prese	27	2473
+presidencia	presi	27	1639
+presidencial	presi	27	2497
+presidente	pr	10	190
+presidir	presi	27	2380
+preso	pres	22	483
+pressa	press	29	2976
+pressao	press	29	1091
+pressionar	press	29	3730
+prestacao	prest	30	2523
+prestar	pres	22	653
+prestes	prest	30	3248
+prestigio	prest	30	2183
+presumir	presu	27	4848
+pretender	pret	23	417
+pretensao	pret	23	2771
+pretexto	pret	23	3475
+preto	pret	23	713
+prevalecer	preva	22	4157
+prevencao	preve	26	3058
+prevenir	preve	26	3263
+preventivo	preve	26	4772
+prever	prev	21	785
+previamente	previa	27	4419
+previdencia	previ	26	3504
+previo	prev	21	2866
+previsao	prev	21	2279
+previsto	prev	21	2223
+primario	prim	20	1829
+primavera	prima	21	2509
+primeiro	p	4	55
+primeiro-ministro	prim	20	2384
+primitivo	primi	25	2744
+primo	prim	20	1968
+principal	pri	15	363
+principalmente	pri	15	458
+principe	prin	21	1313
+principio	pri	15	390
+prioridade	prio	22	2232
+prisao	pris	22	1180
+prisioneiro	pris	22	2835
+privado	priv	21	1067
+privatizacao	priv	21	3339
+privilegiado	priv	21	3230
+privilegiar	privi	26	4792
+privilegio	priv	21	2327
+probabilidade	prob	19	3954
+problema	pr	10	149
+problematica	prob	19	4735
+proceder	proc	20	1681
+procedimento	proce	25	2214
+processar	proce	25	2739
+processo	proc	20	251
+procissao	proci	25	4754
+proclamar	procl	24	3478
+procura	proc	20	850
+procurador	procu	25	3656
+procurar	pro	17	218
+producao	prod	21	642
+produtividade	produt	34	3158
+produtivo	produt	34	2651
+produto	prod	21	561
+produtor	prod	21	1760
+produzir	prod	21	451
+proferir	profe	24	3613
+professor	prof	19	245
+profeta	profe	24	4778
+profissao	prof	19	970
+profissional	prof	19	621
+profundamente	profu	24	2433
+profundidade	profu	24	2485
+profundo	prof	19	810
+programa	prog	20	492
+programacao	prog	20	2858
+progredir	progre	31	4617
+progressivamente	progre	31	4781
+progressivo	prog	20	3960
+progresso	prog	20	1662
+proibicao	proi	22	3561
+proibido	proi	22	3057
+proibir	proi	22	1533
+projeccao	proj	23	2365
+projectar	proj	23	1861
+projecto	proj	23	290
+prolongar	prol	21	1934
+promessa	prom	22	1667
+prometer	prom	22	1207
+promocao	prom	22	2703
+promotor	promo	29	4026
+promover	prom	22	1346
+pronto	pron	23	776
+pronunciar	pron	23	2077
+propaganda	propa	22	2258
+propagar	propa	22	3989
+propicio	propi	26	4390
+propor	prop	21	716
+proporcao	propo	28	1865
+proporcional	propor	34	4557
+proporcionar	propor	34	2055
+proposicao	propos	35	4921
+proposito	propo	28	1099
+proposta	prop	21	722
+propriamente	propr	27	1901
+propriedade	prop	21	1048
+proprietario	propr	27	1616
+proprio	pr	10	92
+prosa	pros	24	3325
+prosperidade	pros	24	4725
+prosseguir	pros	24	1603
+protagonista	prota	26	3412
+proteccao	prot	25	1362
+protector	protec	33	4401
+proteger	prot	25	1113
+proteina	protei	35	4552
+protestante	protes	37	4544
+protestar	prot	25	2759
+protesto	prot	25	2023
+protocolo	proto	32	2838
+prova	prov	23	608
+provar	prov	23	1239
+provavel	prova	24	2527
+provavelmente	prov	23	1201
+provedor	prove	28	3976
+proveito	prove	28	3937
+proveniente	prove	28	3018
+providencia	provi	28	2493
+providenciar	provid	32	4817
+provincia	provi	28	1507
+provir	provi	28	3517
+provisorio	provi	28	2202
+provocar	prov	23	581
+proximidade	prox	24	2711
+proximo	pro	17	226
+prudente	pru	15	4883
+psicologia	ps	11	3109
+psicologico	ps	11	2267
+psicologo	ps	11	4558
+publicacao	pub	11	1962
+publicamente	publica	24	3975
+publicar	pu	9	602
+publicidade	pub	11	2478
+publicitario	publici	28	4398
+publico	pu	9	147
+pular	pul	13	4035
+pulmao	pul	13	3025
+pulso	pul	13	3526
+punho	pun	15	4527
+punicao	pun	15	4086
+punir	pun	15	2944
+puramente	pur	15	4344
+pureza	pur	15	4347
+puro	pu	9	1036
+puxar	pu	9	1475
+quadra	quad	15	3428
+quadrado	quad	15	1683
+quadro	quad	15	459
+qual	qua	11	75
+qualidade	qual	15	373
+qualificacao	qual	15	4236
+qualificado	quali	20	4669
+qualquer	qua	11	110
+quando	q	5	38
+quantia	quan	17	3806
+quantidade	quan	17	1078
+quanto	qua	11	140
+quarenta	quar	17	1461
+quarta-feira	quar	17	4303
+quartel	quar	17	3385
+quarto	quar	17	505
+quase	quas	18	169
+quatro	quat	19	197
+que	q	5	5
+quebra	queb	17	2591
+quebrar	queb	17	1218
+queda	qued	19	1191
+queijo	quei	20	3156
+queima	queim	25	4690
+queimado	queim	25	4850
+queimar	quei	20	1763
+queixa	quei	20	2219
+queixar	quei	20	2671
+quem	q	5	73
+quente	quen	21	984
+querer	q	5	61
+querido	quer	21	4169
+questao	que	15	217
+questionar	ques	22	2950
+quilo	qui	15	1918
+quilometro	qui	15	1294
+quimica	quim	20	4304
+quimico	quim	20	2528
+quinhentos	quin	21	3738
+quinta-feira	quint	29	3881
+quintal	quin	21	3790
+quinto	qui	15	1118
+quinze	qui	15	1198
+quota	quo	17	4039
+quotidiano	quo	17	3307
+rabo	rab	9	4027
+raca	rac	10	1397
+raciocinio	rac	10	3079
+racional	rac	10	3872
+radical	rad	11	2170
+radio	ra	7	652
+rainha	rai	12	1299
+raio	rai	12	1573
+raiva	rai	12	3260
+raiz	rai	12	1205
+ramo	ra	7	821
+rancho	ran	13	4824
+rapariga	rap	11	2131
+rapaz	rap	11	958
+rapidamente	rap	11	1058
+rapidez	rapi	16	3542
+rapido	ra	7	571
+raramente	rar	13	2748
+raro	rar	13	1139
+rasgar	ras	14	3833
+rato	rat	15	1777
+razao	ra	7	294
+razoavel	raz	15	2746
+reaccao	reac	15	963
+reafirmar	reaf	14	4801
+reagir	reag	15	1284
+reajuste	reaj	18	4583
+real	r	6	202
+realidade	rea	12	351
+realismo	realis	28	3736
+realista	reali	21	3007
+realizacao	reali	21	1622
+realizador	realiz	29	4147
+realizar	rea	12	374
+realmente	rea	12	569
+rebanho	reb	13	2842
+rebelde	reb	13	2516
+rebeliao	reb	13	3994
+rebentar	reb	13	3578
+recado	reca	15	3473
+recair	reca	15	4560
+recear	recea	20	4173
+receber	r	6	176
+receio	recei	24	2381
+receita	rece	19	1404
+recente	rece	19	1128
+recentemente	rece	19	1828
+recepcao	recep	23	3228
+recinto	reci	19	4668
+reclamacao	recl	18	3844
+reclamar	recl	18	1558
+recolha	recol	25	4478
+recolher	reco	21	1370
+recomecar	recom	26	3804
+recomendacao	recom	26	2984
+recomendar	recom	26	2136
+reconhecer	rec	14	484
+reconhecimento	recon	27	1933
+reconstrucao	recon	27	4277
+recordacao	recor	27	3639
+recordar	reco	21	1599
+recorde	recor	27	3609
+recorrer	reco	21	1476
+recto	rect	22	2856
+recuar	recu	19	2282
+recuperacao	recup	23	2358
+recuperar	recu	19	1182
+recurso	rec	14	478
+recusa	recus	26	3679
+recusar	rec	14	1022
+redaccao	reda	16	2139
+rede	red	15	453
+redigir	redi	20	4325
+redondo	red	15	1950
+redor	redo	22	2231
+reducao	red	15	1935
+reduzido	redu	20	2563
+reduzir	red	15	714
+reeleicao	ree	16	3623
+refazer	refa	14	4800
+refeicao	refei	23	3477
+refem	refem	23	4282
+referencia	ref	13	1105
+referendo	refe	18	3214
+referente	refe	18	3212
+referido	referi	29	4633
+referir	ref	13	470
+reflectir	ref	13	897
+reflexao	refl	17	1843
+reflexo	refl	17	2141
+reforcar	refo	20	1822
+reforco	refo	20	2839
+reforma	ref	13	789
+reformar	refo	20	3855
+refugiar	refu	18	3460
+reger	rege	19	3751
+regiao	re	11	243
+regime	reg	14	914
+regimento	regim	24	4702
+regional	regi	19	1540
+regionalizacao	regio	26	4108
+registar	regis	26	2092
+registo	regis	26	2836
+registrar	regi	19	2061
+registro	regis	26	2293
+regra	reg	14	692
+regressar	reg	14	1025
+regresso	regr	20	1590
+regulamentacao	regu	19	4320
+regulamento	regu	19	3346
+regular	regu	19	2039
+regularmente	regu	19	4927
+rei	rei	16	651
+reinar	rei	16	3532
+reino	rei	16	1550
+reitor	rei	16	3203
+reivindicacao	reiv	22	3805
+reivindicar	reiv	22	3961
+rejeicao	rej	17	4763
+rejeitar	rej	17	2201
+relacao	r	6	172
+relacionado	relac	19	2215
+relacionamento	relac	19	2272
+relacionar	relac	19	2624
+relatar	relat	24	2395
+relativamente	rel	15	1460
+relativo	rela	16	1637
+relato	relato	31	2782
+relatorio	rela	16	1552
+relevante	rele	20	3290
+relevo	rele	20	3062
+religiao	rel	15	1115
+religioso	rel	15	876
+relogio	relo	22	1880
+remedio	rem	16	2154
+remeter	rem	16	3466
+remoto	rem	16	2823
+remover	remo	23	4432
+remuneracao	rem	16	4084
+renascer	rena	18	4788
+renascimento	rena	18	4118
+renda	ren	17	944
+render	ren	17	1945
+rendimento	ren	17	1736
+renovacao	reno	24	3138
+renovar	ren	17	2612
+renuncia	renu	22	4117
+renunciar	renu	22	3099
+reparacao	repa	16	4914
+reparar	repa	16	2032
+reparticao	repa	16	3878
+repassar	repa	16	4187
+repente	repe	20	2336
+repercussao	reper	26	4207
+repertorio	repe	20	3710
+repeticao	repe	20	3913
+repetir	rep	15	697
+repleto	repl	19	4041
+reportagem	repo	22	2507
+reporter	repo	22	2990
+repousar	repo	22	1624
+repouso	repo	22	3651
+representacao	repr	21	1500
+representante	rep	15	1377
+representar	rep	15	343
+representativo	repre	26	3253
+repressao	repress	40	3449
+reprimir	repri	26	3977
+reproducao	repro	28	3425
+reproduzir	repr	21	2379
+republica	rep	15	430
+republicano	repu	20	2589
+reputacao	repu	20	4600
+requerer	req	16	2284
+requisito	req	16	3900
+reserva	rese	23	1280
+reservado	rese	23	4898
+reservar	rese	23	2172
+resgatar	resg	21	4254
+resgate	resg	21	4577
+residencia	resi	23	2299
+residente	resid	27	3013
+residir	resi	23	2177
+residuo	resid	27	2575
+resistencia	resi	23	1197
+resistente	resis	30	4186
+resistir	resi	23	1539
+resolucao	reso	25	1473
+resolver	res	18	335
+respectivamente	respe	27	3363
+respectivo	respe	27	1706
+respeitar	respe	27	832
+respeito	res	18	377
+respiracao	respi	27	3207
+respirar	respi	27	3127
+responder	res	18	416
+responsabilidade	resp	22	701
+responsabilizar	respon	35	4269
+responsavel	respo	29	853
+resposta	res	18	420
+ressaltar	ress	25	2935
+restabelecer	restab	29	4326
+restante	rest	26	1794
+restar	rest	26	1352
+restauracao	restau	32	4143
+restaurante	rest	26	2370
+restaurar	resta	27	3918
+resto	rest	26	564
+restricao	restr	32	2553
+restringir	restr	32	3745
+restrito	restr	32	3155
+resultado	resu	23	482
+resultante	resu	23	3117
+resultar	resu	23	719
+resumir	resu	23	2277
+resumo	resum	28	3493
+reter	rete	24	2807
+retirada	reti	24	3699
+retirar	ret	19	775
+retomar	ret	19	1427
+retorica	reto	26	3592
+retornar	ret	19	1917
+retorno	reto	26	2542
+retratar	retr	25	3942
+retrato	ret	19	1761
+reu	reu	16	4003
+reuniao	reu	16	736
+reunir	reu	16	660
+revelacao	reve	22	2511
+revelar	rev	17	693
+rever	reve	22	1610
+reverter	rever	28	4395
+revestir	reve	22	3336
+revisao	rev	17	1524
+revisor	revi	22	3422
+revista	rev	17	616
+revolta	revo	24	1838
+revoltar	revo	24	3856
+revolucao	rev	17	845
+revolucionario	revo	24	1730
+revolver	revolv	34	4504
+rezar	rez	19	3664
+ribeira	rib	13	2633
+rico	ri	11	551
+ridiculo	rid	15	3464
+rigido	rig	14	2597
+rigor	rig	14	2228
+rigoroso	rig	14	2768
+rim	rim	16	4574
+rio	r	6	214
+riqueza	riq	16	1502
+rir	rir	17	1848
+risca	ris	18	4775
+risco	ri	11	679
+riso	ris	18	2787
+ritmo	ri	11	1042
+rito	rit	19	4868
+ritual	rit	19	2812
+rival	riv	17	3358
+robusto	rob	15	4758
+rocha	roc	16	2304
+rock	roc	16	2338
+roda	ro	13	889
+rodada	rod	17	4753
+rodar	rod	17	2467
+rodear	rod	17	2323
+roer	roe	18	4924
+rolar	rol	17	3171
+rolo	rol	17	4417
+romance	ro	13	731
+romancista	roma	19	4066
+romano	rom	18	1963
+romantico	rom	18	2142
+romantismo	romant	33	4593
+romper	ro	13	1704
+ronda	ron	19	4379
+rondar	ron	19	3843
+rosa	ros	20	2792
+rosado	ros	20	4632
+rosario	ros	20	4866
+rosto	ros	20	1729
+rota	rot	21	2772
+roteiro	rot	21	2809
+rotina	rot	21	2734
+rotulo	rot	21	4986
+roubar	rou	18	1715
+roubo	rou	18	3362
+roupa	ro	13	1033
+roxo	rox	20	4476
+rua	ru	11	332
+ruido	rui	16	2882
+ruim	rui	16	2082
+ruina	rui	16	2926
+rumo	ru	11	1737
+rumor	rum	16	4009
+ruptura	rup	15	2994
+rural	ru	11	1425
+russo	ru	11	1432
+sabado	saba	11	4770
+sabedoria	sab	10	3928
+saber	sa	8	59
+sabio	sab	10	3591
+sabor	sab	10	2504
+saca	saca	12	4724
+sacar	saca	12	4678
+sacerdote	sac	11	3582
+saco	sac	11	1754
+sacrificar	sacr	17	4060
+sacrificio	sac	11	2373
+sacudir	sac	11	3987
+safra	saf	10	3448
+sagrado	sag	11	2029
+saia	sai	13	3509
+saida	sai	13	792
+sair	sa	8	156
+sal	sal	12	1565
+sala	sal	12	711
+salao	sala	13	1957
+salarial	sala	13	3906
+salario	sal	12	1430
+saldo	sald	16	3671
+salgado	salg	15	2900
+salientar	sali	17	2715
+saltar	salt	20	2148
+salto	salt	20	1710
+salvacao	salv	18	3330
+salvar	sal	12	966
+samba	sam	13	3484
+sancao	san	14	3888
+saneamento	sane	19	4297
+sangue	san	14	662
+sanguineo	sang	17	4597
+sanitario	san	14	3465
+santo	sa	8	320
+santuario	sant	22	4054
+sao	sao	15	2437
+sapato	sap	12	2240
+sardinha	sar	14	4776
+sargento	sar	14	4404
+satelite	sat	16	3383
+satisfacao	sat	16	1966
+satisfatorio	sati	21	4539
+satisfazer	sat	16	1495
+satisfeito	sat	16	2815
+saudade	sau	13	2639
+saudar	sau	13	4601
+saudavel	sau	13	3695
+saude	sa	8	425
+se	s	7	14
+seara	sea	13	4220
+seca	seca	16	3779
+secar	seca	16	3507
+seccao	secc	18	1633
+seco	sec	15	998
+secretaria	secr	21	1369
+secretario	sec	15	1032
+secretario-geral	secr	21	3899
+secreto	secr	21	2097
+sector	sec	15	882
+secular	secu	20	4805
+seculo	sec	15	298
+secundario	secu	20	1856
+seda	sed	16	3003
+sede	sed	16	939
+seduzir	sed	16	4699
+segmento	segm	20	2696
+segredo	segr	21	1946
+seguida	segui	25	1679
+seguido	segui	25	4229
+seguinte	seg	15	312
+seguir	seg	15	215
+segunda-feira	segun	26	3769
+segundo	seg	15	109
+seguranca	seg	15	503
+segurar	segur	26	2126
+seguro	segur	26	902
+seio	sei	17	1944
+seis	sei	17	355
+seita	sei	17	4260
+seleccao	sel	16	1661
+seleccionar	sel	16	3094
+selo	sel	16	3249
+selva	selv	22	4088
+selvagem	sel	16	2117
+sem	se	12	64
+semana	sem	17	346
+semanal	sema	18	4736
+semear	seme	22	3211
+semelhanca	seme	22	2416
+semelhante	sem	17	946
+semente	seme	22	1672
+semestre	semes	29	4028
+seminario	semi	22	2448
+sempre	sem	17	74
+senado	sena	19	2014
+senador	sena	19	1992
+senao	sena	19	1246
+senhor	sen	18	258
+senhora	sen	18	403
+sensacao	sens	25	1162
+sensibilidade	sens	25	1977
+sensivel	sens	25	1914
+senso	sens	25	2641
+sentado	senta	27	3771
+sentar	sent	26	1366
+sentenca	sente	31	1887
+sentido	sen	18	279
+sentimental	senti	31	4283
+sentimento	sent	26	733
+sentir	sen	18	181
+separacao	sep	16	2616
+separado	sep	16	2953
+separar	sep	16	956
+sequencia	seq	17	1983
+sequer	seq	17	1345
+ser	s	7	6
+serenidade	sere	23	4993
+sereno	sere	23	4047
+serie	ser	18	664
+seriedade	seri	23	4886
+serio	seri	23	740
+serpente	serp	22	4611
+serra	serr	24	1611
+sertanejo	sert	26	4790
+sertao	sert	26	2655
+servico	ser	18	223
+servidor	serv	24	2383
+servir	ser	18	273
+sessao	ses	19	1857
+sessenta	ses	19	2194
+sete	set	20	477
+setenta	set	20	2817
+setimo	set	20	3885
+seu	s	7	16
+severo	sev	18	3218
+sexo	sex	19	1227
+sexta-feira	sex	19	3482
+sexto	sex	19	2494
+sexual	sex	19	1876
+sigilo	sigi	20	4513
+significado	sig	15	1987
+significar	sig	15	521
+significativo	sig	15	1768
+signo	sig	15	4183
+silencio	sil	16	1512
+silencioso	sil	16	3905
+sim	si	12	255
+simbolico	simb	19	2939
+simbolo	sim	17	1547
+similar	simi	22	4089
+simpatia	simp	21	2846
+simpatico	simp	21	3347
+simples	si	12	491
+simplesmente	sim	17	935
+simplicidade	simpl	25	3540
+simular	simu	22	4726
+simultaneamente	simu	22	2708
+simultaneo	simu	22	4121
+sinal	sin	18	619
+sincero	sinc	21	4403
+sindical	sind	22	3620
+sindicato	sin	18	1577
+singular	sin	18	2697
+sinistro	sini	23	4794
+sino	sino	25	3668
+sintese	sint	26	3672
+sintetico	sint	26	3544
+sintoma	sin	18	2980
+sistema	si	12	398
+sistematico	sis	19	4050
+site	site	25	4874
+sitio	sit	20	915
+situacao	si	12	216
+situado	sit	20	2377
+situar	sit	20	2196
+so	s	7	52
+soar	soa	15	3675
+sob	sob	16	469
+soberania	sobe	21	3707
+soberano	sobe	21	4014
+sobrar	sobra	23	2547
+sobre	so	14	54
+sobrepor	sobrep	31	4523
+sobretudo	sob	16	411
+sobrevivencia	sobr	22	2453
+sobreviver	sob	16	1654
+sobrinha	sobri	27	4524
+sobrinho	sobri	27	2634
+social	so	14	209
+socialismo	socia	23	3981
+socialista	soc	17	1545
+sociedade	so	14	263
+socio	soc	17	1448
+sociologia	socio	29	3947
+socorrer	soco	24	4664
+socorro	soco	24	3624
+sofisticado	sof	16	3911
+sofrer	sof	16	438
+sofrimento	sof	16	2287
+software	sof	16	3476
+sol	sol	18	603
+solar	sola	19	2610
+soldado	sol	18	1090
+solene	sole	23	4265
+solicitacao	solic	26	4481
+solicitar	soli	23	2295
+solidao	solid	27	3060
+solidariedade	soli	23	1995
+solidario	solid	27	4055
+solido	soli	23	1795
+solitario	soli	23	3019
+solo	sol	18	1208
+soltar	solt	26	1949
+solucao	sol	18	557
+solucionar	solu	23	4867
+som	som	19	600
+soma	soma	20	3141
+somar	som	19	2649
+sombra	som	19	1420
+sombrio	somb	21	4163
+somente	som	19	685
+sonda	sond	24	4741
+sondagem	sond	24	4185
+sonhar	son	20	2230
+sonho	son	20	920
+sono	son	20	2580
+sonoro	son	20	2281
+sopa	sop	18	3765
+soprar	sop	18	4212
+sopro	sop	18	4872
+sorrir	sor	20	4125
+sorriso	sor	20	3391
+sorte	sor	20	1368
+sovietico	sov	20	2767
+sozinho	soz	22	1170
+suave	sua	13	3439
+subida	subi	19	2948
+subir	sub	14	648
+subitamente	subi	19	4858
+subito	subi	19	3433
+sublinhar	subl	18	3565
+submarino	subm	19	4384
+submeter	sub	14	2071
+subordinado	sub	14	978
+subsidio	subs	21	2737
+substancia	subs	21	2273
+substancial	substa	30	4798
+substituicao	subs	21	2988
+substituir	sub	14	885
+substituto	subst	29	3579
+subterraneo	subt	22	3809
+suburbio	subu	19	4745
+suceder	suc	15	1264
+sucedido	suced	24	3628
+sucessao	suc	15	2693
+sucessivo	suc	15	2445
+sucesso	su	12	625
+sucessor	suces	27	3811
+sudeste	sud	16	3747
+sudoeste	sud	16	4627
+sueco	sue	17	4112
+suficiente	suf	14	858
+suficientemente	suf	14	3114
+sufocar	suf	14	4491
+sugerir	sug	15	1164
+sugestao	sug	15	2052
+suicidar	sui	17	4923
+suicidio	sui	17	3065
+suico	sui	17	4471
+sujeitar	suj	18	2000
+sujeito	suj	18	827
+sujo	suj	18	3014
+sul	su	12	434
+sul-africano	sul	16	4834
+sul-americano	sul	16	5000
+sumario	sum	17	4541
+sumir	sum	17	3594
+sumo	sum	17	2873
+suor	suo	19	4514
+superar	supe	21	2022
+superficial	supe	21	3794
+superficie	supe	21	1644
+superior	su	12	424
+superioridade	superi	32	4434
+supermercado	superm	32	4063
+supor	sup	16	667
+suportar	sup	16	1574
+suporte	supo	23	2587
+suposto	supo	23	4435
+supremo	sup	16	1566
+suprir	supr	22	4691
+surdo	sur	18	3607
+surgir	su	12	341
+surpreendente	surp	22	4237
+surpreender	sur	18	2164
+surpresa	sur	18	1659
+susceptivel	susc	22	4786
+suscitar	susc	22	4710
+suspeita	sus	19	2821
+suspeitar	suspei	33	4120
+suspeito	suspei	33	3670
+suspender	sus	19	2320
+suspensao	susp	23	2930
+suspenso	sus	19	1927
+sustentar	sus	19	1217
+susto	sust	27	4103
+tabaco	tab	11	3485
+tabela	tab	11	2514
+tabua	tab	11	3319
+tabuleiro	tab	11	4443
+taca	tac	12	2551
+tactico	tac	12	3323
+tal	ta	9	129
+talento	tal	13	1629
+talvez	tal	13	302
+tamanho	tam	14	856
+tambem	t	8	37
+tanque	tan	15	2721
+tanto	ta	9	116
+tao	ta	9	159
+tapar	tap	13	3318
+tapete	tap	13	3700
+tardar	tar	15	4076
+tarde	tar	15	261
+tarefa	tar	15	786
+tarifa	tar	15	3921
+taxa	tax	16	1311
+taxi	tax	16	3827
+teatral	tea	14	2406
+teatro	tea	14	317
+tecer	tece	21	2110
+tecido	teci	21	2068
+teclado	tecl	20	4567
+tecnica	tec	16	1026
+tecnico	tec	16	825
+tecnologia	tec	16	1696
+tecnologico	tecn	22	2824
+tecto	tec	16	1728
+teia	tei	18	3919
+tela	tel	17	1791
+telecomunicacoes	telec	25	3479
+telefonar	tele	22	3426
+telefone	tel	17	1214
+telefonema	telef	24	4900
+telefonico	tel	17	2956
+telegrama	teleg	25	4970
+televisao	tel	17	499
+televisivo	telev	28	4833
+telhado	telh	21	3301
+tema	tem	18	765
+tematico	tema	19	3581
+temer	tem	18	1618
+temor	temo	25	4104
+temperamento	tempe	27	4548
+temperatura	tem	18	2149
+tempestade	tempe	27	2978
+templo	temp	22	2174
+tempo	t	8	66
+temporada	temp	22	2576
+temporal	tempo	29	3343
+temporario	tempo	29	4142
+tendencia	ten	19	886
+tender	ten	19	1608
+tenente	tene	24	4053
+tenis	teni	24	3846
+tensao	tens	26	2163
+tenso	tens	26	4899
+tentacao	tent	27	3667
+tentar	te	13	222
+tentativa	ten	19	1006
+teor	teo	20	4278
+teoria	teo	20	1062
+teorico	teo	20	2907
+ter	t	8	13
+terapia	tera	20	4547
+terca-feira	terc	22	4256
+terceiro	ter	19	428
+terco	terc	22	2209
+terminal	term	24	3126
+terminar	term	24	512
+termo	ter	19	313
+terno	tern	25	4613
+ternura	tern	25	4810
+terra	te	13	133
+terraco	terra	26	4656
+terreiro	terre	30	3715
+terreno	terr	25	580
+terrestre	terre	30	3278
+territorial	terri	30	4146
+territorio	terr	25	1337
+terrivel	terr	25	1891
+terror	terro	32	2529
+terrorista	terro	32	3838
+tese	tes	20	1897
+tesouro	tes	20	2387
+testa	testa	29	4116
+testamento	testa	29	3862
+testar	test	28	3454
+teste	tes	20	1627
+testemunha	tes	20	2424
+testemunho	test	28	3593
+teu	teu	18	1702
+textil	tex	20	3808
+texto	tex	20	720
+tia	tia	14	3798
+tigre	tig	16	4717
+tijolo	tij	19	3986
+time	tim	18	3086
+timido	tim	18	4317
+tinta	tin	19	2409
+tio	tio	20	2048
+tipico	tip	17	2294
+tipo	ti	13	189
+tirar	ti	13	378
+tiro	ti	13	1663
+titular	tit	21	2889
+titulo	ti	13	509
+toalha	toa	16	4517
+toca	toc	18	4446
+tocar	to	15	486
+todavia	tod	19	1999
+todo	t	8	31
+tolerancia	tol	19	4840
+tom	tom	20	989
+tomada	tom	20	4612
+tomar	to	15	163
+tona	ton	21	4740
+tonelada	ton	21	2620
+topo	top	19	2760
+toque	toq	20	2902
+torcer	torc	24	3429
+torcida	torc	24	4730
+tornar	to	15	144
+torneio	torn	27	3735
+torno	tor	21	752
+torre	tor	21	1013
+tortura	tor	21	2927
+torturar	tort	29	4585
+tostao	tos	22	4750
+total	tot	23	728
+totalidade	tot	23	3566
+totalmente	tot	23	1039
+touro	tou	20	2982
+trabalhador	trab	17	560
+trabalhar	tr	14	167
+trabalhista	trab	17	3073
+trabalho	tr	14	85
+tracado	trac	18	4602
+tracar	trac	18	2533
+traco	trac	18	2016
+tradicao	trad	19	917
+tradicional	trad	19	1444
+tradicionalmente	tradi	24	4869
+traducao	trad	19	2456
+traduzir	trad	19	1331
+trafego	traf	17	3803
+trafico	traf	17	3631
+tragedia	trag	18	2094
+tragico	trag	18	3233
+traicao	trai	20	4160
+trair	trai	20	4244
+trajecto	traj	21	4638
+trajectoria	traj	21	3246
+tranquilidade	tranq	26	2986
+tranquilo	tranq	26	2220
+transaccao	transa	29	2832
+transferencia	transf	30	2255
+transferir	transf	30	2588
+transformacao	transf	30	1688
+transformar	tran	21	464
+transicao	transi	33	2419
+transito	transi	33	2225
+transmissao	transm	33	2495
+transmitir	tran	21	1041
+transparencia	transp	32	3756
+transparente	transp	32	3140
+transportar	tran	21	1649
+transporte	tran	21	940
+tras	tras	22	985
+traseiro	tras	22	2657
+tratado	trat	23	1643
+tratamento	trat	23	965
+tratar	tr	14	192
+trato	trat	23	2885
+travar	trav	21	2025
+travessia	trav	21	4720
+trazer	tra	15	228
+trecho	tre	19	1742
+treinador	trei	24	3768
+treinamento	trei	24	3238
+treinar	tre	19	2427
+treino	trei	24	3379
+trem	tre	19	2611
+tremendo	trem	24	3931
+tremer	trem	24	4581
+tres	tr	14	101
+treze	trez	27	3693
+trezentos	trez	27	3915
+tribo	trib	21	2475
+tribunal	tri	19	1196
+tributario	trib	21	3945
+tributo	trib	21	4319
+trigo	tri	19	1915
+trilha	tril	23	4191
+trinta	tri	19	762
+tripa	trip	23	4911
+triste	tri	19	2003
+tristeza	tris	26	3657
+triunfo	triu	24	2470
+troca	tro	21	1296
+trocar	tro	21	1125
+troco	troc	24	4406
+tronco	tro	21	2689
+trono	tron	27	3621
+tropa	tro	21	1151
+tropical	trop	25	3275
+tu	tu	13	466
+tubarao	tub	15	4571
+tubo	tub	15	3331
+tudo	tu	13	81
+tumulo	tum	18	3554
+tunel	tun	19	3375
+turco	tur	19	3166
+turismo	tu	13	2474
+turista	turi	24	3772
+turistico	turi	24	3625
+turma	tu	13	2914
+turno	tur	19	3606
+tutela	tut	21	4224
+ultimamente	ul	9	3819
+ultimo	u	5	134
+ultrapassar	ul	9	1378
+um	u	5	7
+unha	unh	15	3401
+uniao	un	11	834
+unicamente	unic	19	4441
+unico	u	5	199
+unidade	unid	20	1152
+unido	un	11	481
+uniforme	unif	18	3074
+unir	unir	22	1390
+universal	univ	22	1597
+universidade	un	11	759
+universitario	univ	22	1881
+universo	univ	22	1314
+urbano	ur	11	1336
+urgencia	ur	11	2916
+urgente	ur	11	3284
+usado	us	12	2945
+usar	u	5	198
+usina	usi	17	4418
+uso	us	12	817
+usuario	us	12	2755
+util	ut	13	1303
+utilidade	ut	13	2933
+utilizacao	ut	13	2187
+utilizador	utili	27	4233
+utilizar	ut	13	912
+uva	uv	11	3698
+vaca	vac	10	1773
+vacuo	vac	10	4364
+vaga	vag	10	3052
+vago	vag	10	1642
+vaidade	vai	12	3729
+vale	va	7	703
+valer	va	7	500
+validade	vali	16	4920
+valido	val	11	2392
+valioso	vali	16	4842
+valor	va	7	271
+valorizacao	valo	18	3901
+valorizar	valo	18	2810
+vanguarda	van	13	3515
+vantagem	van	13	913
+vao	vao	14	4257
+vapor	vap	11	3059
+vara	var	13	1487
+varanda	vara	14	4268
+varejo	vare	18	4533
+variacao	var	13	2484
+variado	varia	19	2805
+variante	varian	25	4074
+variar	var	13	1631
+variavel	varia	19	3494
+variedade	vari	18	2733
+varios	va	7	179
+varrer	varr	19	4092
+vaso	vas	14	3081
+vasto	vas	14	1666
+vazio	vaz	15	1443
+vector	vec	14	4428
+vegetacao	veg	14	3655
+vegetal	veg	14	3102
+veia	vei	16	2751
+veiculo	vei	16	1690
+vela	vel	15	2193
+velar	vel	15	4807
+velhice	velh	19	4968
+velho	ve	11	287
+velocidade	vel	15	1498
+vencedor	venc	20	2226
+vencer	ven	17	777
+vencimento	venc	20	3759
+venda	ven	17	624
+vendedor	vend	21	3144
+vender	ven	17	429
+veneno	vene	22	4093
+vento	ven	17	790
+ventre	vent	25	4032
+ver	v	6	40
+verao	vera	18	895
+verba	verb	19	3431
+verbal	verb	19	3823
+verbo	verb	19	3518
+verdade	ve	11	238
+verdadeiramente	verd	21	2952
+verdadeiro	ver	17	540
+verde	ver	17	536
+vereador	vere	22	3393
+vergonha	verg	20	2469
+verificar	veri	22	686
+vermelho	verm	22	819
+versao	vers	24	1454
+verso	vers	24	1929
+vertente	vert	25	2903
+vertical	vert	25	3835
+vespera	ves	18	2658
+vestido	ves	18	1938
+vestigio	vest	26	3728
+vestir	ves	18	2128
+vestuario	ves	18	3691
+vez	v	6	46
+via	vi	11	345
+viagem	via	12	402
+viajante	via	12	4078
+viajar	via	12	788
+viavel	viav	18	4852
+vibracao	vib	13	3967
+vibrar	vib	13	4255
+vice	vic	14	4756
+vice-presidente	vic	14	2977
+vicio	vic	14	2879
+vida	v	6	77
+video	vid	15	2890
+vidro	vid	15	1563
+vigente	vig	14	4953
+vigiar	vig	14	4468
+vigilancia	vig	14	3567
+vigor	vig	14	2049
+vigoroso	vigo	21	4987
+vila	vil	15	668
+vinculado	vinc	20	4389
+vinda	vin	17	2432
+vinganca	vin	17	3317
+vingar	ving	20	3788
+vinho	vin	17	983
+vinte	vin	17	504
+violacao	viola	23	4420
+violao	vio	18	4058
+violar	vio	18	2455
+violencia	vio	18	900
+violento	vio	18	1250
+violeta	viole	27	4949
+violino	violi	27	4908
+vir	v	6	65
+virado	vira	18	4382
+virar	vir	17	901
+virgem	vir	17	2414
+virtual	virt	25	3873
+virtude	vir	17	1523
+virus	viru	22	2931
+visao	vis	18	587
+visar	vis	18	1687
+visconde	visc	21	4119
+visita	vis	18	1177
+visitante	visi	23	3039
+visitar	vis	18	991
+visivel	visi	23	1958
+vista	vist	26	3241
+visual	visu	23	2650
+vital	vit	19	2989
+vitima	vit	19	1146
+vitoria	vit	19	735
+vitorioso	vit	19	4132
+viuva	viu	16	2683
+vivencia	viv	17	4508
+viver	vi	11	150
+vivo	viv	17	542
+vizinhanca	viz	19	3996
+vizinho	viz	19	1076
+voar	voa	14	1181
+vocabulario	voc	16	4640
+vocacao	voc	16	2749
+vocal	voc	16	4962
+voce	vo	13	130
+volante	vola	18	4023
+volta	vo	13	268
+voltado	volt	25	4903
+voltar	vo	13	162
+volume	vol	17	1027
+voluntario	vol	17	2627
+vontade	vo	13	399
+voo	voo	20	1847
+vos	vos	20	3381
+vosso	vos	20	3285
+votacao	vot	21	3132
+votar	vot	21	1288
+voto	vot	21	928
+voz	voz	21	519
+vulcao	vu	11	4873
+vulgar	vu	11	2779
+vulneravel	vu	11	3546
+vulto	vu	11	4704
+zero	z	8	2253
+zona	z	8	579

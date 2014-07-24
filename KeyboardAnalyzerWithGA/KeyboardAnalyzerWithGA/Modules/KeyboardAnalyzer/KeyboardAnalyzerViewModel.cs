@@ -21,7 +21,7 @@ namespace KeyboardAnalyzerWithGA
         {
             InitializeComponent();
             ka = new KeyboardAnalyzerModel(dictionaryFilePath, criteria_number_suggestion, hasFrequency);
-            DatabaseExport.exportPerformanceTableTxtFile(ka.tableNecessaryInputs, ka.tableNecessaryEffort, outputFilePath);
+            DatabaseExport.exportPerformanceTableTxtFile(ka.tableNecessaryInputs, ka.tableNecessaryEffort, ka.myDictionary.dict, outputFilePath);
         }
     }
 }

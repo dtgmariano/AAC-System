@@ -53,21 +53,24 @@ namespace KeyboardAnalyzerWithGA
         * Key = Content or Word from a dictionary || Value = Necessary Mathematical effort to type the word*/
         public static Dictionary<string, int> getTableSumOfStepsToWriteEachInput(KeyboardModel km, Dictionary<string, string> tableOfInputs)
         {
-            /* var a1=tableOfInputs.Select(x => x.Key).ToList();
-             * var a2 = a1.Select((k, i) => new { k, i = getSumOfStepsToWriteTheInput(km, k)});
-             * var a3 = a2.ToDictionary(x => x.k, x => x.i);
-             */
-            return tableOfInputs.Select(x => x.Key).ToList().Select((k, i) => new { k, i = getSumOfStepsToWriteTheInput(km, k)}).ToDictionary(x => x.k, x => x.i);
+            var a1 = tableOfInputs.Select(x => x.Key).ToList();
+            var a2 = a1.Select((k, i) => new { k, i = getSumOfStepsToWriteTheInput(km, tableOfInputs[k]) });
+            var a3 = a2.ToDictionary(x => x.k, x => x.i);
+            return a3;
+             
+            //return tableOfInputs.Select(x => x.Key).ToList().Select((k, i) => new { k, i = getSumOfStepsToWriteTheInput(km, k)}).ToDictionary(x => x.k, x => x.i);
         }
 
         /*Calculates the mathematical effort based on the distribution of the characters throughout the matrix (keyboard layout)*/
         public static int getSumOfStepsToWriteTheInput(KeyboardModel km, string input)
         {
-            /* var a1 = input.Select(x => x.ToString()).ToList();
-             * var a2 = a1.Select(k => km.tableCharWeight[k]).ToList();
-             * var a3 = a2.Sum();
-             */
-            return input.Select(x => x.ToString()).ToList().Select(k => km.tableCharWeight[k]).ToList().Sum();
+             var a1 = input.Select(x => x.ToString()).ToList();
+             var a2 = a1.Select(k => km.tableCharWeight[k]).ToList();
+             var a3 = a2.Sum();
+             return a3;
+             
+
+            //return input.Select(x => x.ToString()).ToList().Select(k => km.tableCharWeight[k]).ToList().Sum();
         }
 
     }

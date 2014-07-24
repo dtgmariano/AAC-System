@@ -8,7 +8,7 @@ namespace KeyboardAnalyzerWithGA
 {
     public static class DatabaseExport
     {
-        public static bool exportPerformanceTableTxtFile(Dictionary<string, string> tableNecessaryInput, Dictionary<string, int> tableNecessaryEffort, string outputFilePath)
+        public static bool exportPerformanceTableTxtFile(Dictionary<string, string> tableNecessaryInput, Dictionary<string, int> tableNecessaryEffort, Dictionary<string, int> tableFrequency, string outputFilePath)
         {
             bool hasSuccess;
             try
@@ -17,7 +17,7 @@ namespace KeyboardAnalyzerWithGA
                 {
                     foreach (KeyValuePair<string, int> kvp in tableNecessaryEffort)
                     {
-                        writer.WriteLine(kvp.Key + "\t" + kvp.Value);
+                        writer.WriteLine(kvp.Key + "\t" + tableNecessaryInput[kvp.Key] + "\t" + kvp.Value + "\t" + tableFrequency[kvp.Key]);
                     }
                 }
 
