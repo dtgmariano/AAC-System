@@ -9,6 +9,7 @@ namespace KeyboardAnalyzerWithGA
     {
         public Dictionary<string, int> tableCharWeight;
 
+
         public KeyboardModel(List<string> _keys, List<int> _scores)
         {
             if (validatesLists(_keys, _scores))

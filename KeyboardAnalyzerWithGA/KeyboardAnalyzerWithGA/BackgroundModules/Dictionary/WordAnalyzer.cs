@@ -28,6 +28,7 @@ namespace KeyboardAnalyzerWithGA
         public static string getNecessaryKeys(string word, Dictionary<string, int> dict, int suggestionPositionCriteria)
         {
             Dictionary<string, int> suggestion;
+
             string input = "";
 
             for (int i = 0; i < word.Length; i++)

@@ -1,0 +1,7 @@
+C:\Users\Biolab\GitHub\AAC-System\KeyboardPerformanceAnalyzer\KeyboardPerformanceAnalyzer\bin\Debug\KeyboardPerformanceAnalyzer.exe
+C:\Users\Biolab\GitHub\AAC-System\KeyboardPerformanceAnalyzer\KeyboardPerformanceAnalyzer\bin\Debug\KeyboardPerformanceAnalyzer.pdb
+C:\Users\Biolab\GitHub\AAC-System\KeyboardPerformanceAnalyzer\KeyboardPerformanceAnalyzer\obj\x86\Debug\KeyboardPerformanceAnalyzer.Properties.Resources.resources
+C:\Users\Biolab\GitHub\AAC-System\KeyboardPerformanceAnalyzer\KeyboardPerformanceAnalyzer\obj\x86\Debug\KeyboardPerformanceAnalyzer.csproj.GenerateResource.Cache
+C:\Users\Biolab\GitHub\AAC-System\KeyboardPerformanceAnalyzer\KeyboardPerformanceAnalyzer\obj\x86\Debug\KeyboardPerformanceAnalyzer.exe
+C:\Users\Biolab\GitHub\AAC-System\KeyboardPerformanceAnalyzer\KeyboardPerformanceAnalyzer\obj\x86\Debug\KeyboardPerformanceAnalyzer.pdb
+C:\Users\Biolab\GitHub\AAC-System\KeyboardPerformanceAnalyzer\KeyboardPerformanceAnalyzer\obj\x86\Debug\KeyboardPerformanceAnalyzer.csprojResolveAssemblyReference.cache

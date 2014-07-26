@@ -9,19 +9,32 @@ namespace KeyboardAnalyzerWithGA
     public class WordModel
     {
         public string content;
+        public string input;
         public int frequency;
         public Options.WordCategories category;
 
+        /* Constructor
+         */
         public WordModel(string _content, int _frequency)
         {
             this.content = _content;
+            this.input = null;
             this.frequency = _frequency;
             this.category = Options.WordCategories.Unknown;
         }
 
-        public WordModel(string _content, int _frequency, Options.WordCategories _category)
+        public WordModel(string _content, string _input, int _frequency)
         {
             this.content = _content;
+            this.input = _input;
+            this.frequency = _frequency;
+            this.category = Options.WordCategories.Unknown;
+        }
+
+        public WordModel(string _content, int _frequency, string _input, Options.WordCategories _category)
+        {
+            this.content = _content;
+            this.input = _input;
             this.frequency = _frequency;
             this.category = _category;
         }
