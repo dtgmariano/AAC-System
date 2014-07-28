@@ -9,7 +9,7 @@ namespace KeyboardPerformanceAnalyzer
     {
         static string inputFolderPath = "C:\\Users\\Biolab\\GitHub\\AAC-System\\KeyboardPerformanceAnalyzer\\KeyboardPerformanceAnalyzer\\Data\\";
         string inputDictionaryFilePath = inputFolderPath + "word_rank_abrev.txt";
-        string inputKeyboardFilePath = inputFolderPath + "chars_count.txt";
+        string inputKeyboardFilePath = inputFolderPath + "keyboard_rand2_6x5.txt";
         bool rankIsConsidered = true;
         int suggestionCriteriaNumber = 4;
 
@@ -20,10 +20,10 @@ namespace KeyboardPerformanceAnalyzer
         public AnalyzerModel(Random _randomSeed)
         {
             this.random = _randomSeed;
+            ExportData.exportRandomKeyboardConfiguration();
             this.myDictionaryModel = new DictionaryModel(inputDictionaryFilePath, rankIsConsidered, suggestionCriteriaNumber);
             this.myKeyboardModel = new KeyboardModel(inputKeyboardFilePath);
-            var a = ExportData.exportKeyboardModelPerformance("keyboardPerfomance1.txt", myKeyboardModel, myDictionaryModel);
-            //ExportData.exportFrequencyOfCharsOfADictionary("freqChars.txt", myDictionaryModel);
+            var a = ExportData.exportKeyboardModelPerformance("keyboard_rand2_6x5_perfomance.txt", myKeyboardModel, myDictionaryModel);
 
         }
     }

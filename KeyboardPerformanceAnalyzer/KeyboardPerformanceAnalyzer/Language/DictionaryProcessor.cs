@@ -52,11 +52,11 @@ namespace KeyboardPerformanceAnalyzer
             var listAbrev = dictionary.wordsList.Select(e => e.abrev).ToList();
 
             var tableCharsFreq = new List<string>(){ "a","b","c","d","e",
-                                        "f","g","h","i","j",
-                                        "k","l","m","n","o",
-                                        "p","q","r","s","t",
-                                        "u","v","x","-",
-                                        "y","w","z"}.ToDictionary(x => x, y => 0);
+                                                    "f","g","h","i","j",
+                                                    "k","l","m","n","o",
+                                                    "p","q","r","s","t",
+                                                    "u","v","x","-",
+                                                    "y","w","z"}.ToDictionary(x => x, y => 0);
             foreach (string s in listAbrev)
             {
                 foreach (char c in s)

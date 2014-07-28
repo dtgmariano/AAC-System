@@ -1,4 +1,4 @@
-abcdefghijklmnopqrstuvx-ywz
+abcdefghijklmnopqrstuvxywz-
 1	o	o	7
 2	de	d	4
 3	em	e	5
@@ -366,7 +366,7 @@ abcdefghijklmnopqrstuvx-ywz
 368	aceitar	ace	9
 369	direccao	dir	15
 370	necessidade	ne	11
-371	dez	dez	17
+371	dez	dez	16
 372	ministro	mi	10
 373	qualidade	qual	15
 374	realizar	rea	12
@@ -574,7 +574,7 @@ abcdefghijklmnopqrstuvx-ywz
 576	exigir	ex	12
 577	diante	dia	10
 578	liberdade	lib	11
-579	zona	z	8
+579	zona	z	7
 580	terreno	terr	25
 581	provocar	prov	23
 582	garantir	ga	4
@@ -767,7 +767,7 @@ abcdefghijklmnopqrstuvx-ywz
 769	doente	do	11
 770	concluir	conc	19
 771	leite	lei	14
-772	paz	paz	13
+772	paz	paz	12
 773	margem	mar	12
 774	ambos	am	6
 775	retirar	ret	19
@@ -1047,7 +1047,7 @@ abcdefghijklmnopqrstuvx-ywz
 1048	propriedade	prop	21
 1049	estacao	esta	21
 1050	fundamental	fun	13
-1051	fazenda	faz	11
+1051	fazenda	faz	10
 1052	conceito	conc	19
 1053	alma	alm	10
 1054	ensino	ens	18
@@ -1072,7 +1072,7 @@ abcdefghijklmnopqrstuvx-ywz
 1073	finalmente	fin	13
 1074	leitor	lei	14
 1075	positivo	pos	18
-1076	vizinho	viz	19
+1076	vizinho	viz	18
 1077	ocasiao	oc	10
 1078	quantidade	quan	17
 1079	diminuir	dim	14
@@ -1165,7 +1165,7 @@ abcdefghijklmnopqrstuvx-ywz
 1167	moda	mod	16
 1168	gado	ga	4
 1169	conclusao	conc	19
-1170	sozinho	soz	22
+1170	sozinho	soz	21
 1171	acidente	aci	9
 1172	bolsa	bo	9
 1173	conflito	conf	18
@@ -1210,7 +1210,7 @@ abcdefghijklmnopqrstuvx-ywz
 1212	exame	exa	13
 1213	comentar	come	20
 1214	telefone	tel	17
-1215	azul	az	9
+1215	azul	az	8
 1216	inventar	inv	17
 1217	sustentar	sus	19
 1218	quebrar	queb	17
@@ -1438,7 +1438,7 @@ abcdefghijklmnopqrstuvx-ywz
 1440	medicina	med	14
 1441	alianca	ali	10
 1442	faixa	fai	8
-1443	vazio	vaz	15
+1443	vazio	vaz	14
 1444	tradicional	trad	19
 1445	infantil	inf	13
 1446	acaso	aca	5
@@ -1452,7 +1452,7 @@ abcdefghijklmnopqrstuvx-ywz
 1454	versao	vers	24
 1455	nordeste	nor	19
 1456	canal	can	10
-1457	doze	doz	19
+1457	doze	doz	18
 1458	espalhar	espa	17
 1459	ameacar	ame	11
 1460	relativamente	rel	15
@@ -2166,7 +2166,7 @@ abcdefghijklmnopqrstuvx-ywz
 2173	oficio	of	9
 2174	templo	tem	18
 2175	ligeiro	lig	12
-2176	dezena	dez	17
+2176	dezena	dez	16
 2177	residir	resi	23
 2178	potencial	pot	19
 2179	adiante	adi	10
@@ -2243,7 +2243,7 @@ abcdefghijklmnopqrstuvx-ywz
 2250	falhar	falh	11
 2251	consistir	consi	28
 2252	avisar	avi	12
-2253	zero	z	8
+2253	zero	z	7
 2254	adorar	ado	12
 2255	transferencia	transf	30
 2256	curiosidade	cur	14
@@ -2332,7 +2332,7 @@ abcdefghijklmnopqrstuvx-ywz
 2339	criminoso	crim	19
 2340	candidatura	cand	14
 2341	lixo	lix	16
-2342	cozinha	coz	18
+2342	cozinha	coz	17
 2343	agrario	agr	10
 2344	consultar	consu	28
 2345	bebida	beb	9
@@ -2641,7 +2641,7 @@ abcdefghijklmnopqrstuvx-ywz
 2649	somar	som	19
 2650	visual	visu	23
 2651	produtivo	prod	21
-2652	duzentos	duz	17
+2652	duzentos	duz	16
 2653	comedia	comed	24
 2654	inedito	ine	16
 2655	sertao	sert	26
@@ -2735,7 +2735,7 @@ abcdefghijklmnopqrstuvx-ywz
 2743	lama	lam	10
 2744	primitivo	primi	25
 2745	femea	fem	12
-2746	razoavel	raz	15
+2746	razoavel	raz	14
 2747	pata	pat	13
 2748	raramente	rar	13
 2749	vocacao	voc	16
@@ -2747,7 +2747,7 @@ abcdefghijklmnopqrstuvx-ywz
 2755	usuario	us	12
 2756	campones	camp	13
 2757	fundamento	funda	18
-2758	gozar	goz	18
+2758	gozar	goz	17
 2759	protestar	prot	25
 2760	topo	top	19
 2761	essencialmente	ess	19
@@ -3008,7 +3008,7 @@ abcdefghijklmnopqrstuvx-ywz
 3019	solitario	soli	23
 3020	muralha	mur	16
 3021	lenda	len	15
-3022	jazz	jaz	15
+3022	jazz	jaz	14
 3023	medicamento	medic	22
 3024	auto	auto	21
 3025	pulmao	pul	13
@@ -3062,7 +3062,7 @@ abcdefghijklmnopqrstuvx-ywz
 3073	trabalhista	trab	17
 3074	uniforme	unif	18
 3075	inesperado	ine	16
-3076	foz	foz	17
+3076	foz	foz	16
 3077	autoria	autor	27
 3078	fiscalizacao	fis	14
 3079	raciocinio	rac	10
@@ -3158,7 +3158,7 @@ abcdefghijklmnopqrstuvx-ywz
 3171	rolar	rol	17
 3172	leilao	leil	18
 3173	marinho	mari	17
-3174	azeite	az	9
+3174	azeite	az	8
 3175	inovacao	ino	18
 3176	cobre	cobr	18
 3177	cartaz	cart	18
@@ -3176,7 +3176,7 @@ abcdefghijklmnopqrstuvx-ywz
 3189	intermediario	interm	35
 3190	deficit	defic	19
 3191	lentamente	len	15
-3192	duzia	duz	17
+3192	duzia	duz	16
 3193	duvidar	duv	15
 3194	enrolar	enr	17
 3195	figurar	fig	10
@@ -3253,7 +3253,7 @@ abcdefghijklmnopqrstuvx-ywz
 3266	envolvimento	env	17
 3267	agressivo	agre	15
 3268	extincao	exti	25
-3269	dezoito	dez	17
+3269	dezoito	dez	16
 3270	engenho	eng	14
 3271	despedir	desp	20
 3272	ocultar	ocu	15
@@ -3647,7 +3647,7 @@ abcdefghijklmnopqrstuvx-ywz
 3661	espantar	espan	23
 3662	gigantesco	gi	8
 3663	cordao	cord	20
-3664	rezar	rez	19
+3664	rezar	rez	18
 3665	exportar	expo	23
 3666	precario	preca	19
 3667	tentacao	tent	27
@@ -3676,7 +3676,7 @@ abcdefghijklmnopqrstuvx-ywz
 3690	coordenar	coo	17
 3691	vestuario	ves	18
 3692	desagradavel	desa	17
-3693	treze	trez	27
+3693	treze	trez	26
 3694	acido	aci	9
 3695	saudavel	sau	13
 3696	lencol	len	15
@@ -3898,7 +3898,7 @@ abcdefghijklmnopqrstuvx-ywz
 3912	mobiliario	mob	14
 3913	repeticao	repe	20
 3914	discipulo	disci	24
-3915	trezentos	trez	27
+3915	trezentos	trez	26
 3916	pianista	pia	10
 3917	alastrar	ala	6
 3918	restaurar	resta	27
@@ -3977,7 +3977,7 @@ abcdefghijklmnopqrstuvx-ywz
 3993	habituar	habitu	25
 3994	rebeliao	reb	13
 3995	pisar	pis	16
-3996	vizinhanca	viz	19
+3996	vizinhanca	viz	18
 3997	motivacao	mot	20
 3998	educar	edu	14
 3999	inveja	invej	28
@@ -3987,7 +3987,7 @@ abcdefghijklmnopqrstuvx-ywz
 4003	reu	reu	16
 4004	debrucar	deb	11
 4005	autarquia	auta	15
-4006	bezerro	bez	15
+4006	bezerro	bez	14
 4007	depressao	depr	19
 4008	idioma	idi	14
 4009	rumor	rum	16
@@ -4127,7 +4127,7 @@ abcdefghijklmnopqrstuvx-ywz
 4144	desaparecimento	desap	21
 4145	emigrante	emi	15
 4146	territorial	terri	30
-4147	realizador	realiz	29
+4147	realizador	realiz	28
 4148	arrecadacao	arre	18
 4149	deficiente	defic	19
 4150	padrinho	pad	9
@@ -4230,7 +4230,7 @@ abcdefghijklmnopqrstuvx-ywz
 4248	humido	hu	9
 4249	corporacao	corp	20
 4250	diferenciar	dife	16
-4251	lazer	laz	13
+4251	lazer	laz	12
 4252	citacao	cit	16
 4254	resgatar	resg	21
 4255	vibrar	vib	13
@@ -4252,7 +4252,7 @@ abcdefghijklmnopqrstuvx-ywz
 4271	documentario	doc	14
 4272	plateia	plat	17
 4273	alivio	aliv	16
-4274	fazendeiro	faz	11
+4274	fazendeiro	faz	10
 4275	abelha	abe	8
 4276	aceso	aces	16
 4277	reconstrucao	recon	27
@@ -4359,7 +4359,7 @@ abcdefghijklmnopqrstuvx-ywz
 4378	debito	deb	11
 4379	ronda	ron	19
 4380	consecutivo	consec	31
-4381	cozido	coz	18
+4381	cozido	coz	17
 4382	virado	vira	18
 4383	fileira	file	16
 4384	submarino	subm	19
@@ -4858,7 +4858,7 @@ abcdefghijklmnopqrstuvx-ywz
 4878	detective	detec	25
 4879	lavrar	lav	11
 4880	calado	cala	9
-4881	gozo	goz	18
+4881	gozo	goz	17
 4882	isento	ise	17
 4883	prudente	pru	15
 4884	envergonhar	enve	22
@@ -4867,7 +4867,7 @@ abcdefghijklmnopqrstuvx-ywz
 4887	perito	perit	28
 4888	peste	pest	24
 4889	obsessao	obse	21
-4890	cozinhar	coz	18
+4890	cozinhar	coz	17
 4891	cristianismo	cris	21
 4892	convicto	convic	30
 4893	detencao	deten	28
@@ -4884,7 +4884,7 @@ abcdefghijklmnopqrstuvx-ywz
 4904	descalco	desca	20
 4905	caixao	cai	9
 4906	construtor	constr	37
-4907	azeitona	az	9
+4907	azeitona	az	8
 4908	violino	violi	27
 4909	apreender	apree	21
 4910	brusco	bru	13
@@ -4951,7 +4951,7 @@ abcdefghijklmnopqrstuvx-ywz
 4971	carneiro	carn	16
 4972	iludir	ilud	18
 4973	barca	barc	12
-4974	armazenar	armaz	21
+4974	armazenar	armaz	20
 4975	incidencia	inci	19
 4976	bondade	bon	15
 4977	carroca	carr	16

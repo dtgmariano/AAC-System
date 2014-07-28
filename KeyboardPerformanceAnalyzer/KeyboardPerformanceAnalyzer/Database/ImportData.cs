@@ -55,5 +55,39 @@ namespace KeyboardPerformanceAnalyzer
             var keys = table.OrderBy(x => x.Value).Reverse().ToDictionary(x => x.Key, x => x.Value).Keys.ToList();
             return keys;
         }
+
+
+        public static Dictionary<string, int> getKeyboardConfiguration(string keysConfigurationFilePath)
+        {
+            Dictionary<string, int> table = new Dictionary<string, int>();
+            int countline = 0;
+
+            try
+            {
+                using (StreamReader reader = new StreamReader(keysConfigurationFilePath, Encoding.UTF8))
+                {
+                    string line;
+                    while ((line = reader.ReadLine()) != null)
+                    {
+                        String[] info = line.Split();
+                        for (int i = 0; i < info.Length; i++)
+                        {
+                            table.Add(info[i],(countline + i + 1));
+                        }
+
+                        countline++;
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+
+                throw ex;
+            }
+            //var listKeys = table.Select(kvp => kvp.Key).ToList();
+            //var listWeights = table.Select(kvp => kvp.Value).ToList();
+
+            return table;
+        }
     }
 }

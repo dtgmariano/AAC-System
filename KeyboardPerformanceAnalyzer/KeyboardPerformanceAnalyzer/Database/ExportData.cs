@@ -88,5 +88,29 @@ namespace KeyboardPerformanceAnalyzer
 
             return hasSuccess;
         }
+
+        public static bool exportRandomKeyboardConfiguration()
+        {
+            bool hasSuccess = false;
+
+            var sU = "a b c d e f g h i j k l m n o p q r s t u v x y w z -";
+            
+            try
+            {
+                var lU = String.Join("",sU.Split().OrderBy(a => Guid.NewGuid()));
+                var filename = "keyboard_configuration_" + lU + ".txt";
+                using (StreamWriter writer = new StreamWriter(filename))
+                {
+                    writer.WriteLine(lU);
+                }
+                hasSuccess = true;
+            }
+            catch (Exception ex)
+            {
+                
+                throw ex;
+            }
+            return hasSuccess;
+        }
     }
 }
