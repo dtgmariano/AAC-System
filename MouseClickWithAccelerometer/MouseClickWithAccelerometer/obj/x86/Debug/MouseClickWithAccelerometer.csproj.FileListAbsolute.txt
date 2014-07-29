@@ -1,0 +1,7 @@
+C:\Users\Biolab\AppData\Local\Temporary Projects\MouseClickWithAccelerometer\obj\x86\Debug\MouseClickWithAccelerometer.ControllerView.resources
+C:\Users\Biolab\AppData\Local\Temporary Projects\MouseClickWithAccelerometer\obj\x86\Debug\MouseClickWithAccelerometer.Properties.Resources.resources
+C:\Users\Biolab\AppData\Local\Temporary Projects\MouseClickWithAccelerometer\obj\x86\Debug\MouseClickWithAccelerometer.csproj.GenerateResource.Cache
+C:\Users\Biolab\AppData\Local\Temporary Projects\MouseClickWithAccelerometer\bin\Debug\MouseClickWithAccelerometer.exe
+C:\Users\Biolab\AppData\Local\Temporary Projects\MouseClickWithAccelerometer\bin\Debug\MouseClickWithAccelerometer.pdb
+C:\Users\Biolab\AppData\Local\Temporary Projects\MouseClickWithAccelerometer\obj\x86\Debug\MouseClickWithAccelerometer.exe
+C:\Users\Biolab\AppData\Local\Temporary Projects\MouseClickWithAccelerometer\obj\x86\Debug\MouseClickWithAccelerometer.pdb
