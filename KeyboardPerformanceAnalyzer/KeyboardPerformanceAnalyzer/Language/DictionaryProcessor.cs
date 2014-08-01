@@ -30,17 +30,17 @@ namespace KeyboardPerformanceAnalyzer
             for (int i = 0; i < word.content.Length; i++)
             {
                 input += word.content[i];
-                
-                //var suggestions = wordsList.Where((item, index) => item.content.StartsWith(input));
-                //suggestions = suggestions.OrderBy(x => x.rank);
-                //suggestions = suggestions.Take(5);
-                //if (suggestions.Contains(word)) 
-                //    break;
+
+                var suggestions = wordsList.Where((item, index) => item.content.StartsWith(input));
+                suggestions = suggestions.OrderBy(x => x.rank);
+                suggestions = suggestions.Take(suggestionPositionCriteria);
+                if (suggestions.Contains(word))
+                    break;
 
                 /*se a palavra procurada está entre as n-primeiras sugestões do dicionário, então interrompe o processo 
                   e retorna as únicas keystrokes necessárias para escrever a palavra*/
-                if (wordsList.Where((item, index) => item.content.StartsWith(input)).OrderBy(x => x.rank).Take(5).Contains(word))
-                    break;
+                //if (wordsList.Where((item, index) => item.content.StartsWith(input)).OrderBy(x => x.rank).Take(5).Contains(word))
+                //    break;
             }
 
             return input;
