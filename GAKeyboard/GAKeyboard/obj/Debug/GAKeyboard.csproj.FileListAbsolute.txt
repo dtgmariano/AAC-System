@@ -1,0 +1,8 @@
+C:\Users\Daniel\GitHub\AAC-System\GAKeyboard\GAKeyboard\bin\Debug\GAKeyboard.exe.config
+C:\Users\Daniel\GitHub\AAC-System\GAKeyboard\GAKeyboard\bin\Debug\GAKeyboard.exe
+C:\Users\Daniel\GitHub\AAC-System\GAKeyboard\GAKeyboard\bin\Debug\GAKeyboard.pdb
+C:\Users\Daniel\GitHub\AAC-System\GAKeyboard\GAKeyboard\obj\Debug\GAKeyboard.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\GitHub\AAC-System\GAKeyboard\GAKeyboard\obj\Debug\GAKeyboard.Properties.Resources.resources
+C:\Users\Daniel\GitHub\AAC-System\GAKeyboard\GAKeyboard\obj\Debug\GAKeyboard.csproj.GenerateResource.Cache
+C:\Users\Daniel\GitHub\AAC-System\GAKeyboard\GAKeyboard\obj\Debug\GAKeyboard.exe
+C:\Users\Daniel\GitHub\AAC-System\GAKeyboard\GAKeyboard\obj\Debug\GAKeyboard.pdb

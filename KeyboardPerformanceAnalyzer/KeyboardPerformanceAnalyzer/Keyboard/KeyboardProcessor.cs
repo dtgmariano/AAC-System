@@ -55,6 +55,18 @@ namespace KeyboardPerformanceAnalyzer
         //    return organizedKeys;
         //}
 
+        
+
+        /**/
+        public static Dictionary<WordModel, int> getTableOfEffortToWriteADictionary(KeyboardModel km, DictionaryModel dictionary)
+        {
+            var a = dictionary.wordsList.Select(x => x).ToList();
+            var b = a.Select((k, i) => new { k, i = calculatesTheEffortToWriteAInput(km, k.abrev) });
+            var c = b.ToDictionary(x => x.k, x => x.i);
+
+            return c;
+        }
+
         /**/
         public static int calculatesTheEffortToWriteAInput(KeyboardModel keyboard, string input)
         {
@@ -65,17 +77,6 @@ namespace KeyboardPerformanceAnalyzer
             return a4;
             //return input.Select(x => x.ToString()).Select(k => keyboard.keys.IndexOf(k)).Select(k => scores[k]).Sum();
         }
-
-        /**/
-        public static Dictionary<WordModel, int> calculatesTheEffortToWriteADictionary(KeyboardModel km, DictionaryModel dictionary)
-        {
-            var a = dictionary.wordsList.Select(x => x).ToList();
-            var b = a.Select((k, i) => new { k, i = calculatesTheEffortToWriteAInput(km, k.abrev) });
-            var c = b.ToDictionary(x => x.k, x => x.i);
-
-            return c;
-        }
-
 
         
 

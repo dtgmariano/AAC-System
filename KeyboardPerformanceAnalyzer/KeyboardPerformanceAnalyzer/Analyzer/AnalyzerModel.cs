@@ -23,7 +23,8 @@ namespace KeyboardPerformanceAnalyzer
             ExportData.exportRandomKeyboardConfiguration();
             this.myDictionaryModel = new DictionaryModel(inputDictionaryFilePath, rankIsConsidered, suggestionCriteriaNumber);
             this.myKeyboardModel = new KeyboardModel(inputKeyboardFilePath);
-            var a = ExportData.exportKeyboardModelPerformance("keyboard_rand2_6x5_perfomance.txt", myKeyboardModel, myDictionaryModel);
+            var b = KeyboardProcessor.getTableOfEffortToWriteADictionary(myKeyboardModel, myDictionaryModel);
+            //var a = ExportData.exportKeyboardModelPerformance("keyboard_rand2_6x5_perfomance.txt", myKeyboardModel, myDictionaryModel);
 
         }
     }

@@ -5,3 +5,5 @@ C:\Users\Biolab\GitHub\AAC-System\KeyboardPerformanceAnalyzer\KeyboardPerformanc
 C:\Users\Biolab\GitHub\AAC-System\KeyboardPerformanceAnalyzer\KeyboardPerformanceAnalyzer\obj\x86\Debug\KeyboardPerformanceAnalyzer.exe
 C:\Users\Biolab\GitHub\AAC-System\KeyboardPerformanceAnalyzer\KeyboardPerformanceAnalyzer\obj\x86\Debug\KeyboardPerformanceAnalyzer.pdb
 C:\Users\Biolab\GitHub\AAC-System\KeyboardPerformanceAnalyzer\KeyboardPerformanceAnalyzer\obj\x86\Debug\KeyboardPerformanceAnalyzer.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\GitHub\AAC-System\KeyboardPerformanceAnalyzer\KeyboardPerformanceAnalyzer\obj\x86\Debug\KeyboardPerformanceAnalyzer.exe
+C:\Users\Daniel\GitHub\AAC-System\KeyboardPerformanceAnalyzer\KeyboardPerformanceAnalyzer\obj\x86\Debug\KeyboardPerformanceAnalyzer.pdb

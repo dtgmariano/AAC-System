@@ -67,7 +67,7 @@ namespace KeyboardPerformanceAnalyzer
         {
             bool hasSuccess = false;
 
-            var a = KeyboardProcessor.calculatesTheEffortToWriteADictionary(keyboard, dictionary);
+            var a = KeyboardProcessor.getTableOfEffortToWriteADictionary(keyboard, dictionary);
 
             try
             {
