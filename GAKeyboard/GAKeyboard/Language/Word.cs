@@ -18,5 +18,12 @@ namespace GAKeyboard.Language
             rank = _rank;
             prefix = _prefix;
         }
+
+        public Word(string _content, int _rank)
+        {
+            content = _content;
+            rank = _rank;
+            prefix = null;
+        }
     }
 }

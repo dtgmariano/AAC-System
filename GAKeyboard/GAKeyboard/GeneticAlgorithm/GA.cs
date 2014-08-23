@@ -13,6 +13,7 @@ namespace GAKeyboard.GeneticAlgorithm
         double mutationRate;
         int numGenerations;
         int populationSize;
+        int elitismSize;
         public List<Chromossome> initialPopulation, finalPopulation;
         public List<Chromossome> bestPerGeneration;
         public Dictionary dictionary;
@@ -23,15 +24,16 @@ namespace GAKeyboard.GeneticAlgorithm
         //    a.Reverse();
         //    var c = a[0];
 
-        public GA(double _crossoverRate, double _mutationRate, int _numGenerations, int _populationSize, Dictionary _dictionary, Random _randomseed)
+        public GA(double _crossoverRate, double _mutationRate, int _numGenerations, int _populationSize, int _elitismSize, Dictionary _dictionary, Random _randomseed)
         {
             this.crossoverRate = _crossoverRate;
             this.mutationRate = _mutationRate;
             this.numGenerations = _numGenerations;
             this.populationSize = _populationSize;
+            this.elitismSize = _elitismSize;
             this.dictionary = _dictionary;
             this.randomseed = _randomseed;
-
+            
             this.initialPopulation = GAStrategy.startPopulation(populationSize, dictionary);
             //this.finalPopulation = GAStrategy.gaProcess(numGenerations, crossoverRate, mutationRate, initialPopulation, 2, dictionary, randomseed);
             processGA();
@@ -45,11 +47,18 @@ namespace GAKeyboard.GeneticAlgorithm
 
             for(int i=0; i< numGenerations; i++)
             {
-                newGeneration = GAStrategy.generationProcess(crossoverRate, mutationRate, previousGeneration, 2, dictionary, randomseed);
+
+                newGeneration = GAStrategy.generationProcess(crossoverRate, mutationRate, elitismSize, previousGeneration, 2, dictionary, randomseed);
+                var a = newGeneration.OrderBy(o => o.fitness);
+                var bestOfGeneration = a.ToList()[0];
+                bestPerGeneration.Add(bestOfGeneration);
+
+                var d = newGeneration.Select(o => o.fitness).Average();
+
+                Console.WriteLine((i + 1) + " Code: " + String.Join("", bestOfGeneration.aleles.ToArray()) + " Fit: " + bestOfGeneration.fitness.ToString() + " Avg Fit: " + d.ToString());
+
                 previousGeneration.Clear();
                 previousGeneration = new List<Chromossome>(newGeneration);
-                var bestOfGeneration = previousGeneration.OrderBy(o => o.fitness).Reverse().ToList()[0];
-                bestPerGeneration.Add(bestOfGeneration);
             }
             this.finalPopulation = new List<Chromossome>(previousGeneration);
 

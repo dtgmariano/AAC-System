@@ -18,10 +18,13 @@ namespace GAKeyboard.GeneticAlgorithm
             return randomPopulation;
         }
 
-        public static List<Chromossome> generationProcess(double crossoverRate, double mutationRate, List<Chromossome> previousGeneration, int _numOfPlayers, Dictionary _dictionary, Random _randomseed)
+        public static List<Chromossome> generationProcess(double crossoverRate, double mutationRate, int elitismSize, List<Chromossome> previousGeneration, int _numOfPlayers, Dictionary _dictionary, Random _randomseed)
         {
             int size = previousGeneration.Count();
-            List<Chromossome> newGeneration = new List<Chromossome>();
+            var a = previousGeneration.OrderBy(p => p.fitness);
+            var b = a.Take(elitismSize).ToList();
+            List<Chromossome> newGeneration = new List<Chromossome>(b);
+            
             while (newGeneration.Count() < previousGeneration.Count())
             {
 
