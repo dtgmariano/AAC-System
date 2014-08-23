@@ -22,16 +22,21 @@ namespace GAKeyboard.Modules
             //myDictionary = new Dictionary(getDictionary(dictionaryFilePath), _rank;
         }
 
+        public void getAbrev(Dictionary _myDictionary)
+        {
+
+        }
+
         public Dictionary<string, int> getCFTable(Dictionary _myDictionary)
         {
             var listAbrev = _myDictionary.wordsList.Select(e => e.content).ToList();
 
             var charactersFrequency = new List<string>(){ "a","b","c","d","e",
-                                                    "f","g","h","i","j",
-                                                    "k","l","m","n","o",
-                                                    "p","q","r","s","t",
-                                                    "u","v","x","-",
-                                                    "y","w","z"}.ToDictionary(x => x, y => 0);
+                                                        "f","g","h","i","j",
+                                                        "k","l","m","n","o",
+                                                        "p","q","r","s","t",
+                                                        "u","v","x","-",
+                                                        "y","w","z"}.ToDictionary(x => x, y => 0);
             foreach (string s in listAbrev)
             {
                 foreach (char c in s)
@@ -39,7 +44,6 @@ namespace GAKeyboard.Modules
                     charactersFrequency[c.ToString()]++;
                 }
             }
-
 
             return charactersFrequency;
         }
