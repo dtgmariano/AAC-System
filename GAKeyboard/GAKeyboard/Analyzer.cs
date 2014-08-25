@@ -19,7 +19,7 @@ namespace GAKeyboard
         public Analyzer(Random _randomseed)
         {
             Dictionary myDictionary = new Dictionary(filePath, hasRank, suggestionCriteriaNumber);
-            GA myGA = new GA(0.8, 0.05, 100, 100, myDictionary, _randomseed);
+            GA myGA = new GA(0.8, 0.05, 10, 50, myDictionary, _randomseed);
 
             Exporter.exportData(myGA.bestPerGeneration);
         }
