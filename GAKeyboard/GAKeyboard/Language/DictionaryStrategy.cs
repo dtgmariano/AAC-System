@@ -33,8 +33,8 @@ namespace GAKeyboard.Language
                         }
                         break;
 
-                    case "rank\tcontent\tabrev":
-                        /*File format: rank\tcontent\tabrev */
+                    case "content\trank\tabrev":
+                        /*File format: content\trank\tabrev */
                         while ((line = reader.ReadLine()) != null)
                         {
                             String[] info = line.Split();

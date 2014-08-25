@@ -1,3 +1,4 @@
+content	rank	abrev
 o	1	o
 de	2	d
 em	3	e

@@ -16,8 +16,8 @@ namespace GAKeyboard
         {
             InitializeComponent();
             Random randomseed = new Random();
-            //Analyzer an = new Analyzer(randomseed);
-            DictionaryAnalyzer da = new DictionaryAnalyzer();
+            Analyzer an = new Analyzer(randomseed);
+            //DictionaryAnalyzer da = new DictionaryAnalyzer();
         }
     }
 }

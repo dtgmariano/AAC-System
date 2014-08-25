@@ -11,8 +11,8 @@ namespace GAKeyboard
 {
     public class Analyzer
     {
-        //static string filePath = "C:\\Users\\Daniel\\GitHub\\AAC-System\\GAKeyboard\\GAKeyboard\\word_rank_abrev_all.txt";
-        static string filePath = "C:\\Users\\Biolab\\GitHub\\AAC-System\\GAKeyboard\\GAKeyboard\\word_rank_abrev_all.txt";
+        static string filePath = "C:\\Users\\Daniel\\GitHub\\AAC-System\\GAKeyboard\\GAKeyboard\\Data\\word_rank_abrev_all.txt";
+        //static string filePath = "C:\\Users\\Biolab\\GitHub\\AAC-System\\GAKeyboard\\GAKeyboard\\Data\\word_rank_abrev_all.txt";
         static bool hasRank = true;
         static int suggestionCriteriaNumber = 4;
 
@@ -20,19 +20,14 @@ namespace GAKeyboard
         public Analyzer(Random _randomseed)
         {
             Dictionary myDictionary = new Dictionary(filePath, hasRank, suggestionCriteriaNumber);
-<<<<<<< HEAD:GAKeyboard/GAKeyboard/Analyzer.cs
-            GA myGA = new GA(0.8, 0.05, 10, 50, myDictionary, _randomseed);
-
-=======
             var crossoverRate = 0.85;
             var mutationRate = 0.75;
             var numberOfGenerations = 50;
-            var populationSize = 50;
-            var elitismSize = 2;
+            var populationSize = 500;
+            var elitismSize = 5;
             GA myGA = new GA(crossoverRate, mutationRate, numberOfGenerations, populationSize, elitismSize, myDictionary, _randomseed);
->>>>>>> origin/master:GAKeyboard/GAKeyboard/Modules/GALayoutGenerator/Analyzer.cs
-            Exporter.exportData(myGA.bestPerGeneration);
-            Exporter.saveAleles(myGA.finalPopulation, "layouts.txt");
+            //Exporter.exportData(myGA.bestPerGeneration);
+            //Exporter.saveAleles(myGA.finalPopulation, "layouts.txt");
         }
     }
 
