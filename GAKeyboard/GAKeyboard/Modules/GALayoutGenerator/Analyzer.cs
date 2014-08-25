@@ -11,7 +11,8 @@ namespace GAKeyboard
 {
     public class Analyzer
     {
-        static string filePath = "C:\\Users\\Daniel\\GitHub\\AAC-System\\GAKeyboard\\GAKeyboard\\word_rank_abrev_all.txt";
+        //static string filePath = "C:\\Users\\Daniel\\GitHub\\AAC-System\\GAKeyboard\\GAKeyboard\\word_rank_abrev_all.txt";
+        static string filePath = "C:\\Users\\Biolab\\GitHub\\AAC-System\\GAKeyboard\\GAKeyboard\\word_rank_abrev_all.txt";
         static bool hasRank = true;
         static int suggestionCriteriaNumber = 4;
 
@@ -19,9 +20,19 @@ namespace GAKeyboard
         public Analyzer(Random _randomseed)
         {
             Dictionary myDictionary = new Dictionary(filePath, hasRank, suggestionCriteriaNumber);
+<<<<<<< HEAD:GAKeyboard/GAKeyboard/Analyzer.cs
             GA myGA = new GA(0.8, 0.05, 10, 50, myDictionary, _randomseed);
 
+=======
+            var crossoverRate = 0.85;
+            var mutationRate = 0.75;
+            var numberOfGenerations = 50;
+            var populationSize = 50;
+            var elitismSize = 2;
+            GA myGA = new GA(crossoverRate, mutationRate, numberOfGenerations, populationSize, elitismSize, myDictionary, _randomseed);
+>>>>>>> origin/master:GAKeyboard/GAKeyboard/Modules/GALayoutGenerator/Analyzer.cs
             Exporter.exportData(myGA.bestPerGeneration);
+            Exporter.saveAleles(myGA.finalPopulation, "layouts.txt");
         }
     }
 
@@ -35,6 +46,8 @@ namespace GAKeyboard
             var lastGenKeyboard = o[o.Count()-1];
             var bestKeyboard = o.OrderBy(p => p.fitness).ToList()[0];
             var worseKeyboard = o.OrderBy(p => p.fitness).ToList()[o.Count() - 1];
+
+            var date = DateTime.Today.ToString();
 
             var outputFilePath1 = "firstGenKeyboard.txt";
             var outputFilePath2 = "lastGenKeyboard.txt";
@@ -69,6 +82,32 @@ namespace GAKeyboard
             {
                 throw ex;
             }
+
+            return hasSuccess;
+        }
+
+        public static bool saveAleles(List<Chromossome> chromossomes, string outputFilePath)
+        {
+            bool hasSuccess = false;
+
+            try
+            {
+                using (StreamWriter writer = new StreamWriter(outputFilePath))
+                {
+                    foreach (Chromossome c in chromossomes)
+                    {
+                        writer.WriteLine(String.Join("", c.aleles.ToArray()) + "\t" + c.fitness);
+                    }
+
+                } 
+                hasSuccess = true;
+            }
+            catch (Exception ex)
+            {
+                
+                throw ex;
+            }
+
 
             return hasSuccess;
         }

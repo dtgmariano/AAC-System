@@ -9,19 +9,33 @@ namespace GAKeyboard.GeneticAlgorithm
 {
     public static class ChromossomeStrategy
     {
-        public static List<object> keys = new List<object>(){ "a","b","c","d","e",
-                                                       "f","g","h","i","j",
-                                                       "k","l","m","n","o",
-                                                       "p","q","r","s","t",
-                                                       "u","v","x","w","y",
-                                                       "z","-","1","2","3"};
+        //public static List<object> keys = new List<object>(){ "a","b","c","d","e",
+        //                                               "f","g","h","i","j",
+        //                                               "k","l","m","n","o",
+        //                                               "p","q","r","s","t",
+        //                                               "u","v","x","w","y",
+        //                                               "z","-","1","2","3"};
 
-        static List<double> weights = new List<double>(){1, 2, 3, 4, 5, 
-                                                         2, 3, 4, 5, 6, 
-                                                         3, 4, 5, 6, 7, 
-                                                         4, 5, 6, 7, 8, 
-                                                         5, 6, 7, 8, 9, 
-                                                         6, 7, 8, 9, 10 };
+        //static List<double> weights = new List<double>(){1, 2, 3, 4, 5, 
+        //                                                 2, 3, 4, 5, 6, 
+        //                                                 3, 4, 5, 6, 7, 
+        //                                                 4, 5, 6, 7, 8, 
+        //                                                 5, 6, 7, 8, 9, 
+        //                                                 6, 7, 8, 9, 10 };
+
+        public static List<object> keys = new List<object>(){"a","b","c","d","e",
+                                                           "f","g","h","i","j",
+                                                           "k","l","m","n","o",
+                                                           "p","q","r","s","t",
+                                                           "u","v","x","w","y",
+                                                           "z","-"};
+
+        static List<double> weights = new List<double>(){1,2,2,3,3,
+                                                         3,4,4,4,4,
+                                                         5,5,5,5,5,
+                                                         6,6,6,6,6,
+                                                         7,7,7,7,8,
+                                                         8,8};
 
         public static bool validateChromossome(Chromossome _chromossome)
         {

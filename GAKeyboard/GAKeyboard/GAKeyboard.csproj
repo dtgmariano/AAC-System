@@ -44,7 +44,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Analyzer.cs" />
+    <Compile Include="Modules\DictionaryAnalyzer\DictionaryAnalyzer.cs" />
+    <Compile Include="Modules\GALayoutGenerator\Analyzer.cs" />
     <Compile Include="Language\Dictionary.cs" />
     <Compile Include="GeneticAlgorithm\Chromossome.cs" />
     <Compile Include="GeneticAlgorithm\ChromossomeStrategy.cs" />

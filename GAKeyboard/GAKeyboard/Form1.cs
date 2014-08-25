@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+using GAKeyboard.Modules;
 namespace GAKeyboard
 {
     public partial class Form1 : Form
@@ -16,8 +16,8 @@ namespace GAKeyboard
         {
             InitializeComponent();
             Random randomseed = new Random();
-            Analyzer an = new Analyzer(randomseed);
-
+            //Analyzer an = new Analyzer(randomseed);
+            DictionaryAnalyzer da = new DictionaryAnalyzer();
         }
     }
 }
