@@ -22,9 +22,9 @@ namespace GAKeyboard
             Dictionary myDictionary = new Dictionary(filePath, hasRank, suggestionCriteriaNumber);
             var crossoverRate = 0.85;
             var mutationRate = 0.75;
-            var numberOfGenerations = 50;
-            var populationSize = 500;
-            var elitismSize = 5;
+            var numberOfGenerations = 200;
+            var populationSize = 50;
+            var elitismSize = 4;
             GA myGA = new GA(crossoverRate, mutationRate, numberOfGenerations, populationSize, elitismSize, myDictionary, _randomseed);
             //Exporter.exportData(myGA.bestPerGeneration);
             //Exporter.saveAleles(myGA.finalPopulation, "layouts.txt");
