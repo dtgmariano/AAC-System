@@ -1,0 +1,55 @@
+[ABC6x5]
+6
+a	b	c	d	e
+f	g	h	i	j
+k	l	m	n	o
+p	q	r	s	t
+u	v	x	w
+y	z	-
+[ABC3x10]
+3
+a	b	c	d	e	f	g	h	i
+j	k	l	m	n	o	p	q	r
+s	t	u	v	x	w	y	z	-
+[QWERT3x10]
+3
+q	w	e	r	t	y	u	i	o	p
+a	s	d	f	g	h	j	k	l
+z	x	c	v	b	n	m	-
+[EAROIC6x5]
+6
+e	a	o	s	m
+r	i	n	d	v
+c	p	l	b	h
+t	u	g	j	k
+f	q	z	y
+x	-	w
+[EAROIC3x10]
+3
+e	a	o	s	t	l	v	q	j	k
+r	i	n	m	u	b	x	z	y
+c	p	d	f	g	h	-	w
+[AG1]
+6
+o	a	i	r	d
+s	t	p	m	c
+e	u	n	v	l
+h	q	g	j	k
+f	x	y	b
+w	-	z
+[AG2]
+6
+e	a	c	s	d
+p	m	i	r	n
+o	q	u	l	t
+b	g	f	v	y
+j	x	z	h
+-	w	k
+[AG3]
+6
+r	o	m	s	c
+a	i	p	d	n
+e	t	v	l	u
+y	q	b	f	w
+x	j	z	g
+-	k	h

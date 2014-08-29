@@ -16,6 +16,7 @@ namespace GAKeyboard.GeneticAlgorithm
                                                                 4, 5, 6, 7, 8, 
                                                                 5, 6, 7, 8, 9, 
                                                                 6, 7, 8, 9, 10 };
+        public Dictionary<string, double> TableOfKeys;
 
         public Dictionary<Word, double> TableOfEffortToWriteADictionary;
         public double fitness;

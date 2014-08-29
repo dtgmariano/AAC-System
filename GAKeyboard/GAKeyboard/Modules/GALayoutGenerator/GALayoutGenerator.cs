@@ -9,24 +9,22 @@ using System.IO;
 
 namespace GAKeyboard
 {
-    public class Analyzer
+    public class GALayoutGenerator
     {
-        static string filePath = "C:\\Users\\Daniel\\GitHub\\AAC-System\\GAKeyboard\\GAKeyboard\\Data\\word_rank_abrev_all.txt";
-        //static string filePath = "C:\\Users\\Biolab\\GitHub\\AAC-System\\GAKeyboard\\GAKeyboard\\Data\\word_rank_abrev_all.txt";
         static bool hasRank = true;
         static int suggestionCriteriaNumber = 4;
 
 
-        public Analyzer(Random _randomseed)
+        public GALayoutGenerator(Random _randomseed, string _filePath)
         {
-            Dictionary myDictionary = new Dictionary(filePath, hasRank, suggestionCriteriaNumber);
+            Dictionary myDictionary = new Dictionary(_filePath, hasRank, suggestionCriteriaNumber);
             var crossoverRate = 0.85;
             var mutationRate = 0.75;
-            var numberOfGenerations = 200;
+            var numberOfGenerations = 100;
             var populationSize = 50;
             var elitismSize = 4;
             GA myGA = new GA(crossoverRate, mutationRate, numberOfGenerations, populationSize, elitismSize, myDictionary, _randomseed);
-            //Exporter.exportData(myGA.bestPerGeneration);
+            Exporter.exportData(myGA.bestPerGeneration);
             //Exporter.saveAleles(myGA.finalPopulation, "layouts.txt");
         }
     }

@@ -29,7 +29,8 @@ namespace GAKeyboard.Language
                             String[] info = line.Split();
 
                             if (!lDictionary.Exists(x => x.content.Equals(info[1])))
-                                lDictionary.Add(new Word(info[1], Convert.ToInt32(info[0])));
+                                //Considera a abreviatura da palavra nesse caso a própria palavra
+                                lDictionary.Add(new Word(info[1], Convert.ToInt32(info[0]), info[1]));
                         }
                         break;
 
