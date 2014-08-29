@@ -16,13 +16,14 @@ namespace GAKeyboard
         {
             InitializeComponent();
             Random randomseed = new Random();
-            string KLfilePath = "C:\\Users\\Biolab\\GitHub\\AAC-System\\GAKeyboard\\GAKeyboard\\Data\\list_of_keyboards.txt";
-            string DfilePath = "C:\\Users\\Biolab\\GitHub\\AAC-System\\GAKeyboard\\GAKeyboard\\Data\\portuguese_dictionary_of_frequency.txt";
-            string Dinp4filePath = "C:\\Users\\Biolab\\GitHub\\AAC-System\\GAKeyboard\\GAKeyboard\\Data\\word_rank_abrev_all_wind4.txt";
+            string folder = "C:\\Users\\Daniel";
+            string KLfilePath = folder + "\\GitHub\\AAC-System\\GAKeyboard\\GAKeyboard\\Data\\list_of_keyboards.txt";
+            string DfilePath = folder + "\\GitHub\\AAC-System\\GAKeyboard\\GAKeyboard\\Data\\portuguese_dictionary_of_frequency.txt";
+            string Dinp4filePath = folder + "\\GitHub\\AAC-System\\GAKeyboard\\GAKeyboard\\Data\\word_rank_abrev_all_wind4.txt";
 
-            //GALayoutGenerator an = new GALayoutGenerator(randomseed, Dinp4filePath);
+            GALayoutGenerator an = new GALayoutGenerator(randomseed, Dinp4filePath);
             //DictionaryAnalyzer da = new DictionaryAnalyzer();
-            KeyboardAnalyzer ka = new KeyboardAnalyzer(KLfilePath, Dinp4filePath);
+            //KeyboardAnalyzer ka = new KeyboardAnalyzer(KLfilePath, Dinp4filePath);
             
         }
     }

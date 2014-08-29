@@ -20,7 +20,32 @@ namespace GAKeyboard
         {
             myDict = new Dictionary(_DictfilePath, true);
             listKeyboards = KeyboardStrategy.loadKeyboardList(_KLfilePath, myDict);
-            
+            string saveTo = "C:\\Users\\Daniel\\GitHub\\AAC-System\\GAKeyboard\\GAKeyboard\\Data\\Out\\KeyboardAnalyzer\\" + listKeyboards[0].name + "_windsize_4.txt";
+            writeKeyboardAnalysis(listKeyboards[0], saveTo);
+        }
+
+        public void writeKeyboardAnalysis(Keyboard.Keyboard keyboard, string outputFilePath)
+        {
+            var a = DateTime.Now.ToString();
+            try
+            {
+                using (StreamWriter writer = new StreamWriter(outputFilePath))
+                {
+                    writer.WriteLine(keyboard.name + "\t" + keyboard.fitness);
+
+                    foreach (KeyValuePair<string, double> kvp in keyboard.tableOfKeys)
+                        writer.WriteLine(kvp.Key + "\t" + kvp.Value);
+
+                    foreach (KeyValuePair<Word, double> kvp in keyboard.TableOfEffortToWriteADictionary)
+                        writer.WriteLine(kvp.Key.rank + "\t" + kvp.Key.content + "\t" + kvp.Key.prefix + "\t" + kvp.Value);
+
+                }
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+
         }
 
     }

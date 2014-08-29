@@ -10,7 +10,7 @@ namespace GAKeyboard.Keyboard
 {
     public class Keyboard
     {
-        string name;
+        public string name;
         List<List<string>> listOfKeys;
         public Dictionary<string, double> tableOfKeys;
         public Dictionary<Word, double> TableOfEffortToWriteADictionary;
@@ -21,7 +21,7 @@ namespace GAKeyboard.Keyboard
         {
             name = _name;
             listOfKeys = _listOfKeys;
-            tableOfKeys = KeyboardStrategy.extractTableOfKeysAndWeights(listOfKeys).OrderBy(x => x.Value).ToDictionary(p => p.Key, p => p.Value);
+            tableOfKeys = KeyboardStrategy.extractTableOfKeysAndWeights(listOfKeys).OrderBy(x => x.Key).ToDictionary(p => p.Key, p => p.Value);
             TableOfEffortToWriteADictionary = KeyboardStrategy.getTableOfEffortToWriteADictionary(this.tableOfKeys, _dict);
             fitness = KeyboardStrategy.getFitness(TableOfEffortToWriteADictionary);
         }

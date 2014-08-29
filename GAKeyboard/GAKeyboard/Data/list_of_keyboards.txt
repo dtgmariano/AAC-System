@@ -1,3 +1,13 @@
+[QWERT3x10]
+3
+q	w	e	r	t	y	u	i	o	p
+a	s	d	f	g	h	j	k	l
+z	x	c	v	b	n	m	-
+[ABC3x10]
+3
+a	b	c	d	e	f	g	h	i
+j	k	l	m	n	o	p	q	r
+s	t	u	v	x	w	y	z	-
 [ABC6x5]
 6
 a	b	c	d	e
@@ -6,16 +16,6 @@ k	l	m	n	o
 p	q	r	s	t
 u	v	x	w
 y	z	-
-[ABC3x10]
-3
-a	b	c	d	e	f	g	h	i
-j	k	l	m	n	o	p	q	r
-s	t	u	v	x	w	y	z	-
-[QWERT3x10]
-3
-q	w	e	r	t	y	u	i	o	p
-a	s	d	f	g	h	j	k	l
-z	x	c	v	b	n	m	-
 [EAROIC6x5]
 6
 e	a	o	s	m

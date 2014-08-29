@@ -24,7 +24,8 @@ namespace GAKeyboard
             var populationSize = 50;
             var elitismSize = 4;
             GA myGA = new GA(crossoverRate, mutationRate, numberOfGenerations, populationSize, elitismSize, myDictionary, _randomseed);
-            Exporter.exportData(myGA.bestPerGeneration);
+            //Exporter.exportData(myGA.bestPerGeneration);
+            Exporter.saveEvolutionPerGeneration(myGA.bestPerGeneration, "EvolutionPerGeneration.txt");
             //Exporter.saveAleles(myGA.finalPopulation, "layouts.txt");
         }
     }
@@ -98,6 +99,32 @@ namespace GAKeyboard
             catch (Exception ex)
             {
                 
+                throw ex;
+            }
+
+
+            return hasSuccess;
+        }
+
+        public static bool saveEvolutionPerGeneration(List<Chromossome> chromossomes, string outputFilePath)
+        {
+            bool hasSuccess = false;
+
+            try
+            {
+                using (StreamWriter writer = new StreamWriter(outputFilePath))
+                {
+                    foreach (Chromossome c in chromossomes)
+                    {
+                        writer.WriteLine(String.Join("", c.aleles.ToArray()) + "\t" + c.fitness);
+                    }
+
+                }
+                hasSuccess = true;
+            }
+            catch (Exception ex)
+            {
+
                 throw ex;
             }
 

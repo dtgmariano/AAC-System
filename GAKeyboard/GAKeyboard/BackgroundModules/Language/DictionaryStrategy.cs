@@ -49,5 +49,10 @@ namespace GAKeyboard.Language
 
             return lDictionary;
         }
+
+        public static void setAbrev(Dictionary _dict, int windowSize)
+        {
+            //return null;
+        }
     }
 }
