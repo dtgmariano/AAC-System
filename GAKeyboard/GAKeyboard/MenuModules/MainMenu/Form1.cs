@@ -7,7 +7,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.IO;
+
 using GAKeyboard.Modules;
+
 namespace GAKeyboard
 {
     public partial class Form1 : Form
@@ -16,14 +19,31 @@ namespace GAKeyboard
         {
             InitializeComponent();
             Random randomseed = new Random();
-            string folder = "C:\\Users\\Daniel";
-            string KLfilePath = folder + "\\GitHub\\AAC-System\\GAKeyboard\\GAKeyboard\\Data\\list_of_keyboards.txt";
-            string DfilePath = folder + "\\GitHub\\AAC-System\\GAKeyboard\\GAKeyboard\\Data\\portuguese_dictionary_of_frequency.txt";
-            string Dinp4filePath = folder + "\\GitHub\\AAC-System\\GAKeyboard\\GAKeyboard\\Data\\word_rank_abrev_all_wind4.txt";
 
-            GALayoutGenerator an = new GALayoutGenerator(randomseed, Dinp4filePath);
+            string currentDirectory = Environment.CurrentDirectory;
+
+            string fileLOK = "\\Load\\list_of_keyboards.txt";
+            string filePDF = "\\Load\\portuguese_dictionary_of_frequency.txt";
+            string filePDF4 = "\\Load\\word_rank_abrev_all_wind4.txt";
+
+            //string fullDirectory = directory.FullName;
+            //string fullFile = file.FullName;
+
+            //if (!fullFile.StartsWith(fullDirectory))
+            //{
+            //    Console.WriteLine("Unable to make relative path");
+            //}
+            //else
+            //{
+            //    // The +1 is to avoid the directory separator
+            //    Console.WriteLine("Relative path: {0}",
+            //                      fullFile.Substring(fullDirectory.Length + 1));
+            //}
+
+
+            //GALayoutGenerator an = new GALayoutGenerator(randomseed, Dinp4filePath);
             //DictionaryAnalyzer da = new DictionaryAnalyzer();
-            //KeyboardAnalyzer ka = new KeyboardAnalyzer(KLfilePath, Dinp4filePath);
+            KeyboardAnalyzer ka = new KeyboardAnalyzer(currentDirectory, fileLOK, filePDF);
             
         }
     }

@@ -16,11 +16,11 @@ namespace GAKeyboard
         Dictionary myDict;
         List<Keyboard.Keyboard> listKeyboards;
 
-        public KeyboardAnalyzer(string _KLfilePath, string _DictfilePath)
+        public KeyboardAnalyzer(string _currentDirectory, string _KLfilePath, string _DictfilePath)
         {
-            myDict = new Dictionary(_DictfilePath, true);
-            listKeyboards = KeyboardStrategy.loadKeyboardList(_KLfilePath, myDict);
-            string saveTo = "C:\\Users\\Daniel\\GitHub\\AAC-System\\GAKeyboard\\GAKeyboard\\Data\\Out\\KeyboardAnalyzer\\" + listKeyboards[0].name + "_windsize_4.txt";
+            myDict = new Dictionary((_currentDirectory + _DictfilePath), true);
+            listKeyboards = KeyboardStrategy.loadKeyboardList((_currentDirectory + _KLfilePath), myDict);
+            string saveTo = _currentDirectory + "\\KeyboardAnalyzer\\" + listKeyboards[0].name + "_windsize_4.txt";
             writeKeyboardAnalysis(listKeyboards[0], saveTo);
         }
 
