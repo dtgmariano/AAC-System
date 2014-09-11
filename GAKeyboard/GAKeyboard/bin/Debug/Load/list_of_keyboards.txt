@@ -3,11 +3,6 @@
 q	w	e	r	t	y	u	i	o	p
 a	s	d	f	g	h	j	k	l
 z	x	c	v	b	n	m	-
-[ABC3x10]
-3
-a	b	c	d	e	f	g	h	i
-j	k	l	m	n	o	p	q	r
-s	t	u	v	x	w	y	z	-
 [ABC6x5]
 6
 a	b	c	d	e
@@ -24,6 +19,11 @@ c	p	l	b	h
 t	u	g	j	k
 f	q	z	y
 x	-	w
+[ABC3x10]
+3
+a	b	c	d	e	f	g	h	i
+j	k	l	m	n	o	p	q	r
+s	t	u	v	x	w	y	z	-
 [EAROIC3x10]
 3
 e	a	o	s	t	l	v	q	j	k

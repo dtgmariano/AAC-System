@@ -20,11 +20,9 @@ namespace GAKeyboard
             InitializeComponent();
             Random randomseed = new Random();
 
-            string currentDirectory = Environment.CurrentDirectory;
-
-            string fileLOK = "\\Load\\list_of_keyboards.txt";
-            string filePDF = "\\Load\\portuguese_dictionary_of_frequency.txt";
-            string filePDF4 = "\\Load\\word_rank_abrev_all_wind4.txt";
+            string fileLOK = Environment.CurrentDirectory + "\\Load\\list_of_keyboards.txt";
+            string filePDF = Environment.CurrentDirectory + "\\Load\\portuguese_dictionary_of_frequency.txt";
+            string filePDF4 = Environment.CurrentDirectory + "\\Load\\word_rank_abrev_all_wind4.txt";
 
             //string fullDirectory = directory.FullName;
             //string fullFile = file.FullName;
@@ -43,7 +41,7 @@ namespace GAKeyboard
 
             //GALayoutGenerator an = new GALayoutGenerator(randomseed, Dinp4filePath);
             //DictionaryAnalyzer da = new DictionaryAnalyzer();
-            KeyboardAnalyzer ka = new KeyboardAnalyzer(currentDirectory, fileLOK, filePDF);
+            KeyboardAnalyzer ka = new KeyboardAnalyzer(fileLOK, filePDF4);
             
         }
     }
