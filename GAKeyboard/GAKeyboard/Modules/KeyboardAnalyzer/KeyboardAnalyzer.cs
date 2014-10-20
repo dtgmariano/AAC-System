@@ -18,10 +18,16 @@ namespace GAKeyboard
 
         public KeyboardAnalyzer(string _KLfilePath, string _DictfilePath)
         {
-            myDict = new Dictionary(_DictfilePath, true);
-            listKeyboards = KeyboardStrategy.loadKeyboardList(_KLfilePath, myDict);
-            string saveTo = "C:\\Users\\Daniel\\GitHub\\AAC-System\\GAKeyboard\\GAKeyboard\\Data\\Out\\KeyboardAnalyzer\\" + listKeyboards[0].name + "_windsize_4.txt";
-            writeKeyboardAnalysis(listKeyboards[0], saveTo);
+            myDict = new Dictionary((_DictfilePath), true);
+            listKeyboards = KeyboardStrategy.loadKeyboardList((_KLfilePath), myDict);
+            string currentDirectory = Environment.CurrentDirectory;
+            var a = DateTime.Now.ToString();
+            for(int i=0; i<3; i++)
+            {
+                string saveTo = currentDirectory + "\\KeyboardAnalyzer\\" + listKeyboards[i].name + "_windsize_4.txt";
+                writeKeyboardAnalysis(listKeyboards[i], saveTo);
+            }
+            
         }
 
         public void writeKeyboardAnalysis(Keyboard.Keyboard keyboard, string outputFilePath)
@@ -31,7 +37,8 @@ namespace GAKeyboard
             {
                 using (StreamWriter writer = new StreamWriter(outputFilePath))
                 {
-                    writer.WriteLine(keyboard.name + "\t" + keyboard.fitness);
+                    writer.WriteLine(DateTime.Now.ToString());
+                    writer.WriteLine("Keyboard Model\t" + keyboard.name + "\nFitness\t" + keyboard.fitness);
 
                     foreach (KeyValuePair<string, double> kvp in keyboard.tableOfKeys)
                         writer.WriteLine(kvp.Key + "\t" + kvp.Value);
